@@ -96,4 +96,10 @@ footer.site a{color:var(--ink-2)}
 @media (max-width:760px){.book{grid-template-columns:1fr;gap:28px}.book .cover{max-width:320px}
 nav.site a{margin-left:14px}.cta{grid-template-columns:1fr}.cta img{max-width:120px}
 .inline-book{grid-template-columns:84px minmax(0,1fr)}}
+.table-wrap{overflow-x:auto;margin:0 0 26px}
+.compare{border-collapse:collapse;width:100%;font-size:15px;line-height:1.45}
+.compare th,.compare td{border-bottom:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}
+.compare thead th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.compare tbody th{font-family:Georgia,serif;font-weight:600;min-width:170px}
+nav.crumbs a{color:var(--muted)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
