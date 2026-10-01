@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520" width="700" height="520" role="img">
+<title>Petal order for a 3-by-3 dot flower rangoli: work from the center out and add the petals in opposite pairs to keep the design balanced.</title>
+<desc>A 3-by-3 dot flower rangoli with eight petals numbered in drawing order: 1 top and 2 bottom, 3 left and 4 right, then 5 to 8 in the diagonal gaps, each added opposite its pair.</desc>
+<rect width="700" height="520" fill="#fbf8f2"/>
+<path d="M 225.0 241.1 C 200.2 206.3, 196.4 141.7, 225.0 141.7 C 253.6 141.7, 249.8 206.3, 225.0 241.1 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 241.9 248.1 C 256.4 194.5, 316.7 128.4, 339.1 150.9 C 361.6 173.3, 295.5 233.6, 241.9 248.1 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 248.9 265.0 C 283.7 240.2, 348.3 236.4, 348.3 265.0 C 348.3 293.6, 283.7 289.8, 248.9 265.0 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 241.9 281.9 C 295.5 296.4, 361.6 356.7, 339.1 379.1 C 316.7 401.6, 256.4 335.5, 241.9 281.9 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 225.0 288.9 C 249.8 323.7, 253.6 388.3, 225.0 388.3 C 196.4 388.3, 200.2 323.7, 225.0 288.9 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 208.1 281.9 C 193.6 335.5, 133.3 401.6, 110.9 379.1 C 88.4 356.7, 154.5 296.4, 208.1 281.9 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 201.1 265.0 C 166.3 289.8, 101.7 293.6, 101.7 265.0 C 101.7 236.4, 166.3 240.2, 201.1 265.0 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 208.1 248.1 C 154.5 233.6, 88.4 173.3, 110.9 150.9 C 133.3 128.4, 193.6 194.5, 208.1 248.1 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="225.0" cy="265.0" r="23.9" fill="none" stroke="#2b2620" stroke-width="3"/>
+<circle cx="133.0" cy="173.0" r="5" fill="#2b2620"/>
+<circle cx="133.0" cy="265.0" r="5" fill="#2b2620"/>
+<circle cx="133.0" cy="357.0" r="5" fill="#2b2620"/>
+<circle cx="225.0" cy="173.0" r="5" fill="#2b2620"/>
+<circle cx="225.0" cy="265.0" r="5" fill="#2b2620"/>
+<circle cx="225.0" cy="357.0" r="5" fill="#2b2620"/>
+<circle cx="317.0" cy="173.0" r="5" fill="#2b2620"/>
+<circle cx="317.0" cy="265.0" r="5" fill="#2b2620"/>
+<circle cx="317.0" cy="357.0" r="5" fill="#2b2620"/>
+<circle cx="225.0" cy="116.0" r="17" fill="#2b2620"/>
+<text x="225.0" y="123.0" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">1</text>
+<circle cx="357.3" cy="132.7" r="17" fill="#2b2620"/>
+<text x="357.3" y="139.7" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">5</text>
+<circle cx="374.0" cy="265.0" r="17" fill="#2b2620"/>
+<text x="374.0" y="272.0" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">4</text>
+<circle cx="357.3" cy="397.3" r="17" fill="#2b2620"/>
+<text x="357.3" y="404.3" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">8</text>
+<circle cx="225.0" cy="414.0" r="17" fill="#2b2620"/>
+<text x="225.0" y="421.0" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">2</text>
+<circle cx="92.7" cy="397.3" r="17" fill="#2b2620"/>
+<text x="92.7" y="404.3" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">6</text>
+<circle cx="76.0" cy="265.0" r="17" fill="#2b2620"/>
+<text x="76.0" y="272.0" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">3</text>
+<circle cx="92.7" cy="132.7" r="17" fill="#2b2620"/>
+<text x="92.7" y="139.7" text-anchor="middle" font-size="20" font-weight="bold" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif">7</text>
+<text x="450" y="180" font-size="28" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Petal order:</text>
+<text x="450" y="222" font-size="25" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">1, 2: top, bottom</text>
+<text x="450" y="264" font-size="25" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">3, 4: left, right</text>
+<text x="450" y="306" font-size="25" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">5 to 8: the gaps,</text>
+<text x="450" y="348" font-size="25" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">in opposite pairs</text>
+</svg>

@@ -75,6 +75,8 @@ grid-template-columns:110px minmax(0,1fr);gap:22px;align-items:center}
 .cta .buy:hover{background:#fff}
 figure.pic{margin:6px 0 24px;max-width:420px}
 figure.pic img{border:1px solid var(--line);border-radius:4px}
+figure.diagram{max-width:640px}
+figure.diagram img{width:100%;height:auto}
 figure.pic figcaption{font-size:14px;color:var(--muted);margin-top:8px}
 .crumbs{font-size:14px;color:var(--muted);padding-top:34px}
 .crumbs a{color:var(--muted)}

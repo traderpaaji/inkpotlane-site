@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 760" width="700" height="760" role="img">
+<title>An easy rangoli for kids in four steps: dots, a center circle, petals, then color.</title>
+<desc>Four panels. 1: nine dots in three rows of three. 2: a circle drawn around the middle dot. 3: eight curved petals added, each starting from the circle and looping around one of the eight outer dots. 4: the petals filled in orange and red with a yellow center.</desc>
+<rect width="700" height="760" fill="#fbf8f2"/>
+<rect x="8" y="8" width="334" height="364" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="97.0" cy="112.0" r="5" fill="#2b2620"/>
+<circle cx="97.0" cy="190.0" r="5" fill="#2b2620"/>
+<circle cx="97.0" cy="268.0" r="5" fill="#2b2620"/>
+<circle cx="175.0" cy="112.0" r="5" fill="#2b2620"/>
+<circle cx="175.0" cy="190.0" r="5" fill="#2b2620"/>
+<circle cx="175.0" cy="268.0" r="5" fill="#2b2620"/>
+<circle cx="253.0" cy="112.0" r="5" fill="#2b2620"/>
+<circle cx="253.0" cy="190.0" r="5" fill="#2b2620"/>
+<circle cx="253.0" cy="268.0" r="5" fill="#2b2620"/>
+<text x="175" y="350" text-anchor="middle" font-size="27" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">1. Nine dots, 3 by 3</text>
+<rect x="358" y="8" width="334" height="364" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="525.0" cy="190.0" r="20.3" fill="none" stroke="#2b2620" stroke-width="3"/>
+<circle cx="447.0" cy="112.0" r="5" fill="#2b2620"/>
+<circle cx="447.0" cy="190.0" r="5" fill="#2b2620"/>
+<circle cx="447.0" cy="268.0" r="5" fill="#2b2620"/>
+<circle cx="525.0" cy="112.0" r="5" fill="#2b2620"/>
+<circle cx="525.0" cy="190.0" r="5" fill="#2b2620"/>
+<circle cx="525.0" cy="268.0" r="5" fill="#2b2620"/>
+<circle cx="603.0" cy="112.0" r="5" fill="#2b2620"/>
+<circle cx="603.0" cy="190.0" r="5" fill="#2b2620"/>
+<circle cx="603.0" cy="268.0" r="5" fill="#2b2620"/>
+<text x="525" y="350" text-anchor="middle" font-size="27" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">2. A circle in the middle</text>
+<rect x="8" y="388" width="334" height="364" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<path d="M 175.0 549.7 C 153.9 520.2, 150.8 465.5, 175.0 465.5 C 199.2 465.5, 196.1 520.2, 175.0 549.7 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 189.3 555.7 C 201.6 510.3, 252.7 454.2, 271.8 473.2 C 290.8 492.3, 234.7 543.4, 189.3 555.7 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 195.3 570.0 C 224.8 548.9, 279.5 545.8, 279.5 570.0 C 279.5 594.2, 224.8 591.1, 195.3 570.0 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 189.3 584.3 C 234.7 596.6, 290.8 647.7, 271.8 666.8 C 252.7 685.8, 201.6 629.7, 189.3 584.3 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 175.0 590.3 C 196.1 619.8, 199.2 674.5, 175.0 674.5 C 150.8 674.5, 153.9 619.8, 175.0 590.3 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 160.7 584.3 C 148.4 629.7, 97.3 685.8, 78.2 666.8 C 59.2 647.7, 115.3 596.6, 160.7 584.3 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 154.7 570.0 C 125.2 591.1, 70.5 594.2, 70.5 570.0 C 70.5 545.8, 125.2 548.9, 154.7 570.0 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 160.7 555.7 C 115.3 543.4, 59.2 492.3, 78.2 473.2 C 97.3 454.2, 148.4 510.3, 160.7 555.7 Z" fill="none" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="175.0" cy="570.0" r="20.3" fill="none" stroke="#2b2620" stroke-width="3"/>
+<circle cx="97.0" cy="492.0" r="5" fill="#2b2620"/>
+<circle cx="97.0" cy="570.0" r="5" fill="#2b2620"/>
+<circle cx="97.0" cy="648.0" r="5" fill="#2b2620"/>
+<circle cx="175.0" cy="492.0" r="5" fill="#2b2620"/>
+<circle cx="175.0" cy="570.0" r="5" fill="#2b2620"/>
+<circle cx="175.0" cy="648.0" r="5" fill="#2b2620"/>
+<circle cx="253.0" cy="492.0" r="5" fill="#2b2620"/>
+<circle cx="253.0" cy="570.0" r="5" fill="#2b2620"/>
+<circle cx="253.0" cy="648.0" r="5" fill="#2b2620"/>
+<text x="175" y="730" text-anchor="middle" font-size="27" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">3. Loop each outer dot</text>
+<rect x="358" y="388" width="334" height="364" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<path d="M 525.0 549.7 C 503.9 520.2, 500.8 465.5, 525.0 465.5 C 549.2 465.5, 546.1 520.2, 525.0 549.7 Z" fill="#f2a03d" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 539.3 555.7 C 551.6 510.3, 602.7 454.2, 621.8 473.2 C 640.8 492.3, 584.7 543.4, 539.3 555.7 Z" fill="#b8323a" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 545.3 570.0 C 574.8 548.9, 629.5 545.8, 629.5 570.0 C 629.5 594.2, 574.8 591.1, 545.3 570.0 Z" fill="#f2a03d" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 539.3 584.3 C 584.7 596.6, 640.8 647.7, 621.8 666.8 C 602.7 685.8, 551.6 629.7, 539.3 584.3 Z" fill="#b8323a" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 525.0 590.3 C 546.1 619.8, 549.2 674.5, 525.0 674.5 C 500.8 674.5, 503.9 619.8, 525.0 590.3 Z" fill="#f2a03d" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 510.7 584.3 C 498.4 629.7, 447.3 685.8, 428.2 666.8 C 409.2 647.7, 465.3 596.6, 510.7 584.3 Z" fill="#b8323a" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 504.7 570.0 C 475.2 591.1, 420.5 594.2, 420.5 570.0 C 420.5 545.8, 475.2 548.9, 504.7 570.0 Z" fill="#f2a03d" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 510.7 555.7 C 465.3 543.4, 409.2 492.3, 428.2 473.2 C 447.3 454.2, 498.4 510.3, 510.7 555.7 Z" fill="#b8323a" stroke="#2b2620" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="525.0" cy="570.0" r="20.3" fill="#f6d64a" stroke="#2b2620" stroke-width="3"/>
+<circle cx="447.0" cy="492.0" r="5" fill="#ffffff"/>
+<circle cx="447.0" cy="570.0" r="5" fill="#ffffff"/>
+<circle cx="447.0" cy="648.0" r="5" fill="#ffffff"/>
+<circle cx="525.0" cy="492.0" r="5" fill="#ffffff"/>
+<circle cx="525.0" cy="570.0" r="5" fill="#2b2620"/>
+<circle cx="525.0" cy="648.0" r="5" fill="#ffffff"/>
+<circle cx="603.0" cy="492.0" r="5" fill="#ffffff"/>
+<circle cx="603.0" cy="570.0" r="5" fill="#ffffff"/>
+<circle cx="603.0" cy="648.0" r="5" fill="#ffffff"/>
+<text x="525" y="730" text-anchor="middle" font-size="27" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">4. Color it in</text>
+</svg>
