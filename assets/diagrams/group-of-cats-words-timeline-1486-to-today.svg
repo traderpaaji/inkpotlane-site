@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" width="700" height="560" role="img">
+<title>What a group of cats is called, in time: a kindle of young cats in the 1486 Book of Saint Albans, clowder recorded from 1801, and clowder defined as a group of cats today.</title>
+<desc>A vertical timeline with three points. 1486, Book of Saint Albans: “a Kyndyll of yong Cattis”, a kindle of young cats, meaning kittens; no word for grown cats, and no clowder. 1801: Wiktionary records the spelling clowder from 1801. Today: Merriam-Webster defines clowder as “a group of cats”, with the word history “probably variant of clutter”.</desc>
+<rect width="700" height="560" fill="#fbf8f2"/>
+<line x1="150" y1="40" x2="150" y2="520" stroke="#d9d1c3" stroke-width="6" stroke-linecap="round"/>
+<circle cx="150" cy="72" r="14" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="120" y="82" text-anchor="end" font-size="30" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">1486</text>
+<text x="186" y="82" text-anchor="start" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Book of Saint Albans</text>
+<text x="186" y="118" text-anchor="start" font-size="23" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-style="italic">“a Kyndyll of yong Cattis”</text>
+<text x="186" y="154" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">a kindle of young cats: kittens</text>
+<text x="186" y="190" text-anchor="start" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">no word for grown cats, and no clowder</text>
+<circle cx="150" cy="272" r="14" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="120" y="282" text-anchor="end" font-size="30" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">1801</text>
+<text x="186" y="282" text-anchor="start" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Clowder on record</text>
+<text x="186" y="318" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Wiktionary records the spelling</text>
+<text x="186" y="354" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">clowder from 1801</text>
+<circle cx="150" cy="422" r="14" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="120" y="432" text-anchor="end" font-size="30" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Today</text>
+<text x="186" y="432" text-anchor="start" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Merriam-Webster: clowder</text>
+<text x="186" y="468" text-anchor="start" font-size="23" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-style="italic">“a group of cats”</text>
+<text x="186" y="504" text-anchor="start" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">word history: “probably variant of clutter”</text>
+</svg>

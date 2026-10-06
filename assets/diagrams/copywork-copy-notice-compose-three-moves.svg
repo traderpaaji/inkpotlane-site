@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 573" width="700" height="573" role="img">
+<title>What is copywork: the first of three moves, copy a good sentence exactly, notice how it works, then write your own in a similar shape.</title>
+<desc>Three numbered cards joined by arrows. 1 Copy, marked this is copywork: copy a good sentence by hand, slowly and exactly, for example Well begun is half done. 2 Notice, marked where it can lead: notice how it works, such as a comma that makes you pause or a strong verb. 3 Compose: write something of your own in a similar shape, such as a line of good advice, like a proverb of your own.</desc>
+<rect width="700" height="573" fill="#fbf8f2"/>
+<text x="350.0" y="50.0" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Copywork is the first of three moves</text>
+<rect x="28.0" y="84.0" width="644.0" height="129.2" rx="10" fill="#f3ede2" stroke="#b8323a" stroke-width="3"/>
+<circle cx="68.0" cy="148.6" r="22" fill="#b8323a"/><text x="68.0" y="157.2" font-size="24" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="110.0" y="124.0" font-size="26" fill="#b8323a" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">COPY</text>
+<text x="110.0" y="158.0" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Copy a good sentence by hand, slowly and exactly.</text>
+<text x="110.0" y="191.9" font-size="21" fill="#6b6358" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Well begun is half done.</text>
+<rect x="28.0" y="253.2" width="644.0" height="129.2" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="68.0" cy="317.8" r="22" fill="#2b2620"/><text x="68.0" y="326.4" font-size="24" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="110.0" y="293.2" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">NOTICE</text>
+<text x="110.0" y="327.2" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Notice how it works.</text>
+<text x="110.0" y="361.1" font-size="21" fill="#6b6358" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">A comma that makes you pause. A strong verb.</text>
+<rect x="28.0" y="422.4" width="644.0" height="129.2" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="68.0" cy="487.0" r="22" fill="#2b2620"/><text x="68.0" y="495.6" font-size="24" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="110.0" y="462.4" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">COMPOSE</text>
+<text x="110.0" y="496.4" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Write something of your own in a similar shape.</text>
+<text x="110.0" y="530.3" font-size="21" fill="#6b6358" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">A line of good advice, like a proverb of your own.</text>
+<line x1="350.0" y1="217.2" x2="350.0" y2="240.2" stroke="#6b6358" stroke-width="3"/><path d="M 342.0 238.2 L 358.0 238.2 L 350.0 249.2 Z" fill="#6b6358"/>
+<line x1="350.0" y1="386.4" x2="350.0" y2="409.4" stroke="#6b6358" stroke-width="3"/><path d="M 342.0 407.4 L 358.0 407.4 L 350.0 418.4 Z" fill="#6b6358"/>
+<text x="654.0" y="124.0" font-size="21" fill="#b8323a" text-anchor="end" font-style="italic" font-family="Georgia, 'Times New Roman', serif">this is copywork</text>
+<text x="654.0" y="293.2" font-size="21" fill="#6b6358" text-anchor="end" font-style="italic" font-family="Georgia, 'Times New Roman', serif">where it can lead</text>
+</svg>

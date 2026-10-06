@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 724" width="700" height="724" role="img">
+<title>Bleeding, ghosting and feathering are three different marker-on-paper effects: bleeding passes through the sheet, ghosting shows through from the reverse, and feathering spreads sideways along the fibers.</title>
+<desc>Three panels. Bleeding: ink soaks through the sheet and can mark the page underneath. Ghosting: color remains in the sheet but is visible from the reverse side. Feathering: ink spreads sideways along paper fibers, making edges look fuzzy. A note says the result depends on both the paper and how much ink is applied.</desc>
+<rect width="700" height="724" fill="#fbf8f2"/>
+<rect x="16" y="16" width="668" height="222" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="151" y="56" font-size="20" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">side view</text>
+<rect x="36" y="86" width="230" height="40" fill="#f3ede2" stroke="#2b2620" stroke-width="2"/>
+<rect x="36" y="156" width="230" height="14" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="151" y="200" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">the next sheet</text>
+<rect x="106" y="72" width="90" height="16" rx="3" fill="#b8323a"/>
+<rect x="114" y="86" width="74" height="40" fill="#b8323a"/>
+<ellipse cx="151" cy="156" rx="52" ry="7" fill="#b8323a"/>
+<text x="296" y="66" font-size="28" fill="#b8323a" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Bleeding</text>
+<text x="296" y="104" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Ink soaks right through the</text>
+<text x="296" y="133" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">paper and marks whatever is</text>
+<text x="296" y="162" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">underneath.</text>
+<text x="296" y="199" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Spoils the next picture.</text>
+<rect x="16" y="252" width="668" height="222" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="151" y="292" font-size="20" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">side view</text>
+<rect x="36" y="322" width="230" height="40" fill="#f3ede2" stroke="#2b2620" stroke-width="2"/>
+<rect x="36" y="392" width="230" height="14" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="151" y="436" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">the next sheet</text>
+<rect x="106" y="308" width="90" height="16" rx="3" fill="#f2a03d"/>
+<rect x="114" y="322" width="74" height="24" fill="#f2a03d" opacity="0.75"/>
+<rect x="114" y="346" width="74" height="16" fill="#f2a03d" opacity="0.22"/>
+<text x="296" y="302" font-size="28" fill="#a35f0c" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Ghosting</text>
+<text x="296" y="340" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A faint shadow shows from the</text>
+<text x="296" y="369" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">back, but no ink has come</text>
+<text x="296" y="398" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">through.</text>
+<text x="296" y="435" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Mostly cosmetic.</text>
+<rect x="16" y="488" width="668" height="222" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="151" y="528" font-size="20" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">front view</text>
+<polygon points="215.0,606.0 198.8,610.2 210.1,616.4 201.2,619.5 207.4,626.5 194.5,626.3 206.4,638.0 190.3,633.5 197.0,644.6 187.8,642.8 189.6,652.0 178.5,645.3 183.0,661.4 171.3,649.5 171.5,662.4 164.5,656.2 161.4,665.1 155.2,653.8 151.0,670.0 146.8,653.8 140.6,665.1 137.5,656.2 130.5,662.4 130.7,649.5 119.0,661.4 123.5,645.3 112.4,652.0 114.2,642.8 105.0,644.6 111.7,633.5 95.6,638.0 107.5,626.3 94.6,626.5 100.8,619.5 91.9,616.4 103.2,610.2 87.0,606.0 103.2,601.8 91.9,595.6 100.8,592.5 94.6,585.5 107.5,585.7 95.6,574.0 111.7,578.5 105.0,567.4 114.2,569.2 112.4,560.0 123.5,566.7 119.0,550.6 130.7,562.5 130.5,549.6 137.5,555.8 140.6,546.9 146.8,558.2 151.0,542.0 155.2,558.2 161.4,546.9 164.5,555.8 171.5,549.6 171.3,562.5 183.0,550.6 178.5,566.7 189.6,560.0 187.8,569.2 197.0,567.4 190.3,578.5 206.4,574.0 194.5,585.7 207.4,585.5 201.2,592.5 210.1,595.6 198.8,601.8" fill="#6b6358" opacity="0.45"/>
+<circle cx="151" cy="606" r="46" fill="#6b6358"/>
+<text x="296" y="538" font-size="28" fill="#6b6358" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Feathering</text>
+<text x="296" y="576" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Ink spreads sideways along the</text>
+<text x="296" y="605" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">fibers, so crisp edges turn</text>
+<text x="296" y="634" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">fuzzy.</text>
+<text x="296" y="671" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">About the paper and how wet</text>
+<text x="296" y="699" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">the pen is.</text>
+</svg>

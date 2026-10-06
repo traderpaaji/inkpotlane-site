@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 590" width="700" height="590" role="img">
+<title>Dog breed name origins follow a few patterns: a breed is often named for a person or people, a place, the dog's work, or its look, and a few names are still disputed.</title>
+<desc>Four labelled boxes and a fifth across the bottom. A person or people: Doberman, Keeshond, Samoyed. A place: Chihuahua, Dalmatian, Pomeranian. The dog's work: Dachshund, Terrier, Poodle. A look or trait: Papillon, Schnauzer, Basset, Borzoi. Still disputed or uncertain: Corgi, Pug, Boxer.</desc>
+<rect width="700" height="590" fill="#fbf8f2"/>
+<rect x="14" y="14" width="328" height="210" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="14" y="14" width="328" height="52" rx="10" fill="#b8323a"/>
+<rect x="14" y="54" width="328" height="12" fill="#b8323a"/>
+<text x="178" y="50" text-anchor="middle" font-size="26" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A person or people</text>
+<text x="178" y="114" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Doberman</text>
+<text x="178" y="154" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Keeshond</text>
+<text x="178" y="194" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Samoyed</text>
+<rect x="358" y="14" width="328" height="210" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="358" y="14" width="328" height="52" rx="10" fill="#f2a03d"/>
+<rect x="358" y="54" width="328" height="12" fill="#f2a03d"/>
+<text x="522" y="50" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A place</text>
+<text x="522" y="114" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Chihuahua</text>
+<text x="522" y="154" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Dalmatian</text>
+<text x="522" y="194" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Pomeranian</text>
+<rect x="14" y="238" width="328" height="210" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="14" y="238" width="328" height="52" rx="10" fill="#f2a03d"/>
+<rect x="14" y="278" width="328" height="12" fill="#f2a03d"/>
+<text x="178" y="274" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">The dog's work</text>
+<text x="178" y="338" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Dachshund</text>
+<text x="178" y="378" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Terrier</text>
+<text x="178" y="418" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Poodle</text>
+<rect x="358" y="238" width="328" height="210" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="358" y="238" width="328" height="52" rx="10" fill="#b8323a"/>
+<rect x="358" y="278" width="328" height="12" fill="#b8323a"/>
+<text x="522" y="274" text-anchor="middle" font-size="26" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A look or trait</text>
+<text x="448" y="350" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Papillon</text>
+<text x="598" y="350" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Schnauzer</text>
+<text x="448" y="402" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Basset</text>
+<text x="598" y="402" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Borzoi</text>
+<rect x="14" y="462" width="672" height="114" rx="10" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="350" y="504" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Still disputed or uncertain</text>
+<text x="350" y="548" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Corgi  ·  Pug  ·  Boxer</text>
+</svg>

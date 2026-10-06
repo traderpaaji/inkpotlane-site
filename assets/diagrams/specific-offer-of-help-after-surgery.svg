@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 680" width="700" height="680" role="img">
+<title>A specific offer of help is a gift for someone recovering from surgery that is easier to say yes to than “let me know if you need anything”.</title>
+<desc>Two boxes joined by an arrow. The top box, labelled kind but it leaves them to do the asking, holds the words: let me know if you need anything. The lower box, labelled specific so it is easy to say yes to, holds three offers: I'll walk the dog on Tuesday and Thursday mornings; I'm going to the supermarket on Saturday, send me your list; I'll come by on Sunday and change the bed linen. Underneath: write the offer in a card, with the date.</desc>
+<rect width="700" height="680" fill="#fbf8f2"/>
+<rect x="30" y="24" width="640" height="150" rx="10" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="54" y="66" font-size="23" fill="#6b6358" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Kind, but it leaves them to do the asking</text>
+<text x="350" y="128" font-size="26" fill="#2b2620" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">“Let me know if you need anything.”</text>
+<line x1="350" y1="186" x2="350" y2="226" stroke="#2b2620" stroke-width="3"/><path d="M 350 236 L 342 224 L 358 224 Z" fill="#2b2620"/>
+<rect x="30" y="246" width="640" height="345" rx="10" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<text x="54" y="290" font-size="24" fill="#b8323a" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Specific, so it is easy to say yes to</text>
+<rect x="56" y="324" width="22" height="22" rx="3" fill="#f2a03d"/>
+<text x="96" y="342" font-size="24" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">“I'll walk the dog on Tuesday</text>
+<text x="96" y="374" font-size="24" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">and Thursday mornings.”</text>
+<rect x="56" y="420" width="22" height="22" rx="3" fill="#f2a03d"/>
+<text x="96" y="438" font-size="24" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">“I'm going to the supermarket on</text>
+<text x="96" y="470" font-size="24" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Saturday. Send me your list.”</text>
+<rect x="56" y="516" width="22" height="22" rx="3" fill="#f2a03d"/>
+<text x="96" y="534" font-size="24" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">“I'll come by on Sunday and</text>
+<text x="96" y="566" font-size="24" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">change the bed linen.”</text>
+<text x="350" y="642" font-size="25" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Write the offer in a card, with the date.</text>
+</svg>

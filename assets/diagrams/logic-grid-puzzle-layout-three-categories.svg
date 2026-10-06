@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" width="700" height="560" role="img">
+<title>How a logic grid puzzle is laid out: three categories of four things make three small grids of 16 squares, 48 in all, marked X for no and a tick for yes.</title>
+<desc>A blank logic grid for a puzzle about neighbors, pies and arrival times. Three small 4 by 4 grids share edges in an L shape: neighbors against pies at the top left, neighbors against arrival times at the top right, and arrival times against pies underneath. Notes beside it read: 3 categories of 4 things each, 3 small grids of 16 squares each, 48 squares in all. Each square asks whether this goes with that. A legend shows an X meaning no and a tick meaning yes.</desc>
+<rect width="700" height="560" fill="#fbf8f2"/>
+<text x="188.0" y="88.0" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Pies</text>
+<text x="372.0" y="88.0" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Arrival times</text>
+<text x="64.0" y="202.0" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" transform="rotate(-90 64 202.0)">Neighbors</text>
+<text x="64.0" y="386.0" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif" transform="rotate(-90 64 386.0)">Arrival times</text>
+<rect x="96.0" y="110.0" width="184.0" height="184.0" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="0"/>
+<line x1="142.0" y1="110.0" x2="142.0" y2="294.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="96.0" y1="156.0" x2="280.0" y2="156.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="188.0" y1="110.0" x2="188.0" y2="294.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="96.0" y1="202.0" x2="280.0" y2="202.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="234.0" y1="110.0" x2="234.0" y2="294.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="96.0" y1="248.0" x2="280.0" y2="248.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="96.0" y="110.0" width="184.0" height="184.0" rx="0" fill="none" stroke="#2b2620" stroke-width="3.5"/>
+<rect x="280.0" y="110.0" width="184.0" height="184.0" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="0"/>
+<line x1="326.0" y1="110.0" x2="326.0" y2="294.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="280.0" y1="156.0" x2="464.0" y2="156.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="372.0" y1="110.0" x2="372.0" y2="294.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="280.0" y1="202.0" x2="464.0" y2="202.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="418.0" y1="110.0" x2="418.0" y2="294.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="280.0" y1="248.0" x2="464.0" y2="248.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="280.0" y="110.0" width="184.0" height="184.0" rx="0" fill="none" stroke="#2b2620" stroke-width="3.5"/>
+<rect x="96.0" y="294.0" width="184.0" height="184.0" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="0"/>
+<line x1="142.0" y1="294.0" x2="142.0" y2="478.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="96.0" y1="340.0" x2="280.0" y2="340.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="188.0" y1="294.0" x2="188.0" y2="478.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="96.0" y1="386.0" x2="280.0" y2="386.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="234.0" y1="294.0" x2="234.0" y2="478.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="96.0" y1="432.0" x2="280.0" y2="432.0" stroke="#bfb5a5" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="96.0" y="294.0" width="184.0" height="184.0" rx="0" fill="none" stroke="#2b2620" stroke-width="3.5"/>
+<text x="490.0" y="116.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3 categories</text>
+<text x="490.0" y="148.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">of 4 things each</text>
+<text x="490.0" y="198.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3 small grids,</text>
+<text x="490.0" y="230.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">16 squares each</text>
+<text x="490.0" y="280.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">48 squares</text>
+<text x="490.0" y="312.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">in all</text>
+<text x="490.0" y="380.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Each square asks:</text>
+<text x="490.0" y="410.0" font-size="22" fill="#6b6358" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">does this go with that?</text>
+<rect x="490.0" y="436.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<line x1="499.0" y1="445.0" x2="521.0" y2="467.0" stroke="#6b6358" stroke-width="3" stroke-linecap="round"/><line x1="499.0" y1="467.0" x2="521.0" y2="445.0" stroke="#6b6358" stroke-width="3" stroke-linecap="round"/>
+<text x="544.0" y="464.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">X = no</text>
+<rect x="490.0" y="488.0" width="40.0" height="40.0" rx="0" fill="#fbecb0" stroke="#2b2620" stroke-width="2"/>
+<path d="M 498.0 508.0 L 506.4 517.0 L 522.0 498.4" fill="none" stroke="#2b2620" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="544.0" y="516.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">tick = yes</text>
+</svg>

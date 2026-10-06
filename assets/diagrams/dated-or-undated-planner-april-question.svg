@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700" role="img">
+<title>How to choose between a dated and an undated planner: ask what your last planner looked like in April, then match the signs to each kind.</title>
+<desc>At the top, the April question: what did my last planner look like in April? Below, two columns. Dated fits if: you start in January, and usually do; you want it ready, with no setup; your year runs on fixed dates such as school terms, bills and appointments. Undated fits if: you're buying after January has begun; you have a history of skipped weeks; your schedule shifts with night shifts, travel or exams; you'd rather start when you feel ready.</desc>
+<rect width="700" height="700" fill="#fbf8f2"/>
+<rect x="60.0" y="20.0" width="580.0" height="118.0" rx="14" fill="#f3ede2" stroke="#2b2620" stroke-width="3"/>
+<text x="350.0" y="62.0" text-anchor="middle" font-size="24" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Ask the April question:</text>
+<text x="350.0" y="100.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-style="italic">What did my last planner</text>
+<text x="350.0" y="130.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-style="italic">look like in April?</text>
+<rect x="25.0" y="170.0" width="310.0" height="510.0" rx="10" fill="#ffffff" stroke="#f2a03d" stroke-width="3"/>
+<rect x="25.0" y="170.0" width="310.0" height="56.0" rx="10" fill="#f2a03d" stroke="#f2a03d" stroke-width="1"/>
+<text x="180.0" y="207.0" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Dated fits if</text>
+<circle cx="51" cy="260" r="7" fill="#f2a03d"/>
+<text x="69.0" y="268.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">You start in January,</text>
+<text x="69.0" y="296.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">and usually do</text>
+<circle cx="51" cy="368" r="7" fill="#f2a03d"/>
+<text x="69.0" y="376.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">You want it ready,</text>
+<text x="69.0" y="404.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">with no setup</text>
+<circle cx="51" cy="476" r="7" fill="#f2a03d"/>
+<text x="69.0" y="484.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Your year runs on fixed</text>
+<text x="69.0" y="512.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">dates: school terms,</text>
+<text x="69.0" y="540.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">bills, appointments</text>
+<rect x="365.0" y="170.0" width="310.0" height="510.0" rx="10" fill="#ffffff" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="365.0" y="170.0" width="310.0" height="56.0" rx="10" fill="#4f7f7a" stroke="#4f7f7a" stroke-width="1"/>
+<text x="520.0" y="207.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Undated fits if</text>
+<circle cx="391" cy="260" r="7" fill="#4f7f7a"/>
+<text x="409.0" y="268.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">You're buying after</text>
+<text x="409.0" y="296.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">January has begun</text>
+<circle cx="391" cy="368" r="7" fill="#4f7f7a"/>
+<text x="409.0" y="376.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">You have a history</text>
+<text x="409.0" y="404.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">of skipped weeks</text>
+<circle cx="391" cy="476" r="7" fill="#4f7f7a"/>
+<text x="409.0" y="484.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Your schedule shifts</text>
+<text x="409.0" y="512.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">with night shifts,</text>
+<text x="409.0" y="540.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">travel or exams</text>
+<circle cx="391" cy="612" r="7" fill="#4f7f7a"/>
+<text x="409.0" y="620.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">You'd rather start</text>
+<text x="409.0" y="648.0" text-anchor="start" font-size="22" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">when you feel ready</text>
+</svg>

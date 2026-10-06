@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 496" width="700" height="496" role="img">
+<title>What makes easy cryptograms for beginners easy: free letters, the spaces left in, short common words and sometimes a saying you already know.</title>
+<desc>A banner reads: the same letter-swap rule at every level; easy puzzles add help around the code. Four numbered cards follow. 1, free letters: two or three printed for you, like N equals E. 2, spaces left in: the spaces between words and the punctuation stay. 3, short, common words: A or I; THE and AND. 4, a saying you know: half a saying can call up the rest from memory.</desc>
+<rect width="700" height="496" fill="#fbf8f2"/>
+<rect x="20.0" y="20.0" width="660.0" height="74.0" rx="10" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="350.0" y="52.0" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The same letter-swap rule at every level.</text>
+<text x="350.0" y="80.0" font-size="22" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Easy puzzles add help around the code:</text>
+<rect x="20.0" y="116.0" width="324.0" height="170.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="60" cy="162" r="20" fill="#f2a03d"/>
+<text x="60.0" y="170.0" font-size="22" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="92.0" y="170.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Free letters</text>
+<text x="48.0" y="220.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Two or three printed</text>
+<text x="48.0" y="254.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">for you, like N = E</text>
+<rect x="356.0" y="116.0" width="324.0" height="170.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="396" cy="162" r="20" fill="#f2a03d"/>
+<text x="396.0" y="170.0" font-size="22" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="428.0" y="170.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Spaces left in</text>
+<text x="384.0" y="220.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Spaces between words</text>
+<text x="384.0" y="254.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and punctuation stay</text>
+<rect x="20.0" y="304.0" width="324.0" height="170.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="60" cy="350" r="20" fill="#f2a03d"/>
+<text x="60.0" y="358.0" font-size="22" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="92.0" y="358.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Short, common words</text>
+<text x="48.0" y="408.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A or I; THE and AND</text>
+<rect x="356.0" y="304.0" width="324.0" height="170.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="396" cy="350" r="20" fill="#f2a03d"/>
+<text x="396.0" y="358.0" font-size="22" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="428.0" y="358.0" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A saying you know</text>
+<text x="384.0" y="408.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Half a saying can call</text>
+<text x="384.0" y="442.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">up the rest from memory</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" width="700" height="560" role="img">
+<title>Coloring for kids at a glance: it can give practice in hand control, sustained attention and making choices, but it should not be treated as a substitute for reading, math or open-ended drawing.</title>
+<desc>Two columns. Left, headed Coloring can practice, with check marks: hand control, sustained attention and room for choices. Right, headed Not a substitute for, with crosses: reading lessons, math lessons and open-ended drawing. A band below says: not coloring or drawing, but coloring and drawing, with talk in between.</desc>
+<rect width="700" height="560" fill="#fbf8f2"/>
+<rect x="16" y="16" width="326" height="400" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="358" y="16" width="326" height="400" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="16" y="16" width="326" height="66" rx="10" fill="#f2a03d"/>
+<rect x="358" y="16" width="326" height="66" rx="10" fill="#f3ede2"/>
+<text x="179" y="58" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Coloring can practice</text>
+<text x="521" y="58" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Not a substitute for</text>
+<circle cx="50" cy="132" r="15" fill="#f2a03d"/><path d="M 42 132 l 6 7 l 11 -13" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="140" font-size="24" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Hand control</text>
+<circle cx="50" cy="222" r="15" fill="#f2a03d"/><path d="M 42 222 l 6 7 l 11 -13" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="230" font-size="24" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Sustained attention</text>
+<circle cx="50" cy="312" r="15" fill="#f2a03d"/><path d="M 42 312 l 6 7 l 11 -13" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="320" font-size="24" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Room for choices</text>
+<circle cx="392" cy="132" r="15" fill="#6b6358"/><path d="M 386 126 l 12 12 M 398 126 l -12 12" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+<text x="422" y="140" font-size="26" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Reading lessons</text>
+<circle cx="392" cy="204" r="15" fill="#6b6358"/><path d="M 386 198 l 12 12 M 398 198 l -12 12" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+<text x="422" y="212" font-size="26" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Math lessons</text>
+<circle cx="392" cy="276" r="15" fill="#6b6358"/><path d="M 386 270 l 12 12 M 398 270 l -12 12" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+<text x="422" y="284" font-size="26" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Open-ended</text>
+<text x="422" y="318" font-size="26" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">drawing</text>
+<rect x="16" y="436" width="668" height="108" rx="10" fill="#2b2620"/>
+<text x="350" y="480" font-size="26" fill="#ffffff" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Not coloring or drawing:</text>
+<text x="350" y="520" font-size="26" fill="#f6d64a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">coloring and drawing, with talk in between</text>
+</svg>

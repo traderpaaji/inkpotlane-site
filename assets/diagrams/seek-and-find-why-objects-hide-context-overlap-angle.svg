@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" role="img">
+<title>Why objects are hard to find in a seek and find picture: context, overlap and angle, not tiny size.</title>
+<desc>Three panels, each with the hidden object ringed in orange. Context: a rolling pin lying among other long, pale, wooden shapes. Overlap: a teacup half behind a stack of books, with only its side and handle showing. Angle: a ladder lying on its side instead of standing upright. A line underneath reads: the object is not small, and it is not in disguise.</desc>
+<rect width="700" height="470" fill="#fbf8f2"/>
+<rect x="14" y="14" width="218" height="300" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="241" y="14" width="218" height="300" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="468" y="14" width="218" height="300" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="36" y="50" width="170" height="14" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="50" y="82" width="140" height="20" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="34" y="172" width="120" height="16" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="74" y="204" width="136" height="22" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="42" y="244" width="160" height="14" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="154" y="160" width="56" height="30" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="44" y="130" width="16" height="12" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/><rect x="58" y="124" width="132" height="24" rx="10" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/><rect x="188" y="130" width="16" height="12" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<ellipse cx="124" cy="136" rx="98" ry="30" fill="none" stroke="#f2a03d" stroke-width="4" stroke-dasharray="10 6"/>
+<path d="M 371 150 L 431 150 L 426 206 Q 401 216 376 206 Z" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<path d="M 429 160 C 451 158, 451 192, 426 192" fill="none" stroke="#2b2620" stroke-width="5"/>
+<rect x="261" y="222" width="150" height="30" rx="3" fill="#c9a27e" stroke="#2b2620" stroke-width="2"/>
+<line x1="271" y1="237.0" x2="401" y2="237.0" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+<rect x="267" y="192" width="128" height="30" rx="3" fill="#9fb0a3" stroke="#2b2620" stroke-width="2"/>
+<line x1="277" y1="207.0" x2="385" y2="207.0" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+<rect x="257" y="162" width="140" height="30" rx="3" fill="#d8b26a" stroke="#2b2620" stroke-width="2"/>
+<line x1="267" y1="177.0" x2="387" y2="177.0" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+<rect x="271" y="132" width="116" height="30" rx="3" fill="#b48a8e" stroke="#2b2620" stroke-width="2"/>
+<line x1="281" y1="147.0" x2="377" y2="147.0" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+<rect x="263" y="102" width="126" height="30" rx="3" fill="#a7a9c4" stroke="#2b2620" stroke-width="2"/>
+<line x1="273" y1="117.0" x2="379" y2="117.0" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+<line x1="253" y1="252" x2="447" y2="252" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<circle cx="413" cy="182" r="50" fill="none" stroke="#f2a03d" stroke-width="4" stroke-dasharray="10 6"/>
+<rect x="490" y="122" width="174" height="12" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="490" y="178" width="174" height="12" rx="4" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="502" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="526" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="550" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="574" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="598" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="622" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<rect x="646" y="134" width="8" height="44" rx="2" fill="#e8d6b4" stroke="#6b6358" stroke-width="2"/>
+<ellipse cx="577" cy="156" rx="104" ry="58" fill="none" stroke="#f2a03d" stroke-width="4" stroke-dasharray="10 6"/>
+<text x="123.0" y="290" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Context</text>
+<text x="123.0" y="360" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">among things that</text>
+<text x="123.0" y="390" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">look like they belong</text>
+<text x="350.0" y="290" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Overlap</text>
+<text x="350.0" y="360" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">half behind</text>
+<text x="350.0" y="390" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">something else</text>
+<text x="577.0" y="290" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Angle</text>
+<text x="577.0" y="360" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">turned sideways</text>
+<text x="577.0" y="390" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">or lying down</text>
+<text x="350" y="446" text-anchor="middle" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-style="italic">The object is not small, and it is not in disguise.</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 640" width="700" height="640" role="img">
+<title>What to record for each appliance in a home maintenance log book: make, model, serial number, install date, warranty end and who to call.</title>
+<desc>A single appliance entry with a yellow heading, one appliance, one entry, and six labelled blank lines: make, model, serial number, install date, warranty end, who to call. Below it: write it down once, the day it comes in, then do the same for the boiler, washing machine, dishwasher, oven and water heater.</desc>
+<rect width="700" height="640" fill="#fbf8f2"/>
+<rect x="40" y="24" width="620" height="470" rx="10" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<rect x="40" y="24" width="620" height="66" rx="10" fill="#f6d64a" stroke="#2b2620" stroke-width="3"/>
+<text x="350" y="68" font-size="27" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One appliance, one entry</text>
+<text x="72" y="146" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Make</text>
+<line x1="290" y1="152" x2="628" y2="152" stroke="#d9d1c3" stroke-width="2"/>
+<text x="72" y="206" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Model</text>
+<line x1="290" y1="212" x2="628" y2="212" stroke="#d9d1c3" stroke-width="2"/>
+<text x="72" y="266" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Serial number</text>
+<line x1="290" y1="272" x2="628" y2="272" stroke="#d9d1c3" stroke-width="2"/>
+<text x="72" y="326" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Install date</text>
+<line x1="290" y1="332" x2="628" y2="332" stroke="#d9d1c3" stroke-width="2"/>
+<text x="72" y="386" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Warranty end</text>
+<line x1="290" y1="392" x2="628" y2="392" stroke="#d9d1c3" stroke-width="2"/>
+<text x="72" y="446" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Who to call</text>
+<line x1="290" y1="452" x2="628" y2="452" stroke="#d9d1c3" stroke-width="2"/>
+<text x="350" y="548" font-size="25" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Write it down once, the day it comes in.</text>
+<text x="350" y="590" font-size="22" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Then do the same for the boiler, washing</text>
+<text x="350" y="620" font-size="22" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">machine, dishwasher, oven, water heater.</text>
+</svg>

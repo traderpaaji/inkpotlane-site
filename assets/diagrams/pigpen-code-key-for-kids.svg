@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" role="img">
+<title>A pigpen code key for kids: letters sit in two tic-tac-toe grids and two X shapes, and each letter is written as the lines around its space, with a dot for the second set.</title>
+<desc>A pigpen code key. Two tic-tac-toe grids: the first holds A to I, three to a row; the second holds J to R the same way, with a dot in every space. Two X shapes: the first holds S at the top, T on the left, U on the right and V at the bottom; the second holds W, X, Y and Z in the same places, each with a dot. Below, four letters drawn as their pens: A, from the top-left corner, as the lines on its right and bottom, like a backwards L; E, from the middle, as a full square; N, the middle of the second grid, as a square with a dot inside; and S, from the top of the X, as a V shape.</desc>
+<rect width="700" height="470" fill="#fbf8f2"/>
+<line x1="64" y1="34" x2="64" y2="184" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="114" y1="34" x2="114" y2="184" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="14" y1="84" x2="164" y2="84" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="14" y1="134" x2="164" y2="134" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="39.0" y="68.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A</text>
+<text x="89.0" y="68.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">B</text>
+<text x="139.0" y="68.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">C</text>
+<text x="39.0" y="118.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">D</text>
+<text x="89.0" y="118.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">E</text>
+<text x="139.0" y="118.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">F</text>
+<text x="39.0" y="168.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">G</text>
+<text x="89.0" y="168.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">H</text>
+<text x="139.0" y="168.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">I</text>
+<line x1="236" y1="34" x2="236" y2="184" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="286" y1="34" x2="286" y2="184" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="186" y1="84" x2="336" y2="84" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="186" y1="134" x2="336" y2="134" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="211.0" y="61.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">J</text>
+<circle cx="211.0" cy="74.0" r="4" fill="#2b2620"/>
+<text x="261.0" y="61.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">K</text>
+<circle cx="261.0" cy="74.0" r="4" fill="#2b2620"/>
+<text x="311.0" y="61.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">L</text>
+<circle cx="311.0" cy="74.0" r="4" fill="#2b2620"/>
+<text x="211.0" y="111.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">M</text>
+<circle cx="211.0" cy="124.0" r="4" fill="#2b2620"/>
+<text x="261.0" y="111.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">N</text>
+<circle cx="261.0" cy="124.0" r="4" fill="#2b2620"/>
+<text x="311.0" y="111.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">O</text>
+<circle cx="311.0" cy="124.0" r="4" fill="#2b2620"/>
+<text x="211.0" y="161.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">P</text>
+<circle cx="211.0" cy="174.0" r="4" fill="#2b2620"/>
+<text x="261.0" y="161.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Q</text>
+<circle cx="261.0" cy="174.0" r="4" fill="#2b2620"/>
+<text x="311.0" y="161.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">R</text>
+<circle cx="311.0" cy="174.0" r="4" fill="#2b2620"/>
+<line x1="370" y1="42" x2="504" y2="176" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="504" y1="42" x2="370" y2="176" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="437.0" y="74.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<text x="393.0" y="118.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<text x="481.0" y="118.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">U</text>
+<text x="437.0" y="162.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">V</text>
+<line x1="544" y1="42" x2="678" y2="176" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<line x1="678" y1="42" x2="544" y2="176" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="611.0" y="67.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">W</text>
+<circle cx="611.0" cy="80.0" r="4" fill="#2b2620"/>
+<text x="567.0" y="111.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">X</text>
+<circle cx="567.0" cy="124.0" r="4" fill="#2b2620"/>
+<text x="655.0" y="111.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Y</text>
+<circle cx="655.0" cy="124.0" r="4" fill="#2b2620"/>
+<text x="611.0" y="155.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Z</text>
+<circle cx="611.0" cy="168.0" r="4" fill="#2b2620"/>
+<line x1="30" y1="222" x2="670" y2="222" stroke="#d9d1c3" stroke-width="2" stroke-linecap="round"/>
+<text x="350" y="264" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Each letter is the lines around its space</text>
+<path d="M 127.0 292 L 127.0 356 L 63.0 356" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="95" y="400" text-anchor="middle" font-size="28" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A</text>
+<text x="95" y="436" text-anchor="middle" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">top-left corner</text>
+<rect x="233.0" y="292" width="64" height="64" fill="none" stroke="#2b2620" stroke-width="4"/>
+<text x="265" y="400" text-anchor="middle" font-size="28" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">E</text>
+<text x="265" y="436" text-anchor="middle" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">middle</text>
+<rect x="403.0" y="292" width="64" height="64" fill="none" stroke="#2b2620" stroke-width="4"/>
+<circle cx="435" cy="324.0" r="6" fill="#2b2620"/>
+<text x="435" y="400" text-anchor="middle" font-size="28" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">N</text>
+<text x="435" y="436" text-anchor="middle" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">middle, with dot</text>
+<path d="M 573.0 300 L 605 356 L 637.0 300" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="605" y="400" text-anchor="middle" font-size="28" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<text x="605" y="436" text-anchor="middle" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">top of the X</text>
+</svg>

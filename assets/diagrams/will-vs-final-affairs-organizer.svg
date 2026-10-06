@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 550" width="700" height="550" role="img">
+<title>A will and a final affairs organizer do different jobs: a will sets out legal wishes for an estate, while an organizer records where practical information is kept and whom to contact.</title>
+<desc>Two columns compare a will with a final affairs organizer. Left, a will: a legal document that sets out wishes for an estate and must follow the signing rules where it is made. Right, a final affairs organizer: a practical record of where important information is kept and whom to contact. A note underneath says the organizer can sit alongside a will but does not replace it.</desc>
+<rect width="700" height="550" fill="#fbf8f2"/>
+<rect x="30" y="24" width="310" height="436" rx="10" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="185" y="68" font-size="23" fill="#6b6358" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A will says WHO</text>
+<line x1="50" y1="90" x2="320" y2="90" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="60" cy="126" r="6" fill="#6b6358"/>
+<text x="78" y="134" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A legal document</text>
+<circle cx="60" cy="182" r="6" fill="#6b6358"/>
+<text x="78" y="190" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Says who gets what</text>
+<circle cx="60" cy="238" r="6" fill="#6b6358"/>
+<text x="78" y="246" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Signed and witnessed,</text>
+<text x="78" y="276" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">under local rules</text>
+<circle cx="60" cy="324" r="6" fill="#6b6358"/>
+<text x="78" y="332" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Often sealed away</text>
+<text x="78" y="362" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">with a solicitor</text>
+<text x="78" y="392" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">or in a safe</text>
+<rect x="360" y="24" width="310" height="436" rx="10" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<text x="515" y="68" font-size="23" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">An organizer says WHERE</text>
+<line x1="380" y1="90" x2="650" y2="90" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="390" cy="126" r="6" fill="#b8323a"/>
+<text x="408" y="134" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Deliberately not legal</text>
+<circle cx="390" cy="182" r="6" fill="#b8323a"/>
+<text x="408" y="190" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Where things are,</text>
+<text x="408" y="220" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and whom to call</text>
+<circle cx="390" cy="268" r="6" fill="#b8323a"/>
+<text x="408" y="276" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Plain language,</text>
+<text x="408" y="306" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">in one place</text>
+<circle cx="390" cy="354" r="6" fill="#b8323a"/>
+<text x="408" y="362" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Kept safe and easy</text>
+<text x="408" y="392" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">to reach; one or two</text>
+<text x="408" y="422" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">trusted people know</text>
+<text x="350" y="512" font-size="25" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">It sits alongside the will, not instead of it.</text>
+</svg>

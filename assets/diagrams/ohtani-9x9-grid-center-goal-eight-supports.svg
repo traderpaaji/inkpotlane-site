@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 830" width="700" height="830" role="img">
+<title>The center of Ohtani's 9x9 goal grid: a goal of receiving first-round draft nominations from eight NPB teams, surrounded by his eight supporting goals.</title>
+<desc>A 3 by 3 block of squares. The middle square reads: Main goal: first-round nominations from 8 teams. The eight surrounding squares read: building his body, control, sharpness, speed of 160 km/h, breaking balls, luck, character and mental strength. A note says each support then gets eight small actions, 64 in all.</desc>
+<rect width="700" height="830" fill="#fbf8f2"/>
+<text x="350.0" y="46.0" text-anchor="middle" font-size="27" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">The center block of Ohtani's 9x9 grid</text>
+<rect x="50.0" y="80.0" width="200.0" height="200.0" rx="0" fill="#f6d1d3" stroke="#2b2620" stroke-width="2"/>
+<text x="150.0" y="173.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Building</text>
+<text x="150.0" y="205.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">his body</text>
+<rect x="250.0" y="80.0" width="200.0" height="200.0" rx="0" fill="#fde3bd" stroke="#2b2620" stroke-width="2"/>
+<text x="350.0" y="189.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Control</text>
+<rect x="450.0" y="80.0" width="200.0" height="200.0" rx="0" fill="#fde3bd" stroke="#2b2620" stroke-width="2"/>
+<text x="550.0" y="189.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Sharpness</text>
+<rect x="450.0" y="280.0" width="200.0" height="200.0" rx="0" fill="#fde3bd" stroke="#2b2620" stroke-width="2"/>
+<text x="550.0" y="373.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Speed of</text>
+<text x="550.0" y="405.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">160 km/h</text>
+<rect x="450.0" y="480.0" width="200.0" height="200.0" rx="0" fill="#fde3bd" stroke="#2b2620" stroke-width="2"/>
+<text x="550.0" y="573.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Breaking</text>
+<text x="550.0" y="605.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">balls</text>
+<rect x="250.0" y="480.0" width="200.0" height="200.0" rx="0" fill="#e2ece9" stroke="#2b2620" stroke-width="2"/>
+<text x="350.0" y="589.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Luck</text>
+<rect x="50.0" y="480.0" width="200.0" height="200.0" rx="0" fill="#e2ece9" stroke="#2b2620" stroke-width="2"/>
+<text x="150.0" y="589.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Character</text>
+<rect x="50.0" y="280.0" width="200.0" height="200.0" rx="0" fill="#e2ece9" stroke="#2b2620" stroke-width="2"/>
+<text x="150.0" y="373.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Mental</text>
+<text x="150.0" y="405.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">strength</text>
+<rect x="250.0" y="280.0" width="200.0" height="200.0" rx="0" fill="#f6d64a" stroke="#2b2620" stroke-width="4"/>
+<text x="350.0" y="332.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">MAIN GOAL:</text>
+<text x="350.0" y="364.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">First-round</text>
+<text x="350.0" y="396.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">nominations</text>
+<text x="350.0" y="428.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">from 8 teams</text>
+<rect x="60.0" y="700.0" width="28.0" height="28.0" rx="3" fill="#fde3bd" stroke="#2b2620" stroke-width="2"/>
+<text x="100.0" y="722.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Pitching skill</text>
+<rect x="290.0" y="700.0" width="28.0" height="28.0" rx="3" fill="#f6d1d3" stroke="#2b2620" stroke-width="2"/>
+<text x="330.0" y="722.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">His body</text>
+<rect x="480.0" y="700.0" width="28.0" height="28.0" rx="3" fill="#e2ece9" stroke="#2b2620" stroke-width="2"/>
+<text x="520.0" y="722.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Not a skill</text>
+<text x="350.0" y="784.0" text-anchor="middle" font-size="23" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Each support then gets 8 small actions: 64 in all.</text>
+</svg>

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" role="img">
+<title>A shift cipher for kids with a shift of three: each letter of the message is written as the letter three places further along the alphabet.</title>
+<desc>Two alphabet strips, shown in two rows of thirteen letters. The top strip, labelled Code, reads D to Z and then A, B, C. The strip under it, labelled Plain, reads A to Z, so code D sits over plain A, E over B, and so on; the D over A pair is highlighted. Below, the plain message LOOK UNDER YOUR PILLOW is shown with its code, ORRN XQGHU BRXU SLOORZ.</desc>
+<rect width="700" height="470" fill="#fbf8f2"/>
+<text x="350" y="42" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Shift of three: slide the plain strip until its A sits under D</text>
+<text x="114" y="105" text-anchor="end" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Code</text>
+<text x="114" y="155" text-anchor="end" font-size="24" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Plain</text>
+<rect x="128" y="70" width="42" height="50" rx="0" fill="#f6d64a" stroke="#2b2620" stroke-width="2"/>
+<rect x="128" y="120" width="42" height="50" rx="0" fill="#f6d64a" stroke="#2b2620" stroke-width="2"/>
+<text x="149.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">D</text>
+<text x="149.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">A</text>
+<rect x="170" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="170" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="191.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">E</text>
+<text x="191.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">B</text>
+<rect x="212" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="212" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="233.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">F</text>
+<text x="233.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">C</text>
+<rect x="254" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="254" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="275.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">G</text>
+<text x="275.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">D</text>
+<rect x="296" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="296" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="317.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">H</text>
+<text x="317.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">E</text>
+<rect x="338" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="338" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="359.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">I</text>
+<text x="359.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">F</text>
+<rect x="380" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="380" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="401.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">J</text>
+<text x="401.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">G</text>
+<rect x="422" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="422" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="443.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">K</text>
+<text x="443.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">H</text>
+<rect x="464" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="464" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="485.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">L</text>
+<text x="485.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">I</text>
+<rect x="506" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="506" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="527.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">M</text>
+<text x="527.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">J</text>
+<rect x="548" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="548" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="569.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">N</text>
+<text x="569.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">K</text>
+<rect x="590" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="590" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="611.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">O</text>
+<text x="611.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">L</text>
+<rect x="632" y="70" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="632" y="120" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="653.0" y="105" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">P</text>
+<text x="653.0" y="155" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">M</text>
+<text x="114" y="235" text-anchor="end" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Code</text>
+<text x="114" y="285" text-anchor="end" font-size="24" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Plain</text>
+<rect x="128" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="128" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="149.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Q</text>
+<text x="149.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">N</text>
+<rect x="170" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="170" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="191.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">R</text>
+<text x="191.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">O</text>
+<rect x="212" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="212" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="233.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<text x="233.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">P</text>
+<rect x="254" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="254" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="275.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<text x="275.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Q</text>
+<rect x="296" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="296" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="317.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">U</text>
+<text x="317.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">R</text>
+<rect x="338" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="338" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="359.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">V</text>
+<text x="359.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">S</text>
+<rect x="380" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="380" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="401.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">W</text>
+<text x="401.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">T</text>
+<rect x="422" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="422" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="443.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">X</text>
+<text x="443.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">U</text>
+<rect x="464" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="464" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="485.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Y</text>
+<text x="485.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">V</text>
+<rect x="506" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="506" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="527.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Z</text>
+<text x="527.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">W</text>
+<rect x="548" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="548" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="569.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A</text>
+<text x="569.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">X</text>
+<rect x="590" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="590" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="611.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">B</text>
+<text x="611.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Y</text>
+<rect x="632" y="200" width="42" height="50" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="632" y="250" width="42" height="50" rx="0" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<text x="653.0" y="235" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">C</text>
+<text x="653.0" y="285" text-anchor="middle" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Z</text>
+<line x1="30" y1="345" x2="670" y2="345" stroke="#d9d1c3" stroke-width="2" stroke-linecap="round"/>
+<text x="130" y="395" text-anchor="end" font-size="24" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Plain</text>
+<text x="150" y="395" text-anchor="start" font-size="26" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">LOOK UNDER YOUR PILLOW</text>
+<text x="130" y="445" text-anchor="end" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Code</text>
+<text x="150" y="445" text-anchor="start" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">ORRN XQGHU BRXU SLOORZ</text>
+</svg>

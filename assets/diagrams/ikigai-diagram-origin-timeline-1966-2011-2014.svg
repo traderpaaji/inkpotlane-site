@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 690" width="700" height="690" role="img">
+<title>Ikigai and the four-circle diagram: Mieko Kamiya's 1966 book in Japan, Andres Zuzunaga's purpose diagram drawn around 2011 and shared in 2012, and Marc Winn's 2014 blog post placing ikigai at the center.</title>
+<desc>A timeline with three stages. 1966: Mieko Kamiya publishes Ikigai ni Tsuite, a foundational work on ikigai, in Japan. 2011: the Spanish author Andres Zuzunaga draws four circles about purpose, shared online in 2012, without the word ikigai. 2014: Marc Winn puts ikigai in the center where purpose had been. A closing note says that in Japan ikigai can be something small: a morning walk, a grandchild, a garden.</desc>
+<rect width="700" height="690" fill="#fbf8f2"/>
+<text x="350.0" y="46.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Ikigai and the four circles: a timeline</text>
+<line x1="120" y1="110" x2="120" y2="500" stroke="#d9d1c3" stroke-width="4"/>
+<circle cx="120" cy="130" r="46" fill="#4f7f7a" stroke="#2b2620" stroke-width="3"/>
+<text x="120.0" y="139.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">1966</text>
+<rect x="190.0" y="80.0" width="480.0" height="150.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="212.0" y="114.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">In Japan</text>
+<text x="212.0" y="150.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Mieko Kamiya's book</text>
+<text x="212.0" y="180.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Ikigai ni Tsuite, a</text>
+<text x="212.0" y="210.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">foundational work on ikigai</text>
+<circle cx="120" cy="305" r="46" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="120.0" y="314.0" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">2011</text>
+<rect x="190.0" y="255.0" width="480.0" height="150.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="212.0" y="289.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A Spanish author</text>
+<text x="212.0" y="325.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Andrés Zuzunaga draws</text>
+<text x="212.0" y="355.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">four circles about purpose,</text>
+<text x="212.0" y="385.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">shared online in 2012</text>
+<circle cx="120" cy="480" r="46" fill="#b8323a" stroke="#2b2620" stroke-width="3"/>
+<text x="120.0" y="489.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">2014</text>
+<rect x="190.0" y="430.0" width="480.0" height="150.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="212.0" y="464.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">On a blog</text>
+<text x="212.0" y="500.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Marc Winn puts the word</text>
+<text x="212.0" y="530.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">ikigai in the middle, where</text>
+<text x="212.0" y="560.0" text-anchor="start" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">“purpose” had been</text>
+<text x="350.0" y="653.0" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-style="italic">In Japan, ikigai can be something small:</text>
+<text x="350.0" y="683.0" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-style="italic">a morning walk, a grandchild, a garden.</text>
+</svg>

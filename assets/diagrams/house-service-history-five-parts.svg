@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 688" width="700" height="688" role="img">
+<title>A home maintenance log book keeps your house's service history in five parts: systems, appliances, paint and finishes, repairs and improvements, and the people to call.</title>
+<desc>Five numbered rows. 1 Systems: roof, heating, water heater and wiring, and when each was serviced. 2 Appliances: make, model, serial number, install date, warranty and who to call. 3 Paint and finishes: brand, color and code for every room. 4 Repairs and improvements: what was done, when, by whom and what it cost. 5 The people: the plumber who turned up, the electrician and roofer you trust.</desc>
+<rect width="700" height="688" fill="#fbf8f2"/>
+<text x="350" y="52" font-size="27" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A house's service history, in five parts</text>
+<rect x="30" y="92" width="640" height="102" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="30" y="92" width="64" height="102" rx="10" fill="#f2a03d" stroke="#2b2620" stroke-width="2"/>
+<text x="62" y="154" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="114" y="128" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Systems</text>
+<text x="114" y="160" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Roof, heating, water heater, wiring:</text>
+<text x="114" y="186" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">when each was serviced</text>
+<rect x="30" y="210" width="640" height="102" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="30" y="210" width="64" height="102" rx="10" fill="#f6d64a" stroke="#2b2620" stroke-width="2"/>
+<text x="62" y="272" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="114" y="246" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Appliances</text>
+<text x="114" y="278" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Make, model, serial number, install</text>
+<text x="114" y="304" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">date, warranty and who to call</text>
+<rect x="30" y="328" width="640" height="102" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="30" y="328" width="64" height="102" rx="10" fill="#f2a03d" stroke="#2b2620" stroke-width="2"/>
+<text x="62" y="390" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="114" y="364" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Paint and finishes</text>
+<text x="114" y="396" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Brand, color and code for every room</text>
+<rect x="30" y="446" width="640" height="102" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="30" y="446" width="64" height="102" rx="10" fill="#f6d64a" stroke="#2b2620" stroke-width="2"/>
+<text x="62" y="508" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="114" y="482" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Repairs and improvements</text>
+<text x="114" y="514" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">What was done, when, by whom</text>
+<text x="114" y="540" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and what it cost</text>
+<rect x="30" y="564" width="640" height="102" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="30" y="564" width="64" height="102" rx="10" fill="#f2a03d" stroke="#2b2620" stroke-width="2"/>
+<text x="62" y="626" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">5</text>
+<text x="114" y="600" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The people</text>
+<text x="114" y="632" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The plumber who turned up, the</text>
+<text x="114" y="658" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">electrician and roofer you trust</text>
+</svg>

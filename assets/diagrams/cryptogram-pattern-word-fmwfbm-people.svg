@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" width="700" height="500" role="img">
+<title>A cryptogram pattern word: the code word FMWFBM repeats its first letter in fourth place and its second in sixth, the same shape as PEOPLE.</title>
+<desc>The code word F M W F B M in six numbered boxes, with PEOPLE written in boxes underneath. A red arc joins the two F's in places 1 and 4, which match the two P's of PEOPLE, and an orange arc joins the two M's in places 2 and 6, which match its two E's. The caption under it reads: 1st letter equals 4th letter, 2nd letter equals 6th letter; a rare shape for a six-letter word, and PEOPLE fits it.</desc>
+<rect width="700" height="500" fill="#fbf8f2"/>
+<text x="30.0" y="50.0" font-size="22" fill="#6b6358" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Code word</text>
+<rect x="68.0" y="128.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#b8323a" stroke-width="3"/>
+<text x="110.0" y="190.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">F</text>
+<text x="110.0" y="242.0" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">1</text>
+<rect x="68.0" y="298.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#b8323a" stroke-width="3"/>
+<text x="110.0" y="360.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">P</text>
+<rect x="164.0" y="128.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#f2a03d" stroke-width="3"/>
+<text x="206.0" y="190.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">M</text>
+<text x="206.0" y="242.0" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">2</text>
+<rect x="164.0" y="298.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#f2a03d" stroke-width="3"/>
+<text x="206.0" y="360.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">E</text>
+<rect x="260.0" y="128.0" width="84.0" height="84.0" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="302.0" y="190.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">W</text>
+<text x="302.0" y="242.0" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">3</text>
+<rect x="260.0" y="298.0" width="84.0" height="84.0" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="302.0" y="360.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">O</text>
+<rect x="356.0" y="128.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#b8323a" stroke-width="3"/>
+<text x="398.0" y="190.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">F</text>
+<text x="398.0" y="242.0" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">4</text>
+<rect x="356.0" y="298.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#b8323a" stroke-width="3"/>
+<text x="398.0" y="360.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">P</text>
+<rect x="452.0" y="128.0" width="84.0" height="84.0" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="494.0" y="190.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">B</text>
+<text x="494.0" y="242.0" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">5</text>
+<rect x="452.0" y="298.0" width="84.0" height="84.0" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="494.0" y="360.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">L</text>
+<rect x="548.0" y="128.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#f2a03d" stroke-width="3"/>
+<text x="590.0" y="190.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">M</text>
+<text x="590.0" y="242.0" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">6</text>
+<rect x="548.0" y="298.0" width="84.0" height="84.0" rx="8" fill="#fbecb0" stroke="#f2a03d" stroke-width="3"/>
+<text x="590.0" y="360.0" font-size="50" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">E</text>
+<path d="M 110.0 124.0 C 110.0 60.0, 398.0 60.0, 398.0 124.0" fill="none" stroke="#b8323a" stroke-width="4"/>
+<path d="M 206.0 124.0 C 206.0 24.0, 590.0 24.0, 590.0 124.0" fill="none" stroke="#f2a03d" stroke-width="4"/>
+<text x="30.0" y="282.0" font-size="22" fill="#6b6358" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Fits</text>
+<text x="350.0" y="448.0" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1st letter = 4th letter;  2nd letter = 6th letter</text>
+<text x="350.0" y="482.0" font-size="22" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">A rare shape for a six-letter word, and PEOPLE fits it.</text>
+</svg>

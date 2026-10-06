@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700" role="img">
+<title>The popular four-circle ikigai diagram: in 2014 Marc Winn put the word ikigai at the center of an earlier Western purpose diagram built around what you love, what you are good at, what the world needs and what you can be paid for.</title>
+<desc>Four overlapping circles arranged top, right, bottom and left. They are labeled what you love, what you can be paid for, what the world needs and what you are good at. The word ikigai sits in a small circle in the middle, where all four overlap.</desc>
+<rect width="700" height="700" fill="#fbf8f2"/>
+<circle cx="350" cy="232" r="168" fill="#f2a03d" fill-opacity="0.22" stroke="#2b2620" stroke-width="3"/>
+<circle cx="468" cy="350" r="168" fill="#4f7f7a" fill-opacity="0.22" stroke="#2b2620" stroke-width="3"/>
+<circle cx="350" cy="468" r="168" fill="#b8323a" fill-opacity="0.22" stroke="#2b2620" stroke-width="3"/>
+<circle cx="232" cy="350" r="168" fill="#f6d64a" fill-opacity="0.22" stroke="#2b2620" stroke-width="3"/>
+<text x="350.0" y="137.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">What you</text>
+<text x="350.0" y="166.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">love</text>
+<text x="560.0" y="334.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">What you</text>
+<text x="560.0" y="363.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">can be</text>
+<text x="560.0" y="392.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">paid for</text>
+<text x="350.0" y="546.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">What the</text>
+<text x="350.0" y="575.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">world needs</text>
+<text x="138.0" y="348.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">What you</text>
+<text x="138.0" y="377.0" text-anchor="middle" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">are good at</text>
+<circle cx="350" cy="350" r="44" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<text x="350.0" y="358.0" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-style="italic">ikigai</text>
+</svg>

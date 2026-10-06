@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 782" width="700" height="782" role="img">
+<title>Gifts for someone recovering from surgery, chosen by the hours of a slow day at home: the morning, the afternoon, the evening and the small hours.</title>
+<desc>A vertical timeline with four stops. The slow morning, comfort within reach: a long charging cable, a lap tray or side table, soft loose clothing. The long afternoon, something to pass the hours: an audiobook, a puzzle book, a simple craft they know, a stack of magazines. The evening, company: a planned call, a short visit, a meal they don't have to cook. The small hours, somewhere to put a thought: a notebook and pen by the bed, something quiet to do.</desc>
+<rect width="700" height="782" fill="#fbf8f2"/>
+<text x="350" y="52" font-size="27" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One slow day at home, part by part</text>
+<line x1="58" y1="110" x2="58" y2="634" stroke="#d9d1c3" stroke-width="4"/>
+<circle cx="58" cy="120" r="18" fill="#f6d64a" stroke="#2b2620" stroke-width="3"/>
+<text x="96" y="128" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The slow morning</text>
+<text x="96" y="162" font-size="23" fill="#b8323a" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Comfort within reach</text>
+<rect x="96" y="176" width="574" height="74" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="112" y="206" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A long charging cable, a lap tray</text>
+<text x="112" y="235" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">or side table, soft loose clothing</text>
+<circle cx="58" cy="288" r="18" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="96" y="296" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The long afternoon</text>
+<text x="96" y="330" font-size="23" fill="#b8323a" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Something to pass the hours</text>
+<rect x="96" y="344" width="574" height="74" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="112" y="374" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">An audiobook, a puzzle book, a simple</text>
+<text x="112" y="403" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">craft they know, a stack of magazines</text>
+<circle cx="58" cy="456" r="18" fill="#b8323a" stroke="#2b2620" stroke-width="3"/>
+<text x="96" y="464" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The evening</text>
+<text x="96" y="498" font-size="23" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Company</text>
+<rect x="96" y="512" width="574" height="74" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="112" y="542" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A planned call, a short visit,</text>
+<text x="112" y="571" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">a meal they don't have to cook</text>
+<circle cx="58" cy="624" r="18" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="96" y="632" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The small hours</text>
+<text x="96" y="666" font-size="23" fill="#b8323a" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Somewhere to put a thought</text>
+<rect x="96" y="680" width="574" height="74" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="112" y="710" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A notebook and pen by the bed,</text>
+<text x="112" y="739" font-size="22" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">something quiet to do</text>
+</svg>

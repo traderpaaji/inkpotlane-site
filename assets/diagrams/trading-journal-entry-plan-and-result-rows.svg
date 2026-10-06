@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 854" width="700" height="854" role="img">
+<title>What a trading journal entry records: a plan row written before the trade and a result row written after it.</title>
+<desc>Two stacked boxes, each a list of fields with a blank line beside every field. The PLAN row, before the trade: date and time, market and instrument, long or short, the setup by name, entry, stop and target, size and amount at risk (1R), why this trade, why now. The RESULT row, after the trade: exit price and time, fees, result in money and in R, rules kept yes or no, how you felt, mistake code if any, one lesson.</desc>
+<rect width="700" height="854" fill="#fbf8f2"/>
+<rect x="30" y="24" width="640" height="390" rx="10" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<rect x="30" y="24" width="640" height="60" rx="10" fill="#f6d64a" stroke="#2b2620" stroke-width="3"/>
+<text x="54" y="64" font-size="27" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">PLAN row</text>
+<text x="646" y="64" font-size="23" fill="#2b2620" text-anchor="end" font-style="italic" font-family="Georgia, 'Times New Roman', serif">before the trade</text>
+<rect x="56" y="112" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="128" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Date and time</text>
+<line x1="440" y1="132" x2="644" y2="132" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="154" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="170" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Market and instrument</text>
+<line x1="440" y1="174" x2="644" y2="174" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="196" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="212" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Long or short</text>
+<line x1="440" y1="216" x2="644" y2="216" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="238" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="254" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The setup, by name</text>
+<line x1="440" y1="258" x2="644" y2="258" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="280" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="296" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Entry, stop and target</text>
+<line x1="440" y1="300" x2="644" y2="300" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="322" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="338" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Size and amount at risk (1R)</text>
+<line x1="440" y1="342" x2="644" y2="342" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="364" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="380" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Why this trade, why now</text>
+<line x1="440" y1="384" x2="644" y2="384" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="30" y="444" width="640" height="390" rx="10" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<rect x="30" y="444" width="640" height="60" rx="10" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="54" y="484" font-size="27" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">RESULT row</text>
+<text x="646" y="484" font-size="23" fill="#2b2620" text-anchor="end" font-style="italic" font-family="Georgia, 'Times New Roman', serif">after the trade</text>
+<rect x="56" y="532" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="548" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Exit price and time</text>
+<line x1="440" y1="552" x2="644" y2="552" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="574" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="590" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Fees</text>
+<line x1="440" y1="594" x2="644" y2="594" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="616" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="632" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Result in money and in R</text>
+<line x1="440" y1="636" x2="644" y2="636" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="658" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="674" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Rules kept: yes or no</text>
+<line x1="440" y1="678" x2="644" y2="678" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="700" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="716" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">How you felt</text>
+<line x1="440" y1="720" x2="644" y2="720" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="742" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="758" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Mistake code, if any</text>
+<line x1="440" y1="762" x2="644" y2="762" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="56" y="784" width="18" height="18" rx="2" fill="none" stroke="#6b6358" stroke-width="2"/>
+<text x="90" y="800" font-size="23" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">One lesson</text>
+<line x1="440" y1="804" x2="644" y2="804" stroke="#d9d1c3" stroke-width="2"/>
+</svg>

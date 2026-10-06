@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 646" width="700" height="646" role="img">
+<title>How to solve cryptograms in six steps: one-letter words, THE, apostrophes, double letters and patterns, the no-self rule, and letter counts only when stuck.</title>
+<desc>Six numbered boxes in a column, joined by arrows. 1, one-letter words: almost always A or I. 2, find THE: a repeated three-letter word, try THE or AND. 3, use the apostrophes: IT'S, DON'T, SHE'D, WE'LL, YOU'RE, I'M. 4, double letters and pattern words: LL, SS, EE, OO, TT, FF; THAT. 5, no letter stands for itself, only if the puzzle's rules say so. 6, shaded as the last resort: count letters only when stuck, trying E, T, A, O, I and N as a tiebreaker.</desc>
+<rect width="700" height="646" fill="#fbf8f2"/>
+<rect x="20.0" y="20.0" width="660.0" height="86.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="66" cy="63" r="26" fill="#2b2620"/>
+<text x="66.0" y="72.0" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="112.0" y="57.0" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One-letter words</text>
+<text x="112.0" y="90.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Almost always A or I</text>
+<line x1="66.0" y1="107.0" x2="66.0" y2="123.0" stroke="#d9d1c3" stroke-width="3" stroke-linecap="round"/><path d="M 58.0 113.0 L 74.0 113.0 L 66.0 125.0 Z" fill="#d9d1c3"/>
+<rect x="20.0" y="124.0" width="660.0" height="86.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="66" cy="167" r="26" fill="#2b2620"/>
+<text x="66.0" y="176.0" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="112.0" y="161.0" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Find THE</text>
+<text x="112.0" y="194.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A repeated three-letter word: try THE or AND</text>
+<line x1="66.0" y1="211.0" x2="66.0" y2="227.0" stroke="#d9d1c3" stroke-width="3" stroke-linecap="round"/><path d="M 58.0 217.0 L 74.0 217.0 L 66.0 229.0 Z" fill="#d9d1c3"/>
+<rect x="20.0" y="228.0" width="660.0" height="86.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="66" cy="271" r="26" fill="#2b2620"/>
+<text x="66.0" y="280.0" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="112.0" y="265.0" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Use the apostrophes</text>
+<text x="112.0" y="298.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">IT'S, DON'T, SHE'D, WE'LL, YOU'RE, I'M</text>
+<line x1="66.0" y1="315.0" x2="66.0" y2="331.0" stroke="#d9d1c3" stroke-width="3" stroke-linecap="round"/><path d="M 58.0 321.0 L 74.0 321.0 L 66.0 333.0 Z" fill="#d9d1c3"/>
+<rect x="20.0" y="332.0" width="660.0" height="86.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="66" cy="375" r="26" fill="#2b2620"/>
+<text x="66.0" y="384.0" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="112.0" y="369.0" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Double letters, pattern words</text>
+<text x="112.0" y="402.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">LL, SS, EE, OO, TT, FF; THAT</text>
+<line x1="66.0" y1="419.0" x2="66.0" y2="435.0" stroke="#d9d1c3" stroke-width="3" stroke-linecap="round"/><path d="M 58.0 425.0 L 74.0 425.0 L 66.0 437.0 Z" fill="#d9d1c3"/>
+<rect x="20.0" y="436.0" width="660.0" height="86.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="66" cy="479" r="26" fill="#2b2620"/>
+<text x="66.0" y="488.0" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">5</text>
+<text x="112.0" y="473.0" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">No letter stands for itself</text>
+<text x="112.0" y="506.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Only if the puzzle's rules say so</text>
+<line x1="66.0" y1="523.0" x2="66.0" y2="539.0" stroke="#d9d1c3" stroke-width="3" stroke-linecap="round"/><path d="M 58.0 529.0 L 74.0 529.0 L 66.0 541.0 Z" fill="#d9d1c3"/>
+<rect x="20.0" y="540.0" width="660.0" height="86.0" rx="10" fill="#f3ede2" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="66" cy="583" r="26" fill="#6b6358"/>
+<text x="66.0" y="592.0" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">6</text>
+<text x="112.0" y="577.0" font-size="26" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Count letters only when stuck</text>
+<text x="112.0" y="610.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Try E, T, A, O, I, N as a tiebreaker</text>
+</svg>

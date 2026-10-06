@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 680" width="700" height="680" role="img">
+<title>What to do when you miss a week in your planner: leave the missed week blank and start again from today's date.</title>
+<desc>Three boxes in a row: a planned week with writing, a missed week drawn dashed and labeled leave it blank, and today, labeled today's date, with an arrow jumping from the planned week over the missed one to today. Below, four numbered steps: 1, don't go back and fill in the missed week, let it go. 2, turn to a fresh page and write today's date. 3, do the routine as normal, even if it's Wednesday. 4, in your wins, write I came back; it counts.</desc>
+<rect width="700" height="680" fill="#fbf8f2"/>
+<text x="350.0" y="46.0" text-anchor="middle" font-size="27" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Missed a week? Start again from today</text>
+<rect x="30.0" y="80.0" width="190.0" height="120.0" rx="8" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<text x="125.0" y="124.0" text-anchor="middle" font-size="25" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Planned</text>
+<rect x="255.0" y="80.0" width="190.0" height="120.0" rx="8" fill="#f3ede2" stroke="#6b6358" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="350.0" y="124.0" text-anchor="middle" font-size="25" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Missed</text>
+<rect x="480.0" y="80.0" width="190.0" height="120.0" rx="8" fill="#ffffff" stroke="#b8323a" stroke-width="3"/>
+<text x="575.0" y="124.0" text-anchor="middle" font-size="25" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Today</text>
+<line x1="55" y1="148" x2="195" y2="148" stroke="#d9d1c3" stroke-width="3"/>
+<line x1="55" y1="164" x2="195" y2="164" stroke="#d9d1c3" stroke-width="3"/>
+<line x1="55" y1="180" x2="195" y2="180" stroke="#d9d1c3" stroke-width="3"/>
+<text x="350.0" y="166.0" text-anchor="middle" font-size="21" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-style="italic">leave it blank</text>
+<text x="575.0" y="166.0" text-anchor="middle" font-size="21" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-style="italic">today's date</text>
+<path d="M 125 208 C 160 270, 520 270, 568 214" fill="none" stroke="#b8323a" stroke-width="3" stroke-dasharray="2 0"/>
+<path d="M 575 204 L 562 222 L 578 224 Z" fill="#b8323a"/>
+<circle cx="70" cy="318" r="26" fill="#2b2620"/>
+<text x="70.0" y="327.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">1</text>
+<text x="120.0" y="310.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Don't go back and fill in</text>
+<text x="120.0" y="341.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">the missed week. Let it go.</text>
+<circle cx="70" cy="410" r="26" fill="#2b2620"/>
+<text x="70.0" y="419.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">2</text>
+<text x="120.0" y="402.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Turn to a fresh page and</text>
+<text x="120.0" y="433.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">write today's date.</text>
+<circle cx="70" cy="502" r="26" fill="#2b2620"/>
+<text x="70.0" y="511.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">3</text>
+<text x="120.0" y="494.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Do the routine as normal,</text>
+<text x="120.0" y="525.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">even if it's Wednesday.</text>
+<circle cx="70" cy="594" r="26" fill="#2b2620"/>
+<text x="70.0" y="603.0" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">4</text>
+<text x="120.0" y="586.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">In your wins, write</text>
+<text x="120.0" y="617.0" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">“I came back.” It counts.</text>
+</svg>

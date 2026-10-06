@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 660" width="700" height="660" role="img">
+<title>Five classic Christmas mystery books for adults, from 1892 to 1972, each with a note on how gentle or dark it is.</title>
+<desc>A vertical timeline of five Christmas mysteries. 1892: The Adventure of the Blue Carbuncle by Arthur Conan Doyle, gentle, a stolen jewel and no murder. 1937: Mystery in White by J. Jefferson Farjeon, a murder among the stranded passengers. 1938: Hercule Poirot's Christmas by Agatha Christie, not cozy. 1960: The Adventure of the Christmas Pudding by Agatha Christie, the title story a jewel mystery, not a murder. 1972: Tied Up in Tinsel by Ngaio Marsh, a darker premise. The two jewel mysteries have orange dots; the other three, labelled with a murder or a darker tone, have red dots.</desc>
+<rect width="700" height="660" fill="#fbf8f2"/>
+<line x1="122.0" y1="70.0" x2="122.0" y2="558.0" stroke="#d9d1c3" stroke-width="4" stroke-linecap="round"/>
+<text x="96.0" y="79.0" font-size="28" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1892</text>
+<circle cx="122" cy="70" r="11" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="152.0" y="78.0" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-style="italic" font-family="Georgia, 'Times New Roman', serif">The Adventure of the Blue Carbuncle</text>
+<text x="152.0" y="110.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Arthur Conan Doyle</text>
+<text x="152.0" y="140.0" font-size="22" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Gentle: a stolen jewel, no murder</text>
+<text x="96.0" y="201.0" font-size="28" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1937</text>
+<circle cx="122" cy="192" r="11" fill="#b8323a" stroke="#2b2620" stroke-width="3"/>
+<text x="152.0" y="200.0" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Mystery in White</text>
+<text x="152.0" y="232.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">J. Jefferson Farjeon</text>
+<text x="152.0" y="262.0" font-size="22" fill="#b8323a" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">A murder among the stranded passengers</text>
+<text x="96.0" y="323.0" font-size="28" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1938</text>
+<circle cx="122" cy="314" r="11" fill="#b8323a" stroke="#2b2620" stroke-width="3"/>
+<text x="152.0" y="322.0" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Hercule Poirot's Christmas</text>
+<text x="152.0" y="354.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Agatha Christie</text>
+<text x="152.0" y="384.0" font-size="22" fill="#b8323a" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Not cozy</text>
+<text x="96.0" y="445.0" font-size="28" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1960</text>
+<circle cx="122" cy="436" r="11" fill="#f2a03d" stroke="#2b2620" stroke-width="3"/>
+<text x="152.0" y="444.0" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-style="italic" font-family="Georgia, 'Times New Roman', serif">The Adventure of the Christmas Pudding</text>
+<text x="152.0" y="476.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Agatha Christie</text>
+<text x="152.0" y="506.0" font-size="22" fill="#2b2620" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Title story: a jewel mystery, not a murder</text>
+<text x="96.0" y="567.0" font-size="28" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1972</text>
+<circle cx="122" cy="558" r="11" fill="#b8323a" stroke="#2b2620" stroke-width="3"/>
+<text x="152.0" y="566.0" font-size="25" fill="#2b2620" text-anchor="start" font-weight="bold" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Tied Up in Tinsel</text>
+<text x="152.0" y="598.0" font-size="22" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Ngaio Marsh</text>
+<text x="152.0" y="628.0" font-size="22" fill="#b8323a" text-anchor="start" font-style="italic" font-family="Georgia, 'Times New Roman', serif">A darker premise</text>
+</svg>

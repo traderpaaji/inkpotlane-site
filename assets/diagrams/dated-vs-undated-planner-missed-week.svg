@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 640" width="700" height="640" role="img">
+<title>Dated vs undated planner after a missed week: printed dates leave empty boxes behind, while an undated planner simply carries on with today's date.</title>
+<desc>Two panels side by side. Left, dated planner: the week you planned is written in, then two weeks with printed days and empty boxes are outlined in red as the gap that stays, then the week you come back. Caption: printed dates, empty boxes. Right, undated planner: the week you planned, then the next blank spread headed week of: today's date, written in straight away. Caption: no blank pages, just carry on.</desc>
+<rect width="700" height="640" fill="#fbf8f2"/>
+<rect x="25.0" y="20.0" width="310.0" height="600.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="180.0" y="62.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Dated planner</text>
+<rect x="365.0" y="20.0" width="310.0" height="600.0" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="520.0" y="62.0" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Undated planner</text>
+<text x="45.0" y="104.0" text-anchor="start" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Week you planned</text>
+<rect x="45.0" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="64.3" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">M</text>
+<line x1="52.0" y1="152" x2="76.6" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="52.0" y1="164" x2="69.6" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="83.6" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="102.9" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<line x1="90.6" y1="152" x2="115.1" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="90.6" y1="164" x2="108.1" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="122.1" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="141.4" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">W</text>
+<line x1="129.1" y1="152" x2="153.7" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="129.1" y1="164" x2="146.7" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="160.7" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="180.0" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<line x1="167.7" y1="152" x2="192.3" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="167.7" y1="164" x2="185.3" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="199.3" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="218.6" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">F</text>
+<line x1="206.3" y1="152" x2="230.9" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="206.3" y1="164" x2="223.9" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="237.9" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="257.1" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<line x1="244.9" y1="152" x2="269.4" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="244.9" y1="164" x2="262.4" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="276.4" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="295.7" y="136.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<line x1="283.4" y1="152" x2="308.0" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="283.4" y1="164" x2="301.0" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="37.0" y="196.0" width="286.0" height="186.0" rx="6" fill="#f6e3e4" stroke="#b8323a" stroke-width="2" stroke-dasharray="8 6"/>
+<rect x="45.0" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="64.3" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">M</text>
+<rect x="83.6" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="102.9" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<rect x="122.1" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="141.4" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">W</text>
+<rect x="160.7" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="180.0" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<rect x="199.3" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="218.6" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">F</text>
+<rect x="237.9" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="257.1" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<rect x="276.4" y="208" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="295.7" y="230.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<rect x="45.0" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="64.3" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">M</text>
+<rect x="83.6" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="102.9" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<rect x="122.1" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="141.4" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">W</text>
+<rect x="160.7" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="180.0" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<rect x="199.3" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="218.6" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">F</text>
+<rect x="237.9" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="257.1" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<rect x="276.4" y="282" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="295.7" y="304.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<text x="180.0" y="372.0" text-anchor="middle" font-size="22" fill="#b8323a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">The gap stays</text>
+<text x="45.0" y="420.0" text-anchor="start" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Week you come back</text>
+<rect x="45.0" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="64.3" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">M</text>
+<line x1="52.0" y1="468" x2="76.6" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="52.0" y1="480" x2="69.6" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="83.6" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="102.9" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<line x1="90.6" y1="468" x2="115.1" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="90.6" y1="480" x2="108.1" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="122.1" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="141.4" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">W</text>
+<line x1="129.1" y1="468" x2="153.7" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="129.1" y1="480" x2="146.7" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="160.7" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="180.0" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">T</text>
+<line x1="167.7" y1="468" x2="192.3" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="167.7" y1="480" x2="185.3" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="199.3" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="218.6" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">F</text>
+<line x1="206.3" y1="468" x2="230.9" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="206.3" y1="480" x2="223.9" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="237.9" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="257.1" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<line x1="244.9" y1="468" x2="269.4" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="244.9" y1="480" x2="262.4" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="276.4" y="430" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<text x="295.7" y="452.0" text-anchor="middle" font-size="18" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">S</text>
+<line x1="283.4" y1="468" x2="308.0" y2="468" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="283.4" y1="480" x2="301.0" y2="480" stroke="#4f7f7a" stroke-width="3"/>
+<text x="180.0" y="540.0" text-anchor="middle" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">Printed dates,</text>
+<text x="180.0" y="570.0" text-anchor="middle" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">empty boxes</text>
+<text x="385.0" y="104.0" text-anchor="start" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Week you planned</text>
+<rect x="385.0" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="392.0" y1="152" x2="416.6" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="392.0" y1="164" x2="409.6" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="423.6" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="430.6" y1="152" x2="455.1" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="430.6" y1="164" x2="448.1" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="462.1" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="469.1" y1="152" x2="493.7" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="469.1" y1="164" x2="486.7" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="500.7" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="507.7" y1="152" x2="532.3" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="507.7" y1="164" x2="525.3" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="539.3" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="546.3" y1="152" x2="570.9" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="546.3" y1="164" x2="563.9" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="577.9" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="584.9" y1="152" x2="609.4" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="584.9" y1="164" x2="602.4" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="616.4" y="114" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="623.4" y1="152" x2="648.0" y2="152" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="623.4" y1="164" x2="641.0" y2="164" stroke="#4f7f7a" stroke-width="3"/>
+<text x="385.0" y="226.0" text-anchor="start" font-size="20" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">Next blank spread:</text>
+<rect x="385.0" y="238.0" width="270.0" height="46.0" rx="4" fill="#f3ede2" stroke="#4f7f7a" stroke-width="2"/>
+<text x="397.0" y="269.0" text-anchor="start" font-size="21" fill="#4f7f7a" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-style="italic">Week of: today's date</text>
+<rect x="385.0" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="392.0" y1="330" x2="416.6" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="392.0" y1="342" x2="409.6" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="423.6" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="430.6" y1="330" x2="455.1" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="430.6" y1="342" x2="448.1" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="462.1" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="469.1" y1="330" x2="493.7" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="469.1" y1="342" x2="486.7" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="500.7" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="507.7" y1="330" x2="532.3" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="507.7" y1="342" x2="525.3" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="539.3" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="546.3" y1="330" x2="570.9" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="546.3" y1="342" x2="563.9" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="577.9" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="584.9" y1="330" x2="609.4" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="584.9" y1="342" x2="602.4" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<rect x="616.4" y="292" width="38.6" height="62" fill="#ffffff" stroke="#6b6358" stroke-width="1.5"/>
+<line x1="623.4" y1="330" x2="648.0" y2="330" stroke="#4f7f7a" stroke-width="3"/>
+<line x1="623.4" y1="342" x2="641.0" y2="342" stroke="#4f7f7a" stroke-width="3"/>
+<text x="520.0" y="540.0" text-anchor="middle" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">No blank pages,</text>
+<text x="520.0" y="570.0" text-anchor="middle" font-size="23" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">just carry on</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 476" width="700" height="476" role="img">
+<title>Crossword vs fill-in puzzle: a crossword gives you clues and asks for the answers, while a fill-in gives you every word and asks where each one goes.</title>
+<desc>Two side-by-side panels. Left, Crossword: you get the grid and clues, and you find the answers. Right, Fill-in: you get the grid and every word, grouped by length, and you find where each word goes. A line across the bottom reads: A fill-in is a puzzle of fitting, not of knowing.</desc>
+<rect width="700" height="476" fill="#fbf8f2"/>
+<rect x="14" y="14" width="328" height="386" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="14" y="14" width="328" height="60" rx="10" fill="#b8323a"/>
+<rect x="14" y="54" width="328" height="20" fill="#b8323a"/>
+<text x="178" y="55" text-anchor="middle" font-size="30" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Crossword</text>
+<rect x="130" y="96" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="162" y="96" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="194" y="96" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="130" y="128" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="130" y="160" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="136" y="109" text-anchor="start" font-size="12" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="38" y="222" text-anchor="start" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">You get:</text>
+<text x="54" y="256" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">the grid</text>
+<text x="54" y="290" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">clues</text>
+<text x="38" y="336" text-anchor="start" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">You find:</text>
+<text x="54" y="370" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">the answers</text>
+<rect x="358" y="14" width="328" height="386" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="358" y="14" width="328" height="60" rx="10" fill="#f2a03d"/>
+<rect x="358" y="54" width="328" height="20" fill="#f2a03d"/>
+<text x="522" y="55" text-anchor="middle" font-size="30" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Fill-in</text>
+<rect x="474" y="96" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="506" y="96" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="538" y="96" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="474" y="128" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="474" y="160" width="32" height="32" rx="0" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="382" y="222" text-anchor="start" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">You get:</text>
+<text x="398" y="256" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">the grid</text>
+<text x="398" y="290" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">every word, by length</text>
+<text x="382" y="336" text-anchor="start" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">You find:</text>
+<text x="398" y="370" text-anchor="start" font-size="24" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">where each word goes</text>
+<text x="350" y="446" text-anchor="middle" font-size="26" fill="#2b2620" font-family="Georgia, 'Times New Roman', serif" font-style="italic">A fill-in is a puzzle of fitting, not of knowing.</text>
+</svg>
