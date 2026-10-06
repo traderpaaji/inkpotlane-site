@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 728 728" width="728" height="728" role="img">
+<title>A blank 9x9 grid for goal setting: the main goal goes in the center, eight supports around it, and each support is copied to the middle of its own outer block with eight actions around it.</title>
+<desc>A blank 9 by 9 grid of 81 squares divided into nine 3 by 3 blocks by thick lines. The center square says MAIN GOAL. The eight squares around it are numbered 1 to 8, starting top left and going clockwise. The middle square of each outer block carries the matching number, 1 to 8, in the same position. All other squares are empty, for the actions.</desc>
+<rect width="728" height="728" fill="#fbf8f2"/>
+<rect x="22" y="22" width="684" height="684" fill="#ffffff"/>
+<rect x="250" y="250" width="228" height="228" fill="#f3ede2"/>
+<rect x="98" y="98" width="76" height="76" fill="#f3ede2"/>
+<rect x="326" y="98" width="76" height="76" fill="#f3ede2"/>
+<rect x="554" y="98" width="76" height="76" fill="#f3ede2"/>
+<rect x="554" y="326" width="76" height="76" fill="#f3ede2"/>
+<rect x="554" y="554" width="76" height="76" fill="#f3ede2"/>
+<rect x="326" y="554" width="76" height="76" fill="#f3ede2"/>
+<rect x="98" y="554" width="76" height="76" fill="#f3ede2"/>
+<rect x="98" y="326" width="76" height="76" fill="#f3ede2"/>
+<line x1="22" y1="22" x2="22" y2="706" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="22" y1="22" x2="706" y2="22" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="98" y1="22" x2="98" y2="706" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="22" y1="98" x2="706" y2="98" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="174" y1="22" x2="174" y2="706" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="22" y1="174" x2="706" y2="174" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="250" y1="22" x2="250" y2="706" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="22" y1="250" x2="706" y2="250" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="326" y1="22" x2="326" y2="706" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="22" y1="326" x2="706" y2="326" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="402" y1="22" x2="402" y2="706" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="22" y1="402" x2="706" y2="402" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="478" y1="22" x2="478" y2="706" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="22" y1="478" x2="706" y2="478" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="554" y1="22" x2="554" y2="706" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="22" y1="554" x2="706" y2="554" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="630" y1="22" x2="630" y2="706" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="22" y1="630" x2="706" y2="630" stroke="#bfb5a5" stroke-width="1.2"/>
+<line x1="706" y1="22" x2="706" y2="706" stroke="#2b2620" stroke-width="3.5"/>
+<line x1="22" y1="706" x2="706" y2="706" stroke="#2b2620" stroke-width="3.5"/>
+<text x="364" y="360" text-anchor="middle" font-size="16" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">MAIN</text>
+<text x="364" y="379" text-anchor="middle" font-size="16" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">GOAL</text>
+<text x="288" y="295" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="136" y="143" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="364" y="295" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="364" y="143" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="440" y="295" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="592" y="143" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="440" y="371" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="592" y="371" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="440" y="447" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">5</text>
+<text x="592" y="599" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">5</text>
+<text x="364" y="447" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">6</text>
+<text x="364" y="599" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">6</text>
+<text x="288" y="447" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">7</text>
+<text x="136" y="599" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">7</text>
+<text x="288" y="371" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">8</text>
+<text x="136" y="371" text-anchor="middle" font-size="22" fill="#6b6358" font-family="Georgia, 'Times New Roman', serif">8</text>
+</svg>
