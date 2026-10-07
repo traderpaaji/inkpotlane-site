@@ -103,5 +103,6 @@ nav.site a{margin-left:14px}.cta{grid-template-columns:1fr}.cta img{max-width:12
 .compare th,.compare td{border-bottom:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}
 .compare thead th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
 .compare tbody th{font-family:Georgia,serif;font-weight:600;min-width:170px}
+.compare .buy{margin-top:0;padding:9px 16px;font-size:14px;white-space:nowrap}
 nav.crumbs a{color:var(--muted)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
