@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700" role="img">
+<title>Breaking a goal into steps in four stages: one outcome, the eight areas it depends on, up to 64 small actions, and the five to eight you start now.</title>
+<desc>Four stacked bands joined by downward arrows. Band one, one goal: the outcome, written so you would know you had finished it. Band two, eight areas: what the goal depends on, such as skills, habits, people, systems, resources, place, energy and mindset. Band three, up to 64 actions: up to eight small actions for each area, each one you could start in a single sitting. Band four, five to eight actions: what you start in the first four weeks, the ones everything else depends on plus one you can do this week. A line underneath says everything you did not choose stays on the grid, waiting for a review.</desc>
+<rect width="700" height="700" fill="#fbf8f2"/>
+<text x="350" y="46" font-size="28" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">From one goal to what you do this week</text>
+<rect x="20" y="78" width="660" height="118" rx="10" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="20" y="78" width="112" height="118" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="76" y="134" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="76" y="162" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">goal</text>
+<text x="150" y="110" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1. The outcome</text>
+<text x="150" y="138" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">One goal, written so you would know you had finished</text>
+<text x="150" y="162" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">it</text>
+<text x="150" y="190" font-size="18" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">“Ship my first paying product by 30 June”</text>
+<line x1="350" y1="198" x2="350" y2="210" stroke="#6b6358" stroke-width="3"/><path d="M 341 208 L 359 208 L 350 222 Z" fill="#6b6358"/>
+<rect x="20" y="224" width="660" height="118" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="20" y="224" width="112" height="118" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="76" y="280" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">8</text>
+<text x="76" y="308" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">areas</text>
+<text x="150" y="256" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2. What it depends on</text>
+<text x="150" y="284" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Eight supporting areas, not eight tasks: skills,</text>
+<text x="150" y="308" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">habits, people, systems, resources, place, energy,</text>
+<text x="150" y="336" font-size="18" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Offer · Customers · Pricing · Delivery · Time · Energy</text>
+<line x1="350" y1="344" x2="350" y2="356" stroke="#6b6358" stroke-width="3"/><path d="M 341 354 L 359 354 L 350 368 Z" fill="#6b6358"/>
+<rect x="20" y="370" width="660" height="118" rx="10" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="20" y="370" width="112" height="118" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="76" y="426" font-size="30" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">up to 64</text>
+<text x="76" y="454" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">actions</text>
+<text x="150" y="402" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3. The actions</text>
+<text x="150" y="430" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Up to eight small actions for each area, each one</text>
+<text x="150" y="454" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">you could start in a single sitting</text>
+<text x="150" y="482" font-size="18" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">“Write and post one customer story each Thursday”</text>
+<line x1="350" y1="490" x2="350" y2="502" stroke="#6b6358" stroke-width="3"/><path d="M 341 500 L 359 500 L 350 514 Z" fill="#6b6358"/>
+<rect x="20" y="516" width="660" height="118" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="20" y="516" width="112" height="118" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="76" y="572" font-size="30" fill="#f2a03d" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">5–8</text>
+<text x="76" y="600" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">actions</text>
+<text x="150" y="548" font-size="24" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4. What you start now</text>
+<text x="150" y="576" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Five to eight actions for the first four weeks; the</text>
+<text x="150" y="600" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">rest wait on the page</text>
+<text x="150" y="628" font-size="18" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The ones the others depend on, and one to do this week</text>
+<text x="350" y="672" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Everything you did not choose stays on the grid, waiting for a review.</text>
+</svg>

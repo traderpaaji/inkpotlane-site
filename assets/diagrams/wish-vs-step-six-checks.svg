@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 690" width="700" height="690" role="img">
+<title>The six checks that separate a wish from a step, applied to one rewrite: “Learn Excel” fails Proof and Size, while “finish the pivot-table lesson and rebuild last month's report with it” passes all five and carries no dependency.</title>
+<desc>A comparison table. At the top, a first draft reading Learn Excel sits beside a better version reading: finish the pivot-table lesson and rebuild last month's report with it. Below, five checks are listed with a mark for each version. Control, can I do this myself without waiting for anyone's decision: both pass. Proof, would I know without doubt that I did it, and what is the evidence: the draft fails, the better version passes. Cadence, do I know how often: both pass. Size, is it one action I could start in one short session: the draft fails, the better version passes. Relevance, does it clearly move this area and through it the goal: both pass. A sixth row, Dependency, asks whether the action needs someone else to say yes, help or reply, and notes that this is not a fail but a flag: keep the action and plan for a no.</desc>
+<rect width="700" height="690" fill="#fbf8f2"/>
+<text x="350" y="44" font-size="28" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">What turns a wish into a step</text>
+<rect x="20" y="70" width="320" height="86" rx="10" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="180" y="98" font-size="21" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The first draft</text>
+<text x="180" y="132" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">“Learn Excel”</text>
+<rect x="360" y="70" width="320" height="86" rx="10" fill="#ffffff" stroke="#5f8f4e" stroke-width="3"/>
+<text x="520" y="98" font-size="21" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The better version</text>
+<text x="520" y="126" font-size="21" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">“Finish the pivot-table lesson and</text>
+<text x="520" y="150" font-size="21" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">rebuild last month's report with it”</text>
+<text x="30" y="190" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Run every action through six checks</text>
+<text x="560" y="190" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">draft</text>
+<text x="640" y="190" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">better</text>
+<rect x="20" y="206" width="660" height="60" rx="10" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="36" y="232" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Control</text>
+<text x="36" y="256" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Can I do this myself, without waiting for anyone's decision?</text>
+<circle cx="560" cy="236" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 553.8 236.0 L 558.7 241.5 L 566.8 230.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="640" cy="236" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 633.8 236.0 L 638.7 241.5 L 646.8 230.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="274" width="660" height="60" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="36" y="300" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Proof</text>
+<text x="36" y="324" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Would I know, without doubt, that I did it? What is the evidence?</text>
+<circle cx="560" cy="304" r="13" fill="none" stroke="#b8323a" stroke-width="3"/><path d="M 554.1 298.1 L 565.9 309.9 M 565.9 298.1 L 554.1 309.9" stroke="#b8323a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="640" cy="304" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 633.8 304.0 L 638.7 309.5 L 646.8 298.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="342" width="660" height="60" rx="10" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="36" y="368" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Cadence</text>
+<text x="36" y="392" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Do I know how often? Once, weekly, daily, or when triggered?</text>
+<circle cx="560" cy="372" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 553.8 372.0 L 558.7 377.5 L 566.8 366.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="640" cy="372" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 633.8 372.0 L 638.7 377.5 L 646.8 366.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="410" width="660" height="60" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="36" y="436" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Size</text>
+<text x="36" y="460" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Is it one action I could start in one short session?</text>
+<circle cx="560" cy="440" r="13" fill="none" stroke="#b8323a" stroke-width="3"/><path d="M 554.1 434.1 L 565.9 445.9 M 565.9 434.1 L 554.1 445.9" stroke="#b8323a" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="640" cy="440" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 633.8 440.0 L 638.7 445.5 L 646.8 434.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="478" width="660" height="60" rx="10" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="36" y="504" font-size="22" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Relevance</text>
+<text x="36" y="528" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Does it clearly move this area, and through it the goal?</text>
+<circle cx="560" cy="508" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 553.8 508.0 L 558.7 513.5 L 566.8 502.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="640" cy="508" r="13" fill="none" stroke="#5f8f4e" stroke-width="3"/><path d="M 633.8 508.0 L 638.7 513.5 L 646.8 502.0" fill="none" stroke="#5f8f4e" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="552" width="660" height="86" rx="10" fill="#ffffff" stroke="#f2a03d" stroke-width="3"/>
+<text x="36" y="580" font-size="22" fill="#f2a03d" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Dependency</text>
+<text x="36" y="604" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Does it need someone else to say yes, help or reply?</text>
+<text x="36" y="626" font-size="18" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Not a fail — a flag: keep the action, and plan for a no.</text>
+</svg>
