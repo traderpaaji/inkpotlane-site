@@ -104,5 +104,11 @@ nav.site a{margin-left:14px}.cta{grid-template-columns:1fr}.cta img{max-width:12
 .compare thead th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
 .compare tbody th{font-family:Georgia,serif;font-weight:600;min-width:170px}
 .compare .buy{margin-top:0;padding:9px 16px;font-size:14px;white-space:nowrap}
+.compare a.amz{font-weight:600;white-space:nowrap}
+@media (max-width:760px){.compare.stack,.compare.stack tbody,.compare.stack tr,.compare.stack th,.compare.stack td{display:block;width:auto}
+.compare.stack thead{display:none}
+.compare.stack tr{border-bottom:1px solid var(--line);padding:12px 0}
+.compare.stack th,.compare.stack td{border:0;padding:2px 0;min-width:0}
+.compare.stack td[data-label]::before{content:attr(data-label) ": ";font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}}
 nav.crumbs a{color:var(--muted)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
