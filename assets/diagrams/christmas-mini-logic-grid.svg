@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 640" width="700" height="640" role="img">
+<title>A blank logic grid for the three-clue Christmas puzzle: Mabel, Otis and Ruth down the side, the scarf, jigsaw and teapot and the red, green and gold papers across the top.</title>
+<desc>An empty logic grid made of three 3-by-3 blocks. The top rows are labelled Mabel, Otis and Ruth; the columns across the top are Scarf, Jigsaw and Teapot, then Red, Green and Gold. Under the gift columns, a third block has rows labelled Red, Green and Gold. A note says to mark X for no and a tick for yes, and that each row and column ends with one tick.</desc>
+<rect width="700" height="640" fill="#fbf8f2"/>
+<text x="350" y="50" font-size="28" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Rung two: a small logic grid</text>
+<text x="350" y="80" font-size="19" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Three neighbors, three gifts, three wrapping papers</text>
+<text x="295" y="112" font-size="18" fill="#6b6358" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">GIFT</text>
+<text x="505" y="112" font-size="18" fill="#6b6358" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">PAPER</text>
+<text x="232" y="200" font-size="20" fill="#2b2620" transform="rotate(-60 232 200)" font-family="Georgia, 'Times New Roman', serif">Scarf</text>
+<text x="302" y="200" font-size="20" fill="#2b2620" transform="rotate(-60 302 200)" font-family="Georgia, 'Times New Roman', serif">Jigsaw</text>
+<text x="372" y="200" font-size="20" fill="#2b2620" transform="rotate(-60 372 200)" font-family="Georgia, 'Times New Roman', serif">Teapot</text>
+<text x="442" y="200" font-size="20" fill="#2b2620" transform="rotate(-60 442 200)" font-family="Georgia, 'Times New Roman', serif">Red</text>
+<text x="512" y="200" font-size="20" fill="#2b2620" transform="rotate(-60 512 200)" font-family="Georgia, 'Times New Roman', serif">Green</text>
+<text x="582" y="200" font-size="20" fill="#2b2620" transform="rotate(-60 582 200)" font-family="Georgia, 'Times New Roman', serif">Gold</text>
+<text x="176" y="253" font-size="21" fill="#2b2620" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">Mabel</text>
+<rect x="190" y="210" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="260" y="210" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="330" y="210" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="400" y="210" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="470" y="210" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="540" y="210" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<text x="176" y="323" font-size="21" fill="#2b2620" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">Otis</text>
+<rect x="190" y="280" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="260" y="280" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="330" y="280" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="400" y="280" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="470" y="280" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="540" y="280" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<text x="176" y="393" font-size="21" fill="#2b2620" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">Ruth</text>
+<rect x="190" y="350" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="260" y="350" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="330" y="350" width="70" height="70" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="400" y="350" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="470" y="350" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="540" y="350" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<text x="176" y="463" font-size="21" fill="#2b2620" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">Red</text>
+<rect x="190" y="420" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="260" y="420" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="330" y="420" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<text x="176" y="533" font-size="21" fill="#2b2620" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">Green</text>
+<rect x="190" y="490" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="260" y="490" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="330" y="490" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<text x="176" y="603" font-size="21" fill="#2b2620" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">Gold</text>
+<rect x="190" y="560" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="260" y="560" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<rect x="330" y="560" width="70" height="70" rx="0" fill="#eceef4" stroke="#d9d1c3" stroke-width="1"/>
+<text x="40" y="323" font-size="18" fill="#6b6358" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">WHO</text>
+<text x="40" y="533" font-size="18" fill="#6b6358" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">PAPER</text>
+<rect x="190" y="210" width="210" height="210" rx="0" fill="none" stroke="#2b2620" stroke-width="3"/>
+<rect x="400" y="210" width="210" height="210" rx="0" fill="none" stroke="#2b2620" stroke-width="3"/>
+<rect x="190" y="420" width="210" height="210" rx="0" fill="none" stroke="#2b2620" stroke-width="3"/>
+<text x="420" y="466" font-size="20" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Mark X for no</text>
+<text x="420" y="496" font-size="20" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and a tick for yes.</text>
+<text x="420" y="536" font-size="20" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Each row and column</text>
+<text x="420" y="566" font-size="20" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">ends with one tick.</text>
+</svg>

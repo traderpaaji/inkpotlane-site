@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" role="img">
+<title>GCHQ's 2015 Christmas card puzzle: nearly 600,000 people finished the first stage, about 30,000 reached the final stage, and none had fully completed it three days before entries closed.</title>
+<desc>A bar chart with three rows. Row one, finished stage one, a grid-shading puzzle: a full-width bar labelled nearly 600,000. Row two, reached the final stage: a short bar, one twentieth of the first, labelled about 30,000, roughly 5 percent. Row three, fully completed it, three days before the deadline: no bar, labelled none. A note gives the source as GCHQ, 28 January 2016, and says entries closed on 31 January 2016.</desc>
+<rect width="700" height="470" fill="#fbf8f2"/>
+<text x="350" y="46" font-size="28" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One Christmas card puzzle, by stage</text>
+<text x="350" y="76" font-size="19" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">GCHQ Director's Christmas puzzle, December 2015</text>
+<text x="40" y="132" font-size="21" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Finished stage one (a grid-shading puzzle)</text>
+<text x="660" y="132" font-size="21" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">nearly 600,000</text>
+<rect x="40" y="146" width="620" height="44" rx="6" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="146" width="620" height="44" rx="6" fill="#f2a03d" stroke="#f2a03d" stroke-width="2"/>
+<text x="40" y="236" font-size="21" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Reached the final stage</text>
+<text x="660" y="236" font-size="21" fill="#b8323a" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">about 30,000 (roughly 5%)</text>
+<rect x="40" y="250" width="620" height="44" rx="6" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="250" width="31" height="44" rx="6" fill="#b8323a" stroke="#b8323a" stroke-width="2"/>
+<text x="40" y="340" font-size="21" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Fully completed it, three days before the deadline</text>
+<text x="660" y="340" font-size="21" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">none</text>
+<rect x="40" y="354" width="620" height="44" rx="6" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="350" y="444" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Source: GCHQ, 28 January 2016. Entries closed 31 January 2016.</text>
+</svg>

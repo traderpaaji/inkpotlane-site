@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" width="700" height="600" role="img">
+<title>A five-by-four Christmas word search: find STAR, NOEL, SNOW and GIFT, then read the six leftover letters in order to get the hidden message.</title>
+<desc>A grid of letters, five across and four down. Row one reads S T A R J. Row two reads N O E L O. Row three reads O Y F U L. Row four reads W G I F T. Below it, the words to find: STAR, NOEL, SNOW and GIFT. A note says the words run across or down, and the six letters left over, read left to right and top to bottom, are the hidden message.</desc>
+<rect width="700" height="600" fill="#fbf8f2"/>
+<text x="350" y="50" font-size="28" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Rung one: a hidden-message word search</text>
+<rect x="134" y="90" width="432" height="348" rx="8" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<rect x="140" y="96" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="182" y="153" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">S</text>
+<rect x="224" y="96" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="266" y="153" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">T</text>
+<rect x="308" y="96" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="350" y="153" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A</text>
+<rect x="392" y="96" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="434" y="153" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">R</text>
+<rect x="476" y="96" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="518" y="153" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">J</text>
+<rect x="140" y="180" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="182" y="237" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">N</text>
+<rect x="224" y="180" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="266" y="237" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">O</text>
+<rect x="308" y="180" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="350" y="237" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">E</text>
+<rect x="392" y="180" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="434" y="237" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">L</text>
+<rect x="476" y="180" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="518" y="237" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">O</text>
+<rect x="140" y="264" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="182" y="321" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">O</text>
+<rect x="224" y="264" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="266" y="321" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Y</text>
+<rect x="308" y="264" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="350" y="321" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">F</text>
+<rect x="392" y="264" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="434" y="321" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">U</text>
+<rect x="476" y="264" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="518" y="321" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">L</text>
+<rect x="140" y="348" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="182" y="405" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">W</text>
+<rect x="224" y="348" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="266" y="405" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">G</text>
+<rect x="308" y="348" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="350" y="405" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">I</text>
+<rect x="392" y="348" width="84" height="84" rx="0" fill="#f7f3ec" stroke="#d9d1c3" stroke-width="1"/>
+<text x="434" y="405" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">F</text>
+<rect x="476" y="348" width="84" height="84" rx="0" fill="#ffffff" stroke="#d9d1c3" stroke-width="1"/>
+<text x="518" y="405" font-size="42" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">T</text>
+<text x="350" y="482" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Find:  STAR   NOEL   SNOW   GIFT</text>
+<text x="350" y="522" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Words run across or down. The six letters left over,</text>
+<text x="350" y="548" font-size="20" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">read left to right and top to bottom, are the message.</text>
+</svg>
