@@ -484,3 +484,29 @@ figure.pic figcaption{font-size:16px;color:var(--text-2);margin-top:10px;line-he
 }
 .buyrow{margin-top:28px}
 .glance{margin-top:34px}
+
+/* Declutter pass, 10 Oct 2026 (home page only, body.home): the four-fact strip and three cover rails left the page,
+   so each band carries one idea; sections get 120 px of air on a desktop and 80 px on a phone. The coloring and planner
+   tiles now open their hubs; the six books without one of those hubs sit in a quiet text list (.also). */
+body.home{--sp:120px}
+.home .hero{padding:72px 0 112px}
+.home .hero-top{margin-bottom:56px}
+.home .s-head{margin-bottom:56px}
+.home .more-link{margin-top:36px}
+.also{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px 36px}
+.also a{display:inline-flex;align-items:center;min-height:44px;font:500 19px/1.3 var(--body);color:var(--text);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.also a:hover{text-decoration-thickness:2px}
+.also span{display:block;font-size:16px;line-height:1.4;color:var(--text-2)}
+@media (max-width:980px){.also{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .home section.s{padding:80px 0}
+ .home .hero{padding:32px 0 72px}
+ .home .hero-top{margin-bottom:28px}
+ .home .s-head{margin-bottom:28px}
+ .ph-x{display:none}
+ .home .stats div:nth-child(n+3){display:none}
+ .home .free-panel{border:0;border-radius:0;padding:0;background:none;box-shadow:none}
+ .home .more-link{margin-top:20px}
+ .also{grid-template-columns:1fr;gap:18px}
+ .also a{font-size:18px}.also span{font-size:15px}
+}
