@@ -510,3 +510,149 @@ body.home{--sp:120px}
  .also{grid-template-columns:1fr;gap:18px}
  .also a{font-size:18px}.also span{font-size:15px}
 }
+
+/* Whodunit challenge (/whodunit/), 10 Oct 2026: one readable column, a real table of suspects (tap a name to cross it off),
+   big radio answers, hints on request, and a no-spoiler result card. Same plum/forest palette, 600 headings, 44 px+ targets. */
+.more-link{display:flex;flex-wrap:wrap;gap:0 28px}
+.wd-col{max-width:46em;margin:0 auto}
+.wd h2{font-size:clamp(26px,3vw,36px);line-height:1.15;margin:0 0 18px}
+.wd h3{font-size:clamp(21px,2vw,25px);line-height:1.25;margin:44px 0 14px}
+.wd h2:focus,.wd-done:focus{outline:none}
+.wd h2:focus-visible,.wd-done:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+.wd-story p{font-size:19px;line-height:1.7;margin:0 0 18px}
+.wd-how{background:#eceee9;border-radius:var(--r);padding:20px 24px;margin-top:26px}
+.wd .wd-how h3{margin:0 0 8px;font-size:21px}
+.wd-how ol{list-style:decimal;padding-left:1.3em;margin:0 0 10px}
+.wd-how li{font-size:18px;line-height:1.6;margin:0 0 6px}
+.wd-how p{font-size:17px;line-height:1.55;color:var(--text-2)}
+.wd-tablewrap{margin:0}
+.wd-table{width:100%;border-collapse:collapse;font-size:19px;line-height:1.35;background:#fbfcfa;border:1px solid var(--rule);border-radius:var(--r)}
+.wd-table th,.wd-table td{text-align:left;vertical-align:middle;padding:10px 14px;border-bottom:1px solid var(--line)}
+.wd-table thead th{font:600 15px/1.3 var(--body);color:var(--text-2);border-bottom:2px solid #2b2a28;background:#eceee9}
+.wd-table tbody th{font-weight:400}
+.wd-x{display:inline-flex;align-items:center;flex-wrap:wrap;min-height:44px;min-width:44px;padding:0 6px 0 0;margin:0;background:none;border:0;cursor:pointer;text-align:left;
+ font:600 20px/1.25 var(--display);color:#2b2a28;text-decoration:underline;text-decoration-style:dotted;text-decoration-thickness:1.5px;text-underline-offset:5px}
+.wd-x:hover{text-decoration-style:solid}
+.jb{display:block;font:400 16px/1.3 var(--body);color:var(--text-2)}
+.xm{font:500 15px/1.3 var(--body);text-decoration:none;display:inline-block;margin-left:6px;color:#4f4c48}
+tr.out{background:#eceee9}
+tr.out .nm{text-decoration:line-through;text-decoration-thickness:2px}
+tr.out .wd-x{text-decoration:none}
+.wd-clues{list-style:decimal;padding-left:1.5em;margin:0}
+.wd-clues li{font-size:19px;line-height:1.6;margin:0 0 12px;padding-left:4px}
+.wd-read{margin-top:14px}
+.wd-read p{font-size:17px}
+.wd-form fieldset{border:0;margin:0;padding:0;min-width:0}
+.wd-form legend{font:600 20px/1.3 var(--display);margin:0 0 14px;padding:0}
+.wd-opts{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.wd-opt{position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;min-height:56px;padding:10px 14px;border:2px solid #b9bcb6;border-radius:10px;background:#fff;cursor:pointer;font-size:19px;color:#2b2a28}
+/* the radio itself covers the whole box, so the whole box is the target (56 px+); the dot is drawn beside the name */
+.wd-opt input{position:absolute;inset:-2px;width:calc(100% + 4px);height:calc(100% + 4px);margin:0;-webkit-appearance:none;appearance:none;background:transparent;border:0;border-radius:10px;cursor:pointer;z-index:1}
+.wd-opt input:focus-visible{outline:3px solid #2b2a28;outline-offset:2px}
+.wd-opt input:disabled{cursor:default}
+.wd-opt .on,.wd-opt .wd-tag,.wd-opt .dot{position:relative;z-index:2;pointer-events:none}
+.wd-opt .dot{flex:none;width:24px;height:24px;border:2px solid #4f2840;border-radius:50%;background:#fff}
+.wd-opt:has(input:checked){border-color:#4f2840;background:#f6ecf1}
+.wd-opt:has(input:checked) .dot{box-shadow:inset 0 0 0 5px #fff;background:#4f2840}
+.wd-tag{flex-basis:100%;padding-left:34px;font-size:15px;color:#8b1018;font-weight:500}
+.wd-tag:empty{display:none}
+.wd-form .btn{margin-top:18px}
+.wd-status{min-height:30px;margin-top:16px}
+.pz-btn:disabled{cursor:default;text-decoration:none;color:#5f5c58}
+.btn:disabled{cursor:default;filter:saturate(.4)}
+.wd-tools{margin-top:6px}
+.wd-clock{font-size:17px;margin:4px 0 0;color:var(--text-2)}
+.wd-hints{list-style:decimal;padding:14px 18px 14px 2.2em;margin:10px 0 0;background:#fbefe4;border-radius:var(--r);border-left:4px solid #e6ab7e}
+.wd-hints li{font-size:18px;line-height:1.55;margin:4px 0}
+.wd-hints[hidden],.wd-done[hidden],.wd-clock[hidden]{display:none}
+.wd-done{margin-top:30px;padding:26px 28px;background:#fbfcfa;border:1px solid var(--rule);border-top:4px solid #4f2840;border-radius:var(--r)}
+.wd-done h3{margin:0 0 10px}
+.wd-done h3+p{margin-top:0}
+.wd-reveal{font:600 23px/1.3 var(--display);margin:0 0 12px}
+.wd-walk{list-style:decimal;padding-left:1.4em;margin:0 0 14px}
+.wd-walk li{font-size:18px;line-height:1.55;margin:0 0 6px}
+.wd-why{font-size:18px;line-height:1.6;color:var(--text-2)}
+.wd-done #card-h{margin-top:30px}
+.wd-card-note{font-size:16px;color:var(--text-2);margin:0 0 10px}
+.wd-card{white-space:pre-line;font:500 19px/1.6 var(--body);background:#fff;border:2px dashed #4f2840;border-radius:8px;padding:16px 20px;margin:0}
+.wd-share{display:flex;flex-wrap:wrap;gap:12px;margin:18px 0 6px}
+.wd-copied{font-size:17px;color:#14411c;min-height:26px;margin:6px 0}
+.wd-more h2{font-size:clamp(26px,2.8vw,36px);line-height:1.15;margin:0 0 4px}
+.showcase{margin-top:22px}
+.showcase .sc-rel{font-size:16px;color:#f6e7ee;margin:0 0 8px;line-height:1.45}
+.wd-pack{font-size:18px;line-height:1.6;margin-top:20px}
+.wd-pack a{color:#2b2a28;font-weight:500}
+.wd-rules .prose{max-width:46em}
+.wd-rules .prose ul{margin-bottom:0}
+.wd-nojs{font-size:18px;margin-top:12px}
+@media (max-width:560px){.wd-opts{grid-template-columns:1fr}}
+@media (max-width:760px){
+ .wd-story p,.wd-clues li{font-size:18px}
+ .wd-how{padding:16px 16px}
+ .wd-table{font-size:17px}.wd-table th,.wd-table td{padding:8px 8px}.wd-x{font-size:18px}.jb{font-size:15px}.wd-table thead th{font-size:14px}
+ .wd-done{padding:20px 16px}.wd-share .btn{flex:1 1 100%}
+ .wd h3{margin-top:36px}
+}
+@media (max-width:360px){.wd-table th,.wd-table td{padding:8px 5px}.wd-x{font-size:17px}.wd-table{font-size:16px}}
+
+/* Puzzle levels (/play/), 10 Oct 2026: same calm column as the whodunit; the grid scrolls inside its own box when a big level
+   is wider than a phone (cells never smaller than 32 px; the typed route is always there). */
+.pl-col{max-width:50em;margin:0 auto}
+.pl-top{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:center;justify-content:space-between;padding:14px 18px;background:#eceee9;border-radius:var(--r);margin-bottom:22px}
+.pl-tally{display:flex;flex-wrap:wrap;gap:4px 22px;font-size:16px;color:var(--text-2)}
+.pl-tally p{margin:0}
+.pl-num{font:600 20px/1.2 var(--display);color:#2b2a28}
+.pl-device{font-size:16px;color:var(--text-2);margin:0;max-width:22em}
+.pl-acct p{font-size:16px;margin:0 0 6px}
+.pl-switch{display:flex;gap:10px;margin:0 0 22px}
+.pl-tab{min-height:48px;padding:0 22px;border-radius:var(--r-btn);border:2px solid #2f5c38;background:#fff;color:#2f5c38;font:500 17px var(--body);cursor:pointer}
+.pl-tab[aria-pressed=true]{background:#2f5c38;color:#fff;font-weight:600}
+.pl h2{font-size:clamp(25px,2.8vw,34px);line-height:1.2;margin:0 0 8px}
+.pl h2:focus,.pl-done:focus{outline:none}
+.pl h2:focus-visible,.pl-done:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+.pl-info{font-size:17px;line-height:1.55;color:var(--text-2);margin:0 0 10px}
+.pl-twist{font-size:17px;line-height:1.5;margin:0 0 14px;padding:10px 14px;background:#fbefe4;border-left:4px solid #e6ab7e;border-radius:4px}
+.pl-twist[hidden],.pl-showcase[hidden],.pl-badge[hidden]{display:none}
+.pl-puzzle{margin-top:14px}
+.pl-gridwrap{overflow-x:auto;padding:4px 2px 8px;margin:0 -2px}
+.pl-grid{display:grid;grid-template-columns:repeat(var(--n),minmax(32px,1fr));gap:3px;max-width:calc(var(--n) * 56px);min-width:calc(var(--n) * 32px + (var(--n) - 1) * 3px)}
+.pl-grid button{aspect-ratio:1;min-height:32px;border:2px solid #b9bcb6;border-radius:6px;background:#fff;font:600 var(--fs)/1 var(--body);color:#2b2a28;cursor:pointer;padding:0}
+.pl-grid button:hover{background:#eceee9}
+.pl-grid button[aria-pressed=true]{background:#ffe27a;border:4px solid #2b2a28}
+.pl-grid button.found{background:#c9e4c5;border-color:#1f5a2a;border-bottom-width:5px}
+.pl-grid button.hint{outline:3px dotted #4f2840;outline-offset:1px}
+.pl-grid button:focus-visible{outline:3px solid #2b2a28;outline-offset:2px;position:relative;z-index:2}
+.pl-words{margin-top:14px}
+.pl-count{font-size:17px;margin:10px 0 0;color:var(--text-2)}
+.pl-sub{font-size:21px;line-height:1.25;margin:28px 0 12px}
+.pl-story{font-size:18px;line-height:1.65;margin:0 0 6px}
+.pl-tablewrap{overflow-x:auto}
+.pl-status{min-height:30px;margin-top:14px}
+.pl-done{margin-top:24px}
+.pl-done-stars{font:500 20px/1.45 var(--body);margin:0 0 8px}
+.pl-badge{font-weight:600;color:#4f2840;margin:0 0 8px}
+.pl-showcase{margin-top:18px}
+.pl-go{margin-top:30px;max-width:360px}
+.pl-go label{display:block;font-weight:500;font-size:17px;margin-bottom:6px}
+.pl-go .row{display:flex;gap:10px}
+.pl-go input{flex:1;min-height:48px;border:2px solid #5c5c5c;border-radius:var(--r-btn);font:400 18px var(--body);padding:0 12px;background:#fff;color:#2b2a28}
+.pl-go .btn{min-height:48px;padding:0 22px}
+.pl-rowtext{letter-spacing:.1em;font-size:16px}
+@media (max-width:760px){.pl-gridwrap{margin:0 calc(-1*var(--gut));padding:4px 4px 8px}.pl-grid{gap:2px}.pl-top{padding:12px 14px}.pl-tab{flex:1;padding:0 10px}.pl-tally{gap:2px 16px;font-size:15px}.pl-sub{font-size:19px}}
+/* /play/ is also the Instagram bio hub: three plain links first (the weekly mystery, the free pack, the books), two taps from any reel */
+.pl-hub ul{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:0 0 22px}
+.pl-hub a{display:flex;flex-direction:column;justify-content:center;gap:2px;min-height:64px;height:100%;padding:10px 14px;border:1px solid var(--rule);border-top:4px solid #2f5c38;border-radius:var(--r);background:#fbfcfa;text-decoration:none;color:#2b2a28}
+.pl-hub li:nth-child(1) a{border-top-color:#4f2840}.pl-hub li:nth-child(3) a{border-top-color:#b5452f}
+.pl-hub b{font:600 17px/1.25 var(--body);text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}
+.pl-hub span{font-size:15px;line-height:1.35;color:var(--text-2)}
+.pl-hub a:hover b{text-decoration-thickness:2px}
+@media (max-width:640px){.pl-hub ul{grid-template-columns:1fr;gap:8px}.pl-hub a{min-height:56px;flex-direction:row;align-items:baseline;flex-wrap:wrap;gap:2px 10px}}
+/* ChatGPT round 10 Oct: shorter way in on both puzzle pages */
+.pl-feat{margin:0 0 16px;font-size:17px}
+.pl-feat a{display:inline-flex;flex-wrap:wrap;gap:0 6px;align-items:center;min-height:44px;color:#2b2a28;text-decoration:none}
+.pl-feat b{font-weight:600;color:#4f2840;text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1.5px}
+.pl-h2b{margin-top:44px!important}
+.wd-one{font-size:18px;line-height:1.6;margin:22px 0 0;padding:14px 18px;background:#eceee9;border-radius:var(--r)}
+.wd-one a{display:inline-flex;align-items:center;min-height:44px;font-weight:500;color:#4f2840}
+.wd-note{font-size:17px;color:var(--text-2);margin:0 0 14px}
+#ans-h:focus{outline:none}#ans-h:focus-visible{outline:3px solid var(--focus);outline-offset:4px}

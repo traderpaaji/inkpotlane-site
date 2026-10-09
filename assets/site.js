@@ -1,4 +1,5 @@
-/* Inkpot Lane site script: phone menu, scrollable rows, the monthly-puzzle e-mail form. No tracking code lives here. */
+/* Inkpot Lane site script: phone menu, scrollable rows, the monthly-puzzle e-mail form. The only analytics line here is one
+   anonymous Google Analytics event when the sign-up form is sent (pack_signup, no address), for the challenge measurement plan. */
 (function(){
  var b=document.getElementById('burger'),m=document.getElementById('menu'),main=document.getElementById('main'),foot=document.querySelector('footer');
  function setInert(v){[main,foot].forEach(function(x){if(x){if(v)x.setAttribute('inert','');else x.removeAttribute('inert')}})}
@@ -28,6 +29,7 @@
    var old=btn.textContent;btn.disabled=true;btn.textContent='Sending...';
    var body=new URLSearchParams();body.set(f.getAttribute('data-entry'),v);body.set('fvv','1');body.set('pageHistory','0');
    fetch(f.getAttribute('action'),{method:'POST',mode:'no-cors',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:body.toString()}).then(function(){
+    try{if(window.gtag)window.gtag('event','pack_signup',{page:location.pathname})}catch(x){}
     i.value='';btn.disabled=false;btn.textContent=old;
     ok.textContent='Thank you. Your address is on the list. Next month’s puzzle pack will come to you by email, and the current one is on the free puzzles page.';
     setTimeout(function(){ok.className='ok on'},60);
