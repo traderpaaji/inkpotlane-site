@@ -177,7 +177,7 @@ footer a:focus-visible{outline-color:var(--foot-focus)}
  .s-head{margin-bottom:22px}.s-head p:not(.eyebrow){display:none}.s-head h2,.play h2{font-size:clamp(25px,7vw,27px);line-height:1.15}
  .board .how{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;margin:-1px}
  .board .case{display:none}.status{min-height:48px;margin-top:8px}
- .card .pic{height:196px;padding-top:14px;padding-bottom:16px}.card h3{font-size:22px;line-height:1.2}.card .tx{padding:16px 0 18px}.stats div:nth-child(n+4){display:none}.card p.d{font-size:16px}
+ .card .pic{height:196px;padding-top:14px;padding-bottom:16px}.card h3{font-size:22px;line-height:1.2}.card .tx{padding:16px 18px 18px}.stats div:nth-child(n+4){display:none}.card p.d{font-size:16px}
  .xl{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
  .shelf-head{flex-wrap:nowrap;align-items:center}.shelf-head h3,.shelf-head h2{margin:0}.shelf-head .tlink{flex:none}.play .cta-row{display:none}.words{gap:6px;margin-top:12px}.words li{padding:8px 11px}.post .mins{display:none}
  .shelf-head p{display:none}.shelf-head{margin-bottom:6px}.covers.rails>li{flex:0 0 118px}.covers .t{margin-top:10px}
