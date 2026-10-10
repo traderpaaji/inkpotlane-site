@@ -9,7 +9,7 @@
    No Math.random anywhere: the same level is the same puzzle on every device. */
 (function(root){
 'use strict';
-var VERSION=1;
+var VERSION=1,WD_VERSION=2;   /* WD_VERSION 2 (11 Oct): whodunit clues need two-step reading from level 1; word search seeds unchanged */
 /* ------------------------------------------------------------------ seeded random */
 function hash(s){var h=2166136261>>>0;for(var i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)>>>0}return h>>>0}
 function rng(seed){var a=seed>>>0;return function(){a=(a+0x6D2B79F5)>>>0;var t=a;t=Math.imul(t^(t>>>15),t|1);t^=t+Math.imul(t^(t>>>7),t|61);return((t^(t>>>14))>>>0)/4294967296}}
@@ -51,12 +51,12 @@ function isBoss(n){return n%10===0}
 function wsParams(n){
  var p={size:8,words:6,minLen:4,maxLen:7,dirs:['E','S'],overlap:false,decoys:0,message:false,reverseHeavy:false,mix:false,twist:''};
  if(n<=2){p.size=8;p.words=n===1?6:7}
- else if(n<=5){p.size=9;p.words=7+(n>=4?1:0);p.dirs=['E','S','SE'];if(n===3)p.twist='New: words can run diagonally.'}
+ else if(n<=5){p.size=9;p.words=7+(n>=4?1:0);p.dirs=['E','S','SE'];if(n===3)p.twist='New: words can now run in more directions.'}
  else if(n<=9){p.size=10;p.words=8+(n>=8?1:0);p.dirs=['E','S','SE','N'];if(n>=8)p.dirs.push('W');p.maxLen=8;
-  if(n===6)p.twist='New: words can run upwards.';if(n===8)p.twist='New: words can run backwards, right to left.'}
+  if(n===6||n===8)p.twist='New: words can now run in more directions.'}
  else if(n===10){p.size=10;p.words=10;p.dirs=['E','S','SE','N','W'];p.maxLen=8}
  else if(n<=19){p.size=11;p.words=9+Math.floor((n-11)/3);p.dirs=['E','S','SE','N','W','NE'];if(n>=14)p.dirs.push('SW');if(n>=17)p.dirs.push('NW');
-  p.overlap=true;p.maxLen=8;if(n===11)p.twist='New: words can share letters, and run diagonally up.';if(n===14)p.twist='New: words can run diagonally down to the left.';if(n===17)p.twist='Now words can run in all eight directions.'}
+  p.overlap=true;p.maxLen=8;if(n===11)p.twist='New: words can share letters, and run in more directions.';if(n===14)p.twist='New: words can now run in more directions.';if(n===17)p.twist='Now words can run in all eight directions.'}
  else if(n===20){p.size=12;p.words=13;p.dirs=ALL8;p.overlap=true;p.maxLen=9}
  else if(n<=29){p.size=12;p.words=11+Math.floor((n-21)/4);p.dirs=ALL8;p.overlap=true;p.maxLen=9;p.decoys=2+Math.floor((n-21)/3);
   if(n===21)p.twist='New: decoys. Some near-misses (a word missing its last letter) are hidden in the grid.'}
@@ -144,21 +144,37 @@ var LOST=[['the prize marrow','the village hall'],['the brass bell','the church 
 function art(w){return (/^[aeiou]/i.test(w)?'an ':'a ')+w}
 function clock(m){var h=Math.floor(m/60),mm=m%60;return (h>12?h-12:h)+':'+(mm<10?'0':'')+mm+(h>=12?' pm':' am')}
 
+/* 11 Oct (owner played levels 1-3: "this person left before this time, this is not wearing this, this is not carrying this"):
+   from level 1 every whodunit needs TWO-STEP clues - ones you cannot apply by reading a single cell: "before the person in
+   the green scarf did" (find that person, then compare times), "not someone who wore red AND left after 7" (check two cells,
+   rule out only people who did both), "before the baker did", and "if" clues from level 5. "Not the <job>" (it simply names
+   the person) is kept out below level 10. TWO_MIN(n) of the clues must be two-step and at least one must be a ref/nand/if clue. */
 function wdParams(n){
- var p={sus:5,lo:4,hi:4,kinds:['neqC','after','before','neqJ'],cols:['job','colour','time'],decoy:false,twist:''};
- if(n===1){p.kinds=['neqC','after','before','beforeP','neqJ']}
- else if(n===2){p.sus=6;p.kinds=['neqC','eqC','after','before','beforeP','afterP','neqJ']}
- else if(n<=4){p.sus=6;p.lo=4;p.hi=5;p.cols=['job','colour','item','time'];p.kinds=['neqC','eqC','after','before','beforeP','afterP','neqJ','neqI','eqI'];if(n===3)p.twist='New: a fourth column, what each person carried.'}
- else if(n<=9){p.sus=7;p.lo=5;p.hi=n<=6?5:6;p.cols=['job','colour','item','time'];p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT'];
+ var p={sus:5,lo:4,hi:4,kinds:[],cols:['job','colour','time'],decoy:false,twist:''};
+ if(n===1){p.sus=6;p.kinds=['neqC','after','before','beforeP','afterP','refC','nandCT'];p.twist='Read each clue exactly. "Not someone who wore a red scarf and left after 7:00 pm" rules out only people who did both.'}
+ else if(n===2){p.sus=6;p.kinds=['neqC','eqC','after','before','beforeP','afterP','refC','nandCT']}
+ else if(n<=4){p.sus=6;p.lo=4;p.hi=5;p.cols=['job','colour','item','time'];p.kinds=['neqC','eqC','after','before','beforeP','afterP','neqI','eqI','refC','refI','nandCT','nandCI'];if(n===3)p.twist='New: a fourth column, what each person carried.'}
+ else if(n<=9){p.sus=7;p.lo=5;p.hi=n<=6?5:6;p.cols=['job','colour','item','time'];p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqI','anyI','ifCthenT','refC','refI','nandCT','nandCI'];
   if(n===5)p.twist='New: an "if" clue. It only rules out someone who matches its first half and breaks its second half. Everyone else is unaffected.';if(n>=7){p.cols.push('street');p.decoy=true}if(n===7)p.twist='New: a column that no clue uses. Not every fact matters.'}
- else if(n===10){p.sus=8;p.lo=6;p.hi=7;p.cols=['job','colour','item','time','street'];p.decoy=true;p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT','ifIthenT']}
+ else if(n===10){p.sus=8;p.lo=6;p.hi=7;p.cols=['job','colour','item','time','street'];p.decoy=true;p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT','ifIthenT','refC','refI','nandCT','nandCI']}
  else if(n<=29){p.sus=n<20?8+Math.floor((n-11)/5):(n===20?10:10+Math.floor((n-21)/5));p.lo=6;p.hi=n<20?7:8;p.cols=['job','colour','item','time','street'];p.decoy=n%2===1;
-  p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT','ifIthenT','neqS','anyS'];if(!p.decoy){}if(n===12)p.twist='New: a clue can be about the street someone lives on.'}
+  p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT','ifIthenT','neqS','anyS','refC','refI','nandCT','nandCI'];if(n===12)p.twist='New: a clue can be about the street someone lives on.'}
  else{var k=n-30;p.sus=Math.min(18,12+Math.floor(k/10));p.lo=7+Math.min(2,Math.floor(k/20));p.hi=p.lo+2;p.cols=['job','colour','item','time','street'];p.decoy=n%3===0;
-  p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT','ifIthenT','neqS','anyS']}
+  p.kinds=['neqC','eqC','anyC','after','before','beforeP','afterP','neqJ','neqI','anyI','ifCthenT','ifIthenT','neqS','anyS','refC','refI','nandCT','nandCI']}
  if(isBoss(n)&&n>=20){p.sus+=1;p.lo+=1;p.hi+=1}
  if(p.decoy&&p.cols.indexOf('street')<0)p.cols.push('street');
  return p}
+function TWO_MIN(n){return n<10?2:3}
+/* depth(R,S): 2 = a real two-step clue, 1 = a one-cell look-up. A "before/after the baker / the person in green" clue counts as
+   two-step only when it rules out somebody other than that person (a real time comparison, not "not the baker" in disguise).
+   "Not someone who X and Y" always spares somebody who matches X alone (see the candidates); "if" clues are two-step.
+   trap(R,S,C): the culprit matches the FIRST half of a "not someone who ... and" or "if" clue, so a solver who reads it as a
+   plain one-column clue crosses off the culprit and has to go back - the reading the book's "Reading a clue exactly" page
+   teaches. Every level from 1 has TWO_MIN(n) two-step clues and at least one trap. */
+function refOf(R,S){return R.k==='beforeP'||R.k==='afterP'?S.filter(function(x){return x.job===R.job})[0]:S.filter(function(x){return x[R.a]===R.v})[0]}
+function depth(R,S){if(R.k==='nand'||R.k==='if')return 2;
+ if(R.k==='beforeP'||R.k==='afterP'||R.k==='beforeA'||R.k==='afterA'){var o=refOf(R,S);return S.some(function(x){return x!==o&&!holds(R,x,S)})?2:1}return 1}
+function trap(R,S,C){return (R.k==='nand'||R.k==='if')&&S[C][R.a]===R.v}
 
 /* a rule is plain data; holds(rule, suspect, suspects) is the one place its meaning is defined */
 function holds(R,s,S){switch(R.k){
@@ -166,7 +182,12 @@ function holds(R,s,S){switch(R.k){
  case 'after':return s.time>R.t; case 'before':return s.time<R.t;
  case 'beforeP':return s.time<S.filter(function(x){return x.job===R.job})[0].time;
  case 'afterP':return s.time>S.filter(function(x){return x.job===R.job})[0].time;
- case 'if':return s[R.a]!==R.v||(R.then==='before'?s.time<R.t:s.time>R.t)}throw new Error('rule')}
+ case 'if':return s[R.a]!==R.v||(R.then==='before'?s.time<R.t:s.time>R.t);
+ case 'beforeA':case 'afterA':var o=S.filter(function(x){return x[R.a]===R.v});if(o.length!==1)throw new Error('reference is not one person');
+  return R.k==='beforeA'?s.time<o[0].time:s.time>o[0].time;
+ case 'nand':return !(s[R.a]===R.v&&(R.b==='time'?(R.then==='before'?s.time<R.t:s.time>R.t):s[R.b]===R.w))}throw new Error('rule')}
+function who(R){return R.a==='colour'?'the person in the '+R.v+' scarf':'the person carrying the '+R.v}
+function half2(R){return R.b==='time'?'left '+R.then+' '+clock(R.t):'carried '+art(R.w)}
 var ATTR_WORD={colour:'scarf',item:'',street:''};
 function clueText(R){switch(R.k){
  case 'neq':return R.a==='colour'?'They were not wearing '+art(R.v)+' scarf.':R.a==='job'?'They are not the '+R.v+'.':R.a==='item'?'They were not carrying '+art(R.v)+'.':'They do not live on '+R.v+'.';
@@ -174,7 +195,9 @@ function clueText(R){switch(R.k){
  case 'any':return R.a==='colour'?'Their scarf was '+R.v[0]+' or '+R.v[1]+'.':R.a==='item'?'They carried '+art(R.v[0])+' or '+art(R.v[1])+'.':'They live on '+R.v[0]+' or '+R.v[1]+'.';
  case 'after':return 'They left after '+clock(R.t)+'.'; case 'before':return 'They left before '+clock(R.t)+'.';
  case 'beforeP':return 'They left before the '+R.job+' did.'; case 'afterP':return 'They left after the '+R.job+' did.';
- case 'if':return 'If they '+(R.a==='colour'?'wore '+art(R.v)+' scarf':'carried '+art(R.v))+', they left '+R.then+' '+clock(R.t)+'.'}}
+ case 'if':return 'If they '+(R.a==='colour'?'wore '+art(R.v)+' scarf':'carried '+art(R.v))+', they left '+R.then+' '+clock(R.t)+'.';
+ case 'beforeA':return 'They left before '+who(R)+' did.'; case 'afterA':return 'They left after '+who(R)+' did.';
+ case 'nand':return 'They are not someone who wore '+art(R.v)+' scarf and '+half2(R)+'.'}}
 function because(R,s,S){var n=s.name;switch(R.k){
  case 'neq':return R.a==='colour'?n+' wore '+art(R.v)+' scarf.':R.a==='job'?n+' is the '+R.v+'.':R.a==='item'?n+' was carrying '+art(R.v)+'.':n+' lives on '+R.v+'.';
  case 'eq':case 'any':return R.a==='colour'?n+' wore '+art(s.colour)+' scarf.':R.a==='item'?n+' carried '+art(s.item)+'.':n+' lives on '+s.street+'.';
@@ -182,11 +205,14 @@ function because(R,s,S){var n=s.name;switch(R.k){
  case 'before':return n+' left at '+clock(s.time)+', which is not before '+clock(R.t)+'.';
  case 'beforeP':case 'afterP':var o=S.filter(function(x){return x.job===R.job})[0];if(o===s)return n+' is the '+R.job+', and nobody leaves '+(R.k==='beforeP'?'before':'after')+' themselves.';
   return n+' left at '+clock(s.time)+' and the '+R.job+' left at '+clock(o.time)+'.';
- case 'if':return n+(R.a==='colour'?' wore '+art(R.v)+' scarf':' carried '+art(R.v))+' and left at '+clock(s.time)+', which is not '+R.then+' '+clock(R.t)+'.'}}
+ case 'if':return n+(R.a==='colour'?' wore '+art(R.v)+' scarf':' carried '+art(R.v))+' and left at '+clock(s.time)+', which is not '+R.then+' '+clock(R.t)+'.';
+ case 'beforeA':case 'afterA':var q=S.filter(function(x){return x[R.a]===R.v})[0];if(q===s)return n+' is '+who(R)+', and nobody leaves '+(R.k==='beforeA'?'before':'after')+' themselves.';
+  return n+' left at '+clock(s.time)+' and '+who(R)+' left at '+clock(q.time)+'.';
+ case 'nand':return n+' wore '+art(R.v)+' scarf and '+(R.b==='time'?'left at '+clock(s.time)+', which is '+R.then+' '+clock(R.t):'carried '+art(R.w))+': both halves fit.'}}
 
 function kkey(R){return R.k+(R.a?':'+R.a:'')}
 function genWhodunit(n,attempt){
- var p=wdParams(n),r=rng(hash('wd|'+VERSION+'|'+n+'|'+attempt)),N=p.sus;
+ var p=wdParams(n),r=rng(hash('wd|'+WD_VERSION+'|'+n+'|'+attempt)),N=p.sus;
  var names=shuffle(r,FIRST).slice(0,N),jobs=shuffle(r,JOBS).slice(0,N);
  var nCol=Math.min(COLOURS.length,Math.max(3,Math.ceil(N*0.6))),cols=shuffle(r,COLOURS).slice(0,nCol),items=shuffle(r,ITEMS).slice(0,Math.max(3,Math.ceil(N*0.5))),streets=shuffle(r,STREETS).slice(0,Math.max(3,Math.ceil(N*0.4)));
  var times=shuffle(r,(function(){var a=[];for(var m=17*60;m<=21*60;m+=5)if(m%30!==0)a.push(m);return a})()).slice(0,N).sort(function(a,b){return a-b});
@@ -212,7 +238,18 @@ function genWhodunit(n,attempt){
   if(k==='ifIthenT'&&p.cols.indexOf('item')>-1)items.forEach(function(v){halfHours.forEach(function(t){add({k:'if',a:'item',v:v,then:'before',t:t});add({k:'if',a:'item',v:v,then:'after',t:t})})});
   if(k==='neqS'&&!p.decoy)streets.forEach(function(v){add({k:'neq',a:'street',v:v})});
   if(k==='anyS'&&!p.decoy)streets.forEach(function(v){if(v!==cul.street)add({k:'any',a:'street',v:shuffle(r,[cul.street,v])})});
+  /* ref clues: the reference value belongs to exactly one person, so "the person in the green scarf" is one row */
+  if(k==='refC'||(k==='refI'&&p.cols.indexOf('item')>-1)){var at=k==='refC'?'colour':'item';(at==='colour'?cols:items).forEach(function(v){
+   if(S.filter(function(x){return x[at]===v}).length===1){add({k:'beforeA',a:at,v:v});add({k:'afterA',a:at,v:v})}})}
+  /* "not someone who X and Y": only offered when somebody matches X alone (and, for two columns, Y alone), so reading it as a
+     plain "not X" gives a wrong answer */
+  if(k==='nandCT')cols.forEach(function(v){halfHours.forEach(function(t){['before','after'].forEach(function(th){var R={k:'nand',a:'colour',v:v,b:'time',then:th,t:t};
+   if(S.some(function(x){return x.colour===v&&holds(R,x,S)}))add(R)})})});
+  if(k==='nandCI'&&p.cols.indexOf('item')>-1)cols.forEach(function(v){items.forEach(function(w){var R={k:'nand',a:'colour',v:v,b:'item',w:w};
+   if(S.some(function(x){return x.colour===v&&holds(R,x,S)})&&S.some(function(x){return x.item===w&&holds(R,x,S)}))add(R)})});
  });
+ /* ChatGPT round 11 Oct: below level 10 a before/after-a-person clue must do a real comparison, not just remove that person */
+ if(n<10)cand=cand.filter(function(c){return depth(c.R,S)===2||['beforeP','afterP','beforeA','afterA'].indexOf(c.R.k)<0});
  if(!cand.length)return null;
  /* greedy cover, then prune leave-one-out redundancy (random order) - the book's witness standard */
  var chosen=[],alive=S.map(function(_,i){return i!==C});
@@ -222,7 +259,8 @@ function genWhodunit(n,attempt){
   var used={};chosen.forEach(function(c){used[kkey(c.R)]=(used[kkey(c.R)]||0)+1});
   var ifMax=n<5?0:(n<30?1:2),jobMax=n<20?1:2,nIf=chosen.filter(function(c){return c.R.k==='if'}).length;
   useful=useful.filter(function(c){return !(c.R.k==='if'&&nIf>=ifMax)&&!(kkey(c.R)==='neq:job'&&(used['neq:job']||0)>=jobMax)});if(!useful.length)return null;
-  var score=function(c){return (used[kkey(c.R)]||0)*1.2+c.m.filter(function(x){return!x}).length+r()*1.5};
+  var needTwo=chosen.filter(function(c){return depth(c.R,S)===2}).length<TWO_MIN(n),needTrap=!chosen.some(function(c){return trap(c.R,S,C)});
+  var score=function(c){return (used[kkey(c.R)]||0)*1.2+c.m.filter(function(x){return!x}).length+r()*1.5-(needTwo&&depth(c.R,S)===2?3:0)-(needTrap&&trap(c.R,S,C)?3:0)+(n===1&&c.R.k==='nand'&&!needTrap?20:0)-(n===1&&c.R.k!=='nand'&&depth(c.R,S)===2&&!chosen.some(function(x){return x.R.k!=='nand'&&depth(x.R,S)===2})?3:0)};
   useful.forEach(function(c){c.sc=score(c)});useful.sort(function(a,b){return a.sc-b.sc});
   var c=useful[Math.min(useful.length-1,Math.floor(Math.pow(r(),2)*Math.min(useful.length,5)))];chosen.push(c);c.m.forEach(function(x,i){if(!x)alive[i]=false})}
  if(alive.some(Boolean))return null;
@@ -242,13 +280,19 @@ function genWhodunit(n,attempt){
  if(n>=2&&!chosen.some(function(c){return c.m.filter(function(x){return!x}).length>=2}))return null;
  if(n===3&&!chosen.some(function(c){return c.R.a==='item'}))return null;
  if(n===5&&!ifs)return null;
+ /* two-step gate (11 Oct): no level is a list of one-cell look-ups */
+ if(chosen.filter(function(c){return depth(c.R,S)===2}).length<TWO_MIN(n))return null;
+ if(!chosen.some(function(c){return trap(c.R,S,C)}))return null;
+ if(n<10&&cnt['neq:job'])return null;
+ /* level 1 teaches one two-part clue at a time: exactly one, plus a real before/after comparison */
+ if(n===1&&(chosen.filter(function(c){return c.R.k==='nand'}).length!==1||!chosen.some(function(c){return c.R.k!=='nand'&&depth(c.R,S)===2})))return null;
  chosen=shuffle(r,chosen);
  /* teaching order on early levels: a time clue first */
  if(n<=5){chosen.sort(function(a,b){return (a.R.k==='after'||a.R.k==='before'?0:1)-(b.R.k==='after'||b.R.k==='before'?0:1)})}
  var lost=pick(r,LOST);
  var clues=chosen.map(function(c){return{text:clueText(c.R),rule:c.R}});
  var columns=p.cols.slice();
- return {type:'wd',level:n,attempt:attempt,question:'Who took '+lost[0]+'?',place:lost[1],
+ return {type:'wd',level:n,attempt:attempt,wdVersion:WD_VERSION,question:'Who took '+lost[0]+'?',place:lost[1],
   story:'At closing time '+lost[0]+' was gone from '+lost[1]+'. '+N+' people had been in that evening, and each left once, at the time shown. One of them took it.',
   suspects:S.map(function(s){return{name:s.name,job:s.job,colour:s.colour,item:s.item,street:s.street,time:s.time,left:clock(s.time)}}),
   columns:columns,decoyColumn:p.decoy?'street':'',clues:clues,culprit:C,twist:p.twist,boss:isBoss(n),target:targetTime('wd',n)}}
@@ -280,7 +324,7 @@ function level(type,n){if(!(n>=1))throw new Error('level must be 1 or more');n=M
   var e=type==='ws'?verifyWordSearch(P):verifyWhodunit(P);if(!e.length){if(type==='wd'){var x=explain(P);P.wrong=x.wrong;P.walk=x.walk}P.verified=true;return P}}
  throw new Error('no verified puzzle for '+type+' level '+n)}
 
-var API={VERSION:VERSION,level:level,wsParams:wsParams,wdParams:wdParams,verifyWordSearch:verifyWordSearch,verifyWhodunit:verifyWhodunit,
+var API={VERSION:VERSION,WD_VERSION:WD_VERSION,depth:depth,trap:trap,TWO_MIN:TWO_MIN,level:level,wsParams:wsParams,wdParams:wdParams,verifyWordSearch:verifyWordSearch,verifyWhodunit:verifyWhodunit,
  holds:holds,clock:clock,DIR_WORDS:DIR_WORDS,DIRS:DIRS,isBoss:isBoss,THEMES:THEMES,MESSAGES:MESSAGES};
 if(typeof module!=='undefined'&&module.exports)module.exports=API;else root.InkpotLevels=API;
 })(this);

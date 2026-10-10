@@ -33,7 +33,9 @@ function start(focus){try{P=LV.level(type,level)}catch(err){/* a level the gener
  tabs.forEach(function(b){b.setAttribute('aria-pressed',b.getAttribute('data-type')===type?'true':'false')});
  $('pl-goto').max=D.currentLevel[type];$('pl-goto').value='';
  $('pl-h').textContent='Level '+level+(P.boss?': milestone level':'')+' · '+(type==='ws'?'Word search':'Whodunit');
- var info=[];if(type==='ws'){info.push(P.size+' by '+P.size+' grid, '+P.words.length+' words. Theme: '+P.theme+'.');info.push('Words run '+P.dirs.map(function(d){return LV.DIR_WORDS[d]}).join(', ')+'.');
+ /* 11 Oct (owner): the directions are NOT stated up front - finding them is part of the puzzle. They sit behind an optional,
+    free "Which ways can words run?" disclosure in renderWS (native details: keyboard and screen-reader operable, closed by default). */
+ var info=[];if(type==='ws'){info.push(P.size+' by '+P.size+' grid, '+P.words.length+' words. Theme: '+P.theme+'.');
   if(P.message)info.push('Hidden message: when every word is found, the leftover letters, read row by row, spell a message.');if(P.decoys.length)info.push('Watch for decoys: near-misses that stop one letter short.')}
  else{info.push(P.suspects.length+' suspects, '+P.clues.length+' clues.'+(P.decoyColumn?' One column is not used by any clue.':''))}
  $('pl-info').textContent=info.join(' ');$('pl-twist').textContent=P.twist||'';$('pl-twist').hidden=!P.twist;
@@ -68,7 +70,12 @@ function renderWS(){var N=P.size,g=el('div',{cls:'pl-grid',id:'pl-grid',role:'gr
  tm.addEventListener('click',function(){var v=['tr1','tc1','tr2','tc2'].map(function(i){return parseInt($('pl-'+i).value,10)});
   if(v.some(function(x){return !(x>=1&&x<=N)})){say('Please type a number from 1 to '+N+' in all four boxes.');$('pl-tr1').focus();return}
   st.picked=null;pickCell(v[0]-1,v[1]-1);pickCell(v[2]-1,v[3]-1)});
- box.appendChild(keys);box.appendChild(wrap);box.appendChild(list);box.appendChild(count);box.appendChild(det);
+ /* optional direction tip, free (no coin): a player who wants it - or a screen-reader user who would rather not search all
+    eight directions cell by cell - opens it; nobody sees it unasked */
+ var tip=el('details',{cls:'pz-text pl-dirs'});tip.appendChild(el('summary',null,'Which ways can words run? (optional tip)'));
+ tip.appendChild(el('p',null,'On this level, words run '+P.dirs.map(function(d){return LV.DIR_WORDS[d]}).join(', ')+'.'));
+ tip.addEventListener('toggle',function(){if(tip.open)ev('pl_dir_tip',{level:level})});
+ box.appendChild(keys);box.appendChild(wrap);box.appendChild(list);box.appendChild(count);box.appendChild(tip);box.appendChild(det);
  function line(a,b){var dr=b[0]-a[0],dc=b[1]-a[1],n=Math.max(Math.abs(dr),Math.abs(dc));if(n===0||(dr!==0&&dc!==0&&Math.abs(dr)!==Math.abs(dc)))return null;
   var sr=Math.sign(dr),sc=Math.sign(dc),o=[];for(var i=0;i<=n;i++)o.push([a[0]+sr*i,a[1]+sc*i]);return o}
  function markWord(w,cells){st.found[w]=1;cells.forEach(function(x){var q=cell(x[0],x[1]);q.classList.add('found');if(q.getAttribute('aria-label').indexOf('found word')<0)q.setAttribute('aria-label',q.getAttribute('aria-label')+', part of found word '+w)});
@@ -100,7 +107,7 @@ function renderWD(){box.appendChild(el('p',{cls:'pl-story'},P.story));
  box.appendChild(el('h3',{id:'pl-clue-h',cls:'pl-sub'},'The '+P.clues.length+' clues'));
  var ol=el('ol',{cls:'wd-clues','aria-labelledby':'pl-clue-h'});P.clues.forEach(function(c){ol.appendChild(el('li',null,c.text))});box.appendChild(ol);
  var rd=el('details',{cls:'pz-text wd-read'});rd.appendChild(el('summary',null,'How to read a clue exactly'));
- ['After a time means later than it: someone who left at exactly that time is ruled out.','"Before the baker did" can never be the baker: nobody leaves before themselves. It also rules out everyone who left after the baker.','An "if" clue only rules out someone who matches its first half and breaks its second half. It says nothing about anyone else.',"The Scarf column is the colour of each person’s scarf. A column that no clue mentions does not matter."].forEach(function(t){rd.appendChild(el('p',null,t))});box.appendChild(rd);
+ ['After a time means later than it: someone who left at exactly that time is ruled out.','"Before the baker did" can never be the baker: nobody leaves before themselves. It also rules out everyone who left after the baker.','"Before the person in the green scarf did" works the same way: find that one person first, then compare times.','"Not someone who wore a red scarf and left after 7:00 pm" rules out only people who did both. A red scarf alone, or leaving late alone, is not enough.','An "if" clue only rules out someone who matches its first half and breaks its second half. It says nothing about anyone else.',"The Scarf column is the colour of each person’s scarf. A column that no clue mentions does not matter."].forEach(function(t){rd.appendChild(el('p',null,t))});box.appendChild(rd);
  var form=el('form',{cls:'wd-form',novalidate:''}),fs=el('fieldset');fs.appendChild(el('legend',null,P.question));var opts=el('div',{cls:'wd-opts'});
  P.suspects.forEach(function(s,i){var lb=el('label',{cls:'wd-opt'});var inp=el('input',{type:'radio',name:'pl-who',value:String(i)});lb.appendChild(inp);lb.appendChild(el('span',{cls:'dot','aria-hidden':'true'}));
   lb.appendChild(el('span',{cls:'on'},s.name));lb.appendChild(el('span',{cls:'wd-tag',id:'pl-tag'+i}));opts.appendChild(lb)});fs.appendChild(opts);form.appendChild(fs);
