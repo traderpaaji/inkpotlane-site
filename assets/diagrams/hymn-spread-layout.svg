@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" width="700" height="440" role="img">
+<title>One carol, one two-page spread: the left page carries two to four verses of the carol's traditional words and a short sourced story about it; the facing right page is a word search built only from the words of that same carol.</title>
+<desc>A two-page book spread. Left page: lines of carol verses, then a short story paragraph about who wrote the carol and when. Right page: a large square word-search grid, with a note below it saying the puzzle is built only from that carol's own words. An arrow points from the left page to the right page.</desc>
+<rect width="700" height="440" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One carol, one two-page spread</text>
+<rect x="50" y="72" width="280" height="320" rx="6" fill="#ffffff" stroke="#2b2620" stroke-width="3"/>
+<text x="190" y="106" font-size="20" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Left-hand page</text>
+<text x="70" y="150" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">2-4 verses of the carol's</text>
+<text x="70" y="178" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">traditional words,</text>
+<text x="70" y="206" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">set large and clear,</text>
+<text x="70" y="234" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">then a short, sourced</text>
+<text x="70" y="262" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">story about the carol</text>
+<text x="70" y="290" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">— who wrote it,</text>
+<text x="70" y="318" font-size="17" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and when.</text>
+<rect x="370" y="72" width="280" height="320" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="3"/>
+<text x="510" y="106" font-size="20" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Right-hand page</text>
+<line x1="430" y1="142" x2="430" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="142" x2="584" y2="142" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="452" y1="142" x2="452" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="164" x2="584" y2="164" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="474" y1="142" x2="474" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="186" x2="584" y2="186" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="496" y1="142" x2="496" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="208" x2="584" y2="208" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="518" y1="142" x2="518" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="230" x2="584" y2="230" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="540" y1="142" x2="540" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="252" x2="584" y2="252" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="562" y1="142" x2="562" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="274" x2="584" y2="274" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="584" y1="142" x2="584" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<line x1="430" y1="296" x2="584" y2="296" stroke="#d9d1c3" stroke-width="1.5"/>
+<text x="510" y="330" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">A word search built only</text>
+<text x="510" y="350" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">from that carol's own words</text>
+<path d="M 340 232 L 350 222 L 360 232" fill="none" stroke="#2b2620" stroke-width="2"/>
+</svg>

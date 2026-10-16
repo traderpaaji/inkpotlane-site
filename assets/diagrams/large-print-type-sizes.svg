@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" width="700" height="500" role="img">
+<title>How big is large print, really? The word “Noel” scaled to four relative point sizes: a typical adult paperback's 10 to 12 point type, large-print editions generally at 16 to 18 point (National Library Service figures), this book's 16 point or larger reading text, and this book's 21.5 point word-search grid letters. A note explains these are relative sizes, not a true-to-scale screen rendering.</title>
+<desc>Four rows, each a label and the word Noel drawn at its relative size, plus a note at the bottom. Row one, a typical adult paperback, 10 to 12 point, smallest, per National Library Service figures. Row two, large-print editions generally, 16 to 18 point, also per National Library Service figures. Row three, this book's reading text, 16 point or larger, about the same size as row two. Row four, this book's word search grid letters, 21.5 point, the largest word on the page. The note says the sizes are relative to each other, not to the physical page, since a screen cannot show point sizes at their true printed scale.</desc>
+<rect width="700" height="500" fill="#fbf8f2"/>
+<text x="350" y="44" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">How big is “large print,” really?</text>
+<text x="350" y="72" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The same word, scaled to these relative point sizes</text>
+<rect x="40" y="104" width="620" height="76" rx="8" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="60" y="136" font-size="18" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A typical adult paperback</text>
+<text x="60" y="162" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">10-12 pt (NLS)</text>
+<text x="640" y="156" font-size="22" fill="#6b6358" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Noel</text>
+<rect x="40" y="194" width="620" height="76" rx="8" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="60" y="226" font-size="18" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">“Large print” editions generally</text>
+<text x="60" y="252" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">16-18 pt (NLS)</text>
+<text x="640" y="246" font-size="34" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Noel</text>
+<rect x="40" y="284" width="620" height="76" rx="8" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="60" y="316" font-size="18" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">This book's reading text</text>
+<text x="60" y="342" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">16 pt or larger</text>
+<text x="640" y="336" font-size="34" fill="#2b2620" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Noel</text>
+<rect x="40" y="374" width="620" height="76" rx="8" fill="#eceef4" stroke="#d9d1c3" stroke-width="2"/>
+<text x="60" y="406" font-size="18" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">This book's word search grid letters</text>
+<text x="60" y="432" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">21.5 pt</text>
+<text x="640" y="426" font-size="44" fill="#2f6f3a" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Noel</text>
+<text x="350" y="474" font-size="14" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Sizes are relative to each other, not to the physical page — a phone or computer</text>
+<text x="350" y="494" font-size="14" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">screen does not show point sizes at their true printed scale.</text>
+</svg>

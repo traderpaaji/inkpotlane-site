@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" width="700" height="480" role="img">
+<title>Three fair-play rulebooks in three years: S. S. Van Dine's twenty rules (1928), Ronald Knox's ten rules (1929) and the Detection Club's oath (1930). All three say the reader must be given every clue before the answer.</title>
+<desc>A timeline with three points. 1928: S. S. Van Dine, Twenty Rules for Writing Detective Stories, The American Magazine, September 1928. 1929: Ronald Knox, ten rules for detective fiction, his Decalogue. 1930: The Detection Club, founded in London; new members swear an oath to play fair with the reader. A line below says what all three share: the reader must be given every clue before the answer. Sources: Wikipedia entries for the three.</desc>
+<rect width="700" height="480" fill="#fbf8f2"/>
+<text x="350" y="46" font-size="28" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Three rulebooks in three years</text>
+<text x="350" y="76" font-size="19" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Where the fair-play rules for detective stories were written down</text>
+<line x1="60" y1="150" x2="640" y2="150" stroke="#d9d1c3" stroke-width="6"/>
+<circle cx="130" cy="150" r="16" fill="#f2a03d" stroke="#ffffff" stroke-width="3"/>
+<text x="130" y="122" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1928</text>
+<rect x="25" y="190" width="210" height="190" rx="8" fill="#ffffff" stroke="#f2a03d" stroke-width="3"/>
+<text x="130" y="224" font-size="21" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">S. S. Van Dine</text>
+<text x="130" y="258" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Twenty Rules for Writing</text>
+<text x="130" y="285" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Detective Stories,</text>
+<text x="130" y="312" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The American Magazine,</text>
+<text x="130" y="339" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">September 1928</text>
+<circle cx="350" cy="150" r="16" fill="#b8323a" stroke="#ffffff" stroke-width="3"/>
+<text x="350" y="122" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1929</text>
+<rect x="245" y="190" width="210" height="190" rx="8" fill="#ffffff" stroke="#b8323a" stroke-width="3"/>
+<text x="350" y="224" font-size="21" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Ronald Knox</text>
+<text x="350" y="258" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Ten rules for</text>
+<text x="350" y="285" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">detective fiction,</text>
+<text x="350" y="312" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">his 'Decalogue'</text>
+<circle cx="570" cy="150" r="16" fill="#3a5496" stroke="#ffffff" stroke-width="3"/>
+<text x="570" y="122" font-size="26" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1930</text>
+<rect x="465" y="190" width="210" height="190" rx="8" fill="#ffffff" stroke="#3a5496" stroke-width="3"/>
+<text x="570" y="224" font-size="21" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Detection Club</text>
+<text x="570" y="258" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Founded in London;</text>
+<text x="570" y="285" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">new members swear an</text>
+<text x="570" y="312" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">oath to play fair</text>
+<text x="570" y="339" font-size="18" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">with the reader</text>
+<text x="350" y="430" font-size="19" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">What all three share: the reader must be given every clue before the answer.</text>
+<text x="350" y="458" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Sources: Wikipedia entries for S. S. Van Dine, Ronald Knox and the Detection Club.</text>
+</svg>
