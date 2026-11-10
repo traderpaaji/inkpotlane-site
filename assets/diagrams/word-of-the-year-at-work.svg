@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 460" width="700" height="460" role="img">
+<title>One word of the year at work: the word Simplify turned into one small action each for the calendar, the home, money and the phone.</title>
+<desc>The word SIMPLIFY in the center, with four connected boxes. Calendar: say no to one thing this week. Home: clear one shelf on Sunday. Money: cancel one unused subscription. Phone: one app off the home screen.</desc>
+<rect width="700" height="460" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One word at work: SIMPLIFY</text>
+<line x1="170" y1="160" x2="350" y2="235" stroke="#6b6358" stroke-width="3"/>
+<line x1="530" y1="160" x2="350" y2="235" stroke="#6b6358" stroke-width="3"/>
+<line x1="170" y1="340" x2="350" y2="265" stroke="#6b6358" stroke-width="3"/>
+<line x1="530" y1="340" x2="350" y2="265" stroke="#6b6358" stroke-width="3"/>
+<rect x="250" y="200" width="200" height="70" rx="12" fill="#4f2840" stroke="#4f2840" stroke-width="2"/>
+<text x="350" y="244" font-size="26" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">SIMPLIFY</text>
+<rect x="40" y="70" width="260" height="90" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="56" y="104" font-size="18" fill="#4f2840" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Calendar</text>
+<text x="56" y="134" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Say no to one thing this week.</text>
+<rect x="400" y="70" width="260" height="90" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="416" y="104" font-size="18" fill="#4f2840" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Home</text>
+<text x="416" y="134" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Clear one shelf on Sunday.</text>
+<rect x="40" y="340" width="260" height="90" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="56" y="374" font-size="18" fill="#4f2840" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Money</text>
+<text x="56" y="404" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Cancel one unused subscription.</text>
+<rect x="400" y="340" width="260" height="90" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="416" y="374" font-size="18" fill="#4f2840" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Phone</text>
+<text x="416" y="404" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">One app off the home screen.</text>
+</svg>

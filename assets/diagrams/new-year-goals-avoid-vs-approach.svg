@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420" role="img">
+<title>Rewrite a new year goal from stop to do: four avoidance goals and their approach versions. In a 2020 study of 1,066 people, 58.9% of those with approach goals who answered after a year reported success, against 47.1% with avoidance goals. These are self-reported results from people with different goal types, not proof that rewording a goal causes success.</title>
+<desc>Two columns joined by arrows. Avoid, then approach: stop ordering takeaway becomes cook at home four nights a week; stop scrolling in bed becomes read ten pages before lights out; spend less becomes save a set amount on the 1st; stop being so busy becomes keep Sunday afternoon free. A note gives the 2020 study result: of those who answered after a year, 58.9% with approach goals reported success, against 47.1% with avoidance goals; these are self-reports, not proof that rewording causes success.</desc>
+<rect width="700" height="420" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Rewrite the goal: from stop to do</text>
+<text x="190" y="86" font-size="20" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Avoid</text>
+<text x="510" y="86" font-size="20" fill="#2f6f3a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Approach</text>
+<rect x="40" y="104" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="190" y="136" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Stop ordering takeaway</text>
+<path d="M 348 122 L 362 130 L 348 138 Z" fill="#6b6358"/>
+<rect x="370" y="104" width="290" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="515" y="136" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Cook at home four nights a week</text>
+<rect x="40" y="168" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="190" y="200" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Stop scrolling in bed</text>
+<path d="M 348 186 L 362 194 L 348 202 Z" fill="#6b6358"/>
+<rect x="370" y="168" width="290" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="515" y="200" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Read ten pages before lights out</text>
+<rect x="40" y="232" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="190" y="264" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Spend less</text>
+<path d="M 348 250 L 362 258 L 348 266 Z" fill="#6b6358"/>
+<rect x="370" y="232" width="290" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="515" y="264" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Save a set amount on the 1st</text>
+<rect x="40" y="296" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="190" y="328" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Stop being so busy</text>
+<path d="M 348 314 L 362 322 L 348 330 Z" fill="#6b6358"/>
+<rect x="370" y="296" width="290" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="515" y="328" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Keep Sunday afternoon free</text>
+<text x="350" y="380" font-size="15" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">2020 study, after one year: 58.9% with approach goals reported success,</text>
+<text x="350" y="402" font-size="15" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">against 47.1% with avoidance goals. Self-reports; not proof of cause.</text>
+</svg>

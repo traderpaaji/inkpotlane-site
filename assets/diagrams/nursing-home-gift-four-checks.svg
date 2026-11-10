@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" role="img">
+<title>Four checks for a nursing home gift: it fits the space, it can be identified, they can enjoy it alone or with welcome help, and any upkeep is manageable.</title>
+<desc>Four boxes, each with a green tick. It fits the space they have: table, shelf or drawer. It can be identified: named if it goes to the laundry. They can enjoy it, alone or with help they welcome. Upkeep is manageable: if it needs charging or passwords, can they or a helper manage it? A note gives an example: a large-print puzzle book and a pencil.</desc>
+<rect width="700" height="470" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Four checks for any gift</text>
+<rect x="40" y="70" width="300" height="150" rx="10" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<circle cx="76" cy="108" r="18" fill="#2f6f3a"/>
+<path d="M 67 108 L 74 116 L 86 100" stroke="#ffffff" stroke-width="4" fill="none"/>
+<text x="106" y="115" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">It fits</text>
+<text x="190" y="162" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">the space they have:</text>
+<text x="190" y="186" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">table, shelf, drawer</text>
+<rect x="360" y="70" width="300" height="150" rx="10" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<circle cx="396" cy="108" r="18" fill="#2f6f3a"/>
+<path d="M 387 108 L 394 116 L 406 100" stroke="#ffffff" stroke-width="4" fill="none"/>
+<text x="426" y="115" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">It can be identified</text>
+<text x="510" y="162" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">named if it goes to</text>
+<text x="510" y="186" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">the laundry</text>
+<rect x="40" y="240" width="300" height="150" rx="10" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<circle cx="76" cy="278" r="18" fill="#2f6f3a"/>
+<path d="M 67 278 L 74 286 L 86 270" stroke="#ffffff" stroke-width="4" fill="none"/>
+<text x="106" y="285" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">They can enjoy it</text>
+<text x="190" y="332" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">alone, or with help</text>
+<text x="190" y="356" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">they welcome</text>
+<rect x="360" y="240" width="300" height="150" rx="10" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<circle cx="396" cy="278" r="18" fill="#2f6f3a"/>
+<path d="M 387 278 L 394 286 L 406 270" stroke="#ffffff" stroke-width="4" fill="none"/>
+<text x="426" y="285" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Upkeep is manageable</text>
+<text x="510" y="332" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">charging, passwords:</text>
+<text x="510" y="356" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">can they, or a helper?</text>
+<text x="350" y="430" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Example: a large-print puzzle book and a pencil.</text>
+</svg>

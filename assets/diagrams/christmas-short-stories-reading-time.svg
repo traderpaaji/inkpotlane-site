@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450" width="700" height="450" role="img">
+<title>Five classic Christmas reads by estimated reading time at 200 words a minute: The Gift of the Magi about 2,100 words and 10 minutes, The Fir-Tree about 3,200 and 16 minutes, A Merry Christmas from Little Women about 4,000 and 20 minutes, The Blue Carbuncle about 7,800 and 40 minutes, and A Christmas Carol about 28,000 words, roughly two hours and twenty minutes.</title>
+<desc>A horizontal bar chart of five stories, shortest first. The Gift of the Magi, O. Henry, 1905: about 2,100 words, 10 minutes. The Fir-Tree, Andersen, 1844: about 3,200 words, 16 minutes. A Merry Christmas, from Little Women, 1868: about 4,000 words, 20 minutes. The Blue Carbuncle, Conan Doyle, 1892: about 7,800 words, 40 minutes. A Christmas Carol, Dickens, 1843: about 28,000 words, about two hours twenty minutes, its bar marked as off the scale. A note says the figures are approximate, at 200 words a minute, counted from Project Gutenberg texts.</desc>
+<rect width="700" height="450" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Five classic Christmas reads, by reading time</text>
+<text x="40" y="98" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Gift of the Magi</text>
+<text x="40" y="120" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">O. Henry, 1905</text>
+<rect x="240" y="86" width="55" height="34" rx="4" fill="#f2a03d" stroke="none" stroke-width="0"/>
+<text x="305" y="109" font-size="14" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">2,100 words, 10 min</text>
+<text x="40" y="164" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Fir-Tree</text>
+<text x="40" y="186" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Andersen, 1844</text>
+<rect x="240" y="152" width="84" height="34" rx="4" fill="#f2a03d" stroke="none" stroke-width="0"/>
+<text x="334" y="175" font-size="14" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">3,200 words, 16 min</text>
+<text x="40" y="230" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A Merry Christmas</text>
+<text x="40" y="252" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Little Women, 1868</text>
+<rect x="240" y="218" width="105" height="34" rx="4" fill="#f2a03d" stroke="none" stroke-width="0"/>
+<text x="355" y="241" font-size="14" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">4,000 words, 20 min</text>
+<text x="40" y="296" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Blue Carbuncle</text>
+<text x="40" y="318" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Conan Doyle, 1892</text>
+<rect x="240" y="284" width="204" height="34" rx="4" fill="#f2a03d" stroke="none" stroke-width="0"/>
+<text x="454" y="307" font-size="14" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">7,800 words, 40 min</text>
+<text x="40" y="362" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A Christmas Carol</text>
+<text x="40" y="384" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Dickens, 1843</text>
+<rect x="240" y="350" width="210" height="34" rx="4" fill="#b8323a" stroke="none" stroke-width="0"/>
+<text x="442" y="373" font-size="14" fill="#ffffff" text-anchor="end" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">→ off the scale</text>
+<text x="460" y="373" font-size="14" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">28,000 words, about 2 hr 20</text>
+<text x="350" y="428" font-size="15" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Approximate, at 200 words a minute, from Project Gutenberg texts.</text>
+</svg>

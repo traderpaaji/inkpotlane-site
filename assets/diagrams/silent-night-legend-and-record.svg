@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 330" width="700" height="330" role="img">
+<title>Why a guitar? The legend says the organ broke just before Christmas, perhaps chewed by mice. The record shows the poem dates from 1816, the organ was in poor repair for years and replaced in 1825, and Mohr asked Gruber for a guitar setting.</title>
+<desc>Two boxes side by side. Left, outlined in red, The legend: the church organ broke just before Christmas, perhaps chewed by mice, so a song was written that same day for guitar. Right, outlined in green, The record: the poem dates from 1816; the organ was in poor repair for years and was replaced in 1825; Mohr asked for a guitar setting.</desc>
+<rect width="700" height="330" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Why a guitar? The legend and the record</text>
+<rect x="40" y="70" width="300" height="230" rx="8" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="190" y="102" font-size="20" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The legend</text>
+<text x="190" y="138" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The church organ broke</text>
+<text x="190" y="166" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">just before Christmas,</text>
+<text x="190" y="194" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">perhaps chewed by mice,</text>
+<text x="190" y="222" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">so a song was written</text>
+<text x="190" y="250" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">that same day for guitar.</text>
+<rect x="360" y="70" width="300" height="230" rx="8" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="510" y="102" font-size="20" fill="#2f6f3a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The record</text>
+<text x="510" y="138" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The poem dates from 1816.</text>
+<text x="510" y="166" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The organ was in poor</text>
+<text x="510" y="194" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">repair for years; it was</text>
+<text x="510" y="222" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">replaced in 1825. Mohr</text>
+<text x="510" y="250" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">asked for a guitar setting.</text>
+</svg>

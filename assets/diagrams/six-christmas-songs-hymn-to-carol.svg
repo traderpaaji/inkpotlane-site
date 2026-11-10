@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 540" width="700" height="540" role="img">
+<title>Six Christmas songs, six different beginnings: three began as hymns, one as a song for a Christmas Eve church service, one as an unsigned children's song and one as a traditional carol. All six are sung at Christmas today.</title>
+<desc>Six rows, each with a song, its earliest known evidence and a label. Hark! the Herald Angels Sing: Wesley's Hymn for Christmas-Day, 1739; began as a hymn. Joy to the World: Watts's psalm-based hymn, 1719; began as a hymn. O Come, All Ye Faithful: a Latin hymn in manuscripts of the 1740s and 1750s; began as a hymn. Silent Night: a song for a church service on Christmas Eve 1818. Away in a Manger: an unsigned children's song in a newspaper, 1868. The Holly and the Ivy: traditional, known from nineteenth-century printed sheets; a traditional carol. A note says all six are sung at Christmas today.</desc>
+<rect width="700" height="540" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Six Christmas songs: how each began</text>
+<rect x="30" y="72" width="640" height="62" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="99" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Hark! the Herald Angels Sing</text>
+<text x="46" y="121" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Wesley's “Hymn for Christmas-Day,” 1739</text>
+<rect x="500" y="88" width="154" height="30" rx="15" fill="#4f2840" stroke="#4f2840" stroke-width="2"/>
+<text x="577" y="108" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">began as a hymn</text>
+<rect x="30" y="144" width="640" height="62" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="171" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Joy to the World</text>
+<text x="46" y="193" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Watts's psalm-based hymn, 1719</text>
+<rect x="500" y="160" width="154" height="30" rx="15" fill="#4f2840" stroke="#4f2840" stroke-width="2"/>
+<text x="577" y="180" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">began as a hymn</text>
+<rect x="30" y="216" width="640" height="62" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="243" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">O Come, All Ye Faithful</text>
+<text x="46" y="265" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Latin hymn in 1740s-50s manuscripts</text>
+<rect x="500" y="232" width="154" height="30" rx="15" fill="#4f2840" stroke="#4f2840" stroke-width="2"/>
+<text x="577" y="252" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">began as a hymn</text>
+<rect x="30" y="288" width="640" height="62" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="315" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Silent Night</text>
+<text x="46" y="337" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Song for a church service, Christmas Eve 1818</text>
+<rect x="500" y="304" width="154" height="30" rx="15" fill="#f2a03d" stroke="#f2a03d" stroke-width="2"/>
+<text x="577" y="324" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">service song</text>
+<rect x="30" y="360" width="640" height="62" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="387" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Away in a Manger</text>
+<text x="46" y="409" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Unsigned children's song, newspaper, 1868</text>
+<rect x="500" y="376" width="154" height="30" rx="15" fill="#f2a03d" stroke="#f2a03d" stroke-width="2"/>
+<text x="577" y="396" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">children's song</text>
+<rect x="30" y="432" width="640" height="62" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="459" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Holly and the Ivy</text>
+<text x="46" y="481" font-size="14" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Traditional; 19th-century printed sheets</text>
+<rect x="500" y="448" width="154" height="30" rx="15" fill="#2f6f3a" stroke="#2f6f3a" stroke-width="2"/>
+<text x="577" y="468" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">traditional carol</text>
+<text x="350" y="526" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Different beginnings; all six are sung at Christmas today.</text>
+</svg>

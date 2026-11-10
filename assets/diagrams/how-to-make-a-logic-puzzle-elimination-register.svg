@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" width="700" height="600" role="img">
+<title>Who took the last mince pie, clue by clue: not wearing blue rules out Dev and Frank; arriving after 3:20 rules out Agnes and Hal; not arriving with an umbrella rules out Gwen; not wearing green rules out Bert and Elsie. Cora remains. Six, four, three, then one suspect left.</title>
+<desc>A register of eight suspects with scarf color, arrival time and what they carried, and four clue columns. Agnes, red, 3:10, lantern: out at clue 2. Bert, green, 3:25, basket: out at clue 4. Cora, red, 3:40, basket: survives every clue and is highlighted. Dev, blue, 3:45, basket: out at clue 1. Elsie, green, 3:50, lantern: out at clue 4. Frank, blue, 3:35, umbrella: out at clue 1. Gwen, red, 3:55, umbrella: out at clue 3. Hal, green, 3:05, basket: out at clue 2. The counts left after each clue are 6, 4, 3 and 1. A note says that dropping any one clue lets someone else survive.</desc>
+<rect width="700" height="600" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Who took the last mince pie? Clue by clue</text>
+<text x="400" y="82" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Clue 1</text>
+<text x="400" y="102" font-size="13" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">not blue</text>
+<text x="470" y="82" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Clue 2</text>
+<text x="470" y="102" font-size="13" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">after 3:20</text>
+<text x="540" y="82" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Clue 3</text>
+<text x="540" y="102" font-size="13" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">no umbrella</text>
+<text x="610" y="82" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Clue 4</text>
+<text x="610" y="102" font-size="13" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">not green</text>
+<rect x="30" y="118" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="146" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Agnes</text>
+<text x="130" y="146" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">red, 3:10, lantern</text>
+<circle cx="400" cy="140" r="6" fill="#2f6f3a"/>
+<text x="470" y="148" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<rect x="30" y="168" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="196" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Bert</text>
+<text x="130" y="196" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">green, 3:25, basket</text>
+<circle cx="400" cy="190" r="6" fill="#2f6f3a"/>
+<circle cx="470" cy="190" r="6" fill="#2f6f3a"/>
+<circle cx="540" cy="190" r="6" fill="#2f6f3a"/>
+<text x="610" y="198" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<rect x="30" y="218" width="640" height="44" rx="4" fill="#f6ecf1" stroke="#4f2840" stroke-width="2"/>
+<text x="46" y="246" font-size="17" fill="#4f2840" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Cora</text>
+<text x="130" y="246" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">red, 3:40, basket</text>
+<circle cx="400" cy="240" r="6" fill="#2f6f3a"/>
+<circle cx="470" cy="240" r="6" fill="#2f6f3a"/>
+<circle cx="540" cy="240" r="6" fill="#2f6f3a"/>
+<circle cx="610" cy="240" r="6" fill="#2f6f3a"/>
+<rect x="30" y="268" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="296" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Dev</text>
+<text x="130" y="296" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">blue, 3:45, basket</text>
+<text x="400" y="298" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<rect x="30" y="318" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="346" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Elsie</text>
+<text x="130" y="346" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">green, 3:50, lantern</text>
+<circle cx="400" cy="340" r="6" fill="#2f6f3a"/>
+<circle cx="470" cy="340" r="6" fill="#2f6f3a"/>
+<circle cx="540" cy="340" r="6" fill="#2f6f3a"/>
+<text x="610" y="348" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<rect x="30" y="368" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="396" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Frank</text>
+<text x="130" y="396" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">blue, 3:35, umbrella</text>
+<text x="400" y="398" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<rect x="30" y="418" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="446" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Gwen</text>
+<text x="130" y="446" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">red, 3:55, umbrella</text>
+<circle cx="400" cy="440" r="6" fill="#2f6f3a"/>
+<circle cx="470" cy="440" r="6" fill="#2f6f3a"/>
+<text x="540" y="448" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<rect x="30" y="468" width="640" height="44" rx="4" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="46" y="496" font-size="17" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Hal</text>
+<text x="130" y="496" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">green, 3:05, basket</text>
+<circle cx="400" cy="490" r="6" fill="#2f6f3a"/>
+<text x="470" y="498" font-size="16" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">out</text>
+<text x="46" y="544" font-size="15" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Left after each clue:</text>
+<text x="400" y="544" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">6</text>
+<text x="470" y="544" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="540" y="544" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="610" y="544" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="350" y="578" font-size="15" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Leave-one-out: drop any clue and someone else survives.</text>
+</svg>

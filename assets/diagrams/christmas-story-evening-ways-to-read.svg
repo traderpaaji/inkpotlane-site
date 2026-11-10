@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 330" width="700" height="330" role="img">
+<title>Three ways to make a Christmas story an evening: read aloud, one story a night, and stop a mystery before the end so everyone can guess.</title>
+<desc>Three cards. Read aloud: pick a shorter story than you think, because reading aloud is slower. One a night: five stories over five evenings, or A Christmas Carol one stave a night. Stop before the end: pause the mystery and let everyone guess first.</desc>
+<rect width="700" height="330" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Three ways to make a story an evening</text>
+<rect x="40" y="70" width="196" height="220" rx="10" fill="#ffffff" stroke="#4f2840" stroke-width="2"/>
+<text x="138" y="112" font-size="19" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Read aloud</text>
+<text x="138" y="160" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Pick a shorter story</text>
+<text x="138" y="190" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">than you think:</text>
+<text x="138" y="220" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">aloud is slower.</text>
+<rect x="254" y="70" width="196" height="220" rx="10" fill="#ffffff" stroke="#4f2840" stroke-width="2"/>
+<text x="352" y="112" font-size="19" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One a night</text>
+<text x="352" y="160" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Five stories,</text>
+<text x="352" y="190" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">five evenings, or</text>
+<text x="352" y="220" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Dickens a stave a night.</text>
+<rect x="468" y="70" width="196" height="220" rx="10" fill="#ffffff" stroke="#4f2840" stroke-width="2"/>
+<text x="566" y="112" font-size="19" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Stop before the end</text>
+<text x="566" y="160" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Pause the mystery</text>
+<text x="566" y="190" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">and let everyone</text>
+<text x="566" y="220" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">guess first.</text>
+</svg>

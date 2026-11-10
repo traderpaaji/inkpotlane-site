@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" width="700" height="470" role="img">
+<title>A Christmas Eve evening by age, from early evening to bedtime, with the same ending every year.</title>
+<desc>Three columns, each read top to bottom from early evening to bedtime. Ages 2 to 4: snack for Santa, carrot for the reindeer, stockings up, the first page of the poem. Ages 5 to 8: check the Santa tracker, color a page or make a card, stockings up, the whole poem. Ages 9 and up: pour Santa's milk, run the tracker, read the poem aloud to the little ones, a book in bed. A note says: same ending every year.</desc>
+<rect width="700" height="470" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A Christmas Eve evening, by age</text>
+<rect x="40" y="70" width="196" height="330" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="70" width="196" height="46" rx="8" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="138" y="100" font-size="19" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Ages 2 to 4</text>
+<text x="138" y="170" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Snack for Santa</text>
+<line x1="60" y1="194" x2="216" y2="194" stroke="#d9d1c3" stroke-width="1"/>
+<text x="138" y="232" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Carrot for reindeer</text>
+<line x1="60" y1="256" x2="216" y2="256" stroke="#d9d1c3" stroke-width="1"/>
+<text x="138" y="294" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Stockings up</text>
+<line x1="60" y1="318" x2="216" y2="318" stroke="#d9d1c3" stroke-width="1"/>
+<text x="138" y="356" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Poem: first page</text>
+<rect x="254" y="70" width="196" height="330" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="254" y="70" width="196" height="46" rx="8" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="352" y="100" font-size="19" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Ages 5 to 8</text>
+<text x="352" y="170" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Check the tracker</text>
+<line x1="274" y1="194" x2="430" y2="194" stroke="#d9d1c3" stroke-width="1"/>
+<text x="352" y="232" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Color, or make a card</text>
+<line x1="274" y1="256" x2="430" y2="256" stroke="#d9d1c3" stroke-width="1"/>
+<text x="352" y="294" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Stockings up</text>
+<line x1="274" y1="318" x2="430" y2="318" stroke="#d9d1c3" stroke-width="1"/>
+<text x="352" y="356" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">The whole poem</text>
+<rect x="468" y="70" width="196" height="330" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="468" y="70" width="196" height="46" rx="8" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="566" y="100" font-size="19" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Ages 9 and up</text>
+<text x="566" y="170" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Pour Santa's milk</text>
+<line x1="488" y1="194" x2="644" y2="194" stroke="#d9d1c3" stroke-width="1"/>
+<text x="566" y="232" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Run the tracker</text>
+<line x1="488" y1="256" x2="644" y2="256" stroke="#d9d1c3" stroke-width="1"/>
+<text x="566" y="294" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Read the poem aloud</text>
+<line x1="488" y1="318" x2="644" y2="318" stroke="#d9d1c3" stroke-width="1"/>
+<text x="566" y="356" font-size="16" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">A book in bed</text>
+<text x="70" y="432" font-size="15" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">early evening</text>
+<line x1="190" y1="427" x2="520" y2="427" stroke="#6b6358" stroke-width="2"/>
+<path d="M 520 420 L 534 427 L 520 434 Z" fill="#6b6358"/>
+<text x="630" y="432" font-size="15" fill="#6b6358" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">bedtime</text>
+<text x="350" y="460" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Same ending every year.</text>
+</svg>

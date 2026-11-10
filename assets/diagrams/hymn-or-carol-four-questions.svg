@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 508" width="700" height="508" role="img">
+<title>Hymn or carol? What each word stresses: a hymn stresses devotional purpose, a carol stresses festive character. The labels overlap, and many Christmas songs are both.</title>
+<desc>A table with four rows comparing a hymn and a carol. Where the word comes from: hymn, Greek hymnos, a song of praise; carol, Old French carole, a circle dance. What the word stresses: hymn, devotional purpose; carol, festive character. Usually written for: hymn, worship and praise; carol, a season or festival. Where it is sung today: hymn, in services and at Christmas; carol, in homes, schools, streets and churches. A note below says the labels overlap and many Christmas songs are both.</desc>
+<rect width="700" height="508" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Hymn or carol? What each word stresses</text>
+<text x="330" y="92" font-size="21" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Hymn</text>
+<text x="560" y="92" font-size="21" fill="#2f6f3a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Carol</text>
+<rect x="30" y="108" width="640" height="80" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="44" y="144" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Where the word</text>
+<text x="44" y="166" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">comes from</text>
+<rect x="222" y="118" width="216" height="60" rx="4" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="330" y="154" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Greek hymnos: a song of praise</text>
+<rect x="448" y="118" width="214" height="60" rx="4" fill="#e9f1e8" stroke="#e9f1e8" stroke-width="2"/>
+<text x="555" y="154" font-size="14" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Old French carole: a circle dance</text>
+<rect x="30" y="200" width="640" height="80" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="44" y="236" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">What the word</text>
+<text x="44" y="258" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">stresses</text>
+<rect x="222" y="210" width="216" height="60" rx="4" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="330" y="246" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Devotional purpose</text>
+<rect x="448" y="210" width="214" height="60" rx="4" fill="#e9f1e8" stroke="#e9f1e8" stroke-width="2"/>
+<text x="555" y="246" font-size="14" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Festive character</text>
+<rect x="30" y="292" width="640" height="80" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="44" y="328" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Usually written</text>
+<text x="44" y="350" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">for</text>
+<rect x="222" y="302" width="216" height="60" rx="4" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="330" y="338" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Worship and praise</text>
+<rect x="448" y="302" width="214" height="60" rx="4" fill="#e9f1e8" stroke="#e9f1e8" stroke-width="2"/>
+<text x="555" y="338" font-size="14" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">A season or festival</text>
+<rect x="30" y="384" width="640" height="80" rx="6" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="44" y="420" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Where it is</text>
+<text x="44" y="442" font-size="16" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">sung today</text>
+<rect x="222" y="394" width="216" height="60" rx="4" fill="#f6ecf1" stroke="#f6ecf1" stroke-width="2"/>
+<text x="330" y="430" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Services, and at Christmas</text>
+<rect x="448" y="394" width="214" height="60" rx="4" fill="#e9f1e8" stroke="#e9f1e8" stroke-width="2"/>
+<text x="555" y="430" font-size="14" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Homes, schools, streets, churches</text>
+<text x="350" y="490" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">The labels overlap: many Christmas songs are both.</text>
+</svg>
