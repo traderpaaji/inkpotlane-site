@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 330" width="700" height="330" role="img">
+<title>Einstein's riddle, the legend and the record. The legend: Einstein (or Lewis Carroll) wrote it, and only 2 percent can solve it, with no evidence for any of it. The record: Life International printed it on 17 December 1962, and Life printed the answer and several hundred solvers' names on 25 March 1963.</title>
+<desc>Two boxes side by side. Left, outlined in red, The legend: Einstein wrote it as a boy, or Lewis Carroll did; only 2 percent of people can solve it; a note says there is no evidence for any of it. Right, outlined in green, The record: 17 December 1962, Life International prints it; 25 March 1963, Life prints the answer and several hundred solvers' names; author unknown.</desc>
+<rect width="700" height="330" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Einstein's riddle: the legend and the record</text>
+<rect x="40" y="70" width="300" height="230" rx="8" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="190" y="102" font-size="20" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The legend</text>
+<text x="190" y="140" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Einstein wrote it as a boy.</text>
+<text x="190" y="170" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Or Lewis Carroll did.</text>
+<text x="190" y="200" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Only 2 percent of people</text>
+<text x="190" y="230" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">can solve it.</text>
+<text x="190" y="260" font-size="17" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">No evidence for any of it.</text>
+<rect x="360" y="70" width="300" height="230" rx="8" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="510" y="102" font-size="20" fill="#2f6f3a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The record</text>
+<text x="510" y="140" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">17 Dec 1962: Life</text>
+<text x="510" y="170" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">International prints it.</text>
+<text x="510" y="200" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">25 Mar 1963: Life prints the</text>
+<text x="510" y="230" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">answer and several hundred</text>
+<text x="510" y="260" font-size="17" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">solvers' names. Author unknown.</text>
+</svg>

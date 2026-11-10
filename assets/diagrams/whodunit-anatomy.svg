@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 550" width="700" height="550" role="img">
+<title>The shape of a whodunit in five parts: a small world, the puzzle, the suspects, the clues, and the pause and the reveal. Fair play means the detective knows nothing the reader was not shown.</title>
+<desc>Five numbered cards. 1, A small world: a village, a house party, a harbor town, a closed circle of people. 2, The puzzle: something is stolen, broken, hidden or worse, and it matters. 3, The suspects: each has a reason, a chance, or a story that does not quite fit. 4, The clues: small, often ordinary facts, laid out where the reader can see them. 5, The pause and the reveal: every step of the answer uses something you were shown. A footnote: fair play, the detective knows nothing the reader was not shown.</desc>
+<rect width="700" height="550" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The shape of a whodunit, in five parts</text>
+<rect x="40" y="70" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="105" r="20" fill="#4f2840"/>
+<text x="80" y="112" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="118" y="100" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A small world</text>
+<text x="118" y="125" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A village, a house party, a harbor town: a closed circle of people</text>
+<rect x="40" y="154" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="189" r="20" fill="#4f2840"/>
+<text x="80" y="196" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="118" y="184" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The puzzle</text>
+<text x="118" y="209" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Something is stolen, broken, hidden or worse, and it matters</text>
+<rect x="40" y="238" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="273" r="20" fill="#4f2840"/>
+<text x="80" y="280" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="118" y="268" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The suspects</text>
+<text x="118" y="293" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Each has a reason, a chance, or a story that does not quite fit</text>
+<rect x="40" y="322" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="357" r="20" fill="#4f2840"/>
+<text x="80" y="364" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="118" y="352" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The clues</text>
+<text x="118" y="377" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Small, often ordinary facts, laid out where the reader can see them</text>
+<rect x="40" y="406" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="441" r="20" fill="#4f2840"/>
+<text x="80" y="448" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">5</text>
+<text x="118" y="436" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The pause and the reveal</text>
+<text x="118" y="461" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Every step of the answer uses something you were shown</text>
+<text x="350" y="508" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Fair play: the detective knows nothing the reader was not shown.</text>
+</svg>

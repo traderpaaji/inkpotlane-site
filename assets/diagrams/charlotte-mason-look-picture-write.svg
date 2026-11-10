@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 270" width="700" height="270" role="img">
+<title>Transcription as spelling, from Charlotte Mason's Home Education: look at the word, picture it with your eyes shut, then write it from memory.</title>
+<desc>Three boxes joined by arrows: 1, Look at the word in the book. 2, Picture it with your eyes shut. 3, Write it from memory. Below, the quotation: Transcription should be an introduction to spelling, Charlotte Mason.</desc>
+<rect width="700" height="270" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Transcription as spelling: look, picture, write</text>
+<rect x="40" y="80" width="180" height="140" rx="10" fill="#ffffff" stroke="#4f2840" stroke-width="2"/>
+<text x="130" y="125" font-size="24" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1. Look</text>
+<text x="130" y="160" font-size="18" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">at the word</text>
+<text x="130" y="186" font-size="18" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">in the book</text>
+<line x1="224" y1="150" x2="256" y2="150" stroke="#2b2620" stroke-width="3"/>
+<polygon points="248,142 258,150 248,158" fill="#2b2620"/>
+<rect x="260" y="80" width="180" height="140" rx="10" fill="#f6ecf1" stroke="#4f2840" stroke-width="2"/>
+<text x="350" y="125" font-size="24" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2. Picture</text>
+<text x="350" y="160" font-size="18" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">it with your</text>
+<text x="350" y="186" font-size="18" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">eyes shut</text>
+<line x1="444" y1="150" x2="476" y2="150" stroke="#2b2620" stroke-width="3"/>
+<polygon points="468,142 478,150 468,158" fill="#2b2620"/>
+<rect x="480" y="80" width="180" height="140" rx="10" fill="#ffffff" stroke="#4f2840" stroke-width="2"/>
+<text x="570" y="125" font-size="24" fill="#4f2840" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3. Write</text>
+<text x="570" y="160" font-size="18" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">it from</text>
+<text x="570" y="186" font-size="18" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">memory</text>
+<text x="350" y="252" font-size="15" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">“Transcription should be an introduction to spelling.” Charlotte Mason</text>
+</svg>

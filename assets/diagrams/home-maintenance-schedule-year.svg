@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400" role="img">
+<title>One year of the home maintenance schedule: spring cooling check and dryer vent, fall heating check and thermostat, monthly smoke and CO alarm tests and filter checks all year, and the lint filter every load.</title>
+<desc>Four season boxes. Spring: cooling system check-up, including the condensate drain, and a dryer vent look, marked as our tip. Summer: monthly items only, plus your own manuals' summer jobs. Fall: heating system check-up, thermostat settings, dryer vent look. Winter: monthly items only, and the yearly batteries and dryer vent pipe cleaning if you chose winter for them. A band beneath: monthly smoke and carbon monoxide alarm tests and filter checks; the lint filter every load.</desc>
+<rect width="700" height="400" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One year of the schedule</text>
+<rect x="40" y="70" width="300" height="124" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="58" y="102" font-size="21" fill="#1f5f63" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Spring</text>
+<text x="58" y="132" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Cooling system check-up</text>
+<text x="58" y="154" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Condensate drain in it</text>
+<text x="58" y="176" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Dryer vent look (our tip)</text>
+<rect x="360" y="70" width="300" height="124" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="378" y="102" font-size="21" fill="#1f5f63" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Summer</text>
+<text x="378" y="132" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Monthly items only</text>
+<text x="378" y="154" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Your own manuals'</text>
+<text x="378" y="176" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">summer jobs</text>
+<rect x="40" y="210" width="300" height="124" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="58" y="242" font-size="21" fill="#1f5f63" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Fall</text>
+<text x="58" y="272" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Heating system check-up</text>
+<text x="58" y="294" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Thermostat settings</text>
+<text x="58" y="316" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Dryer vent look (our tip)</text>
+<rect x="360" y="210" width="300" height="124" rx="10" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<text x="378" y="242" font-size="21" fill="#1f5f63" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Winter</text>
+<text x="378" y="272" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Monthly items only</text>
+<text x="378" y="294" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Yearly batteries and vent</text>
+<text x="378" y="316" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">pipe, if you chose winter</text>
+<rect x="40" y="356" width="620" height="34" rx="6" fill="#eceef4" stroke="#eceef4" stroke-width="2"/>
+<text x="350" y="379" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">Monthly: smoke and CO alarm tests, filter checks. Every load: lint filter.</text>
+</svg>
