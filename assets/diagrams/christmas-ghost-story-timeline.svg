@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 402" width="700" height="402" role="img">
+<title>The Christmas ghost story, step by step: a boy's sad winter tale in The Winter's Tale, Dickens's ghost story of Christmas in 1843, Jerome's joke in 1891 and M. R. James's collection of 1904.</title>
+<desc>A vertical timeline of four entries. Act 2 of The Winter's Tale: a boy says a sad tale is best for winter and offers one of sprites and goblins. 1843: Dickens publishes A Christmas Carol, Being a Ghost Story of Christmas, on 19 December. 1891: Jerome K. Jerome jokes in Told After Supper that it always is Christmas Eve in a ghost story. 1904: M. R. James's Ghost Stories of an Antiquary is published; he read such tales aloud as Christmas Eve entertainments.</desc>
+<rect width="700" height="402" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Christmas ghost story, step by step</text>
+<rect x="40" y="70" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="105" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Act 2</text>
+<text x="152" y="92" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">In The Winter's Tale a boy says a sad tale is best for</text>
+<text x="152" y="114" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">winter and offers one of sprites and goblins.</text>
+<line x1="88" y1="126" x2="88" y2="148" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="148" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="183" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1843</text>
+<text x="152" y="170" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Dickens publishes A Christmas Carol on 19 December,</text>
+<text x="152" y="192" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">'Being a Ghost Story of Christmas'; 6,000 copies sold by the 24th.</text>
+<line x1="88" y1="204" x2="88" y2="226" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="226" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="261" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1891</text>
+<text x="152" y="248" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Jerome K. Jerome jokes in Told After Supper that it</text>
+<text x="152" y="270" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">'always is Christmas Eve, in a ghost story'.</text>
+<line x1="88" y1="282" x2="88" y2="304" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="304" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="339" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1904</text>
+<text x="152" y="326" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">M. R. James's Ghost Stories of an Antiquary appears;</text>
+<text x="152" y="348" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">he read such tales aloud as Christmas Eve entertainments.</text>
+</svg>

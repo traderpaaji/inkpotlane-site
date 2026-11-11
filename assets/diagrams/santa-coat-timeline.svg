@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" width="700" height="480" role="img">
+<title>What color was Santa's coat? The 1823 poem names no color, Thomas Nast's Santa of 1863 wears a flag, a Nast drawing of 1881 shows the red suit, Puck covers of the early 1900s show red and white, and Haddon Sundblom's Coca-Cola Santas begin in 1931.</title>
+<desc>A vertical timeline of five dated entries. 1823: the poem says Santa is dressed all in fur and names no color. 1863: Thomas Nast's Santa in Harper's Weekly wears an American flag; Nast draws him for about thirty years. 1881: a Nast drawing shows the modern red suit. About 1900 to 1905: Puck covers show Santa in red and white. 1931: Haddon Sundblom's first Coca-Cola Santa appears in The Saturday Evening Post, and the ads run to 1964.</desc>
+<rect width="700" height="480" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">What color was Santa's coat?</text>
+<rect x="40" y="70" width="130" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="105" y="105" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1823</text>
+<text x="186" y="92" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The poem says he is dressed all in fur</text>
+<text x="186" y="114" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and names no color for his clothes.</text>
+<line x1="105" y1="126" x2="105" y2="148" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="148" width="130" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="105" y="183" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1863</text>
+<text x="186" y="170" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Thomas Nast's Santa in Harper's Weekly (3 January):</text>
+<text x="186" y="192" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">he wears an American flag. Nast draws him for about 30 years.</text>
+<line x1="105" y1="204" x2="105" y2="226" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="226" width="130" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="105" y="261" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1881</text>
+<text x="186" y="248" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A Nast drawing shows Santa in what we would</text>
+<text x="186" y="270" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">call the modern red suit.</text>
+<line x1="105" y1="282" x2="105" y2="304" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="304" width="130" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="105" y="339" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">c. 1900-05</text>
+<text x="186" y="326" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Puck covers show Santa in red and white,</text>
+<text x="186" y="348" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">in essentially the form we know (a December 1905 cover).</text>
+<line x1="105" y1="360" x2="105" y2="382" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="382" width="130" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="105" y="417" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1931</text>
+<text x="186" y="404" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Haddon Sundblom's first Coca-Cola Santa appears</text>
+<text x="186" y="426" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">in The Saturday Evening Post. The ads run to 1964.</text>
+</svg>

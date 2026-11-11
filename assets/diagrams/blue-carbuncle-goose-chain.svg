@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" width="700" height="480" role="img">
+<title>The Blue Carbuncle, from jewel-case to goose: the theft on 22 December, the stone pushed into a goose, the geese sold through Covent Garden and the Alpha Inn, Baker's dropped goose on Christmas morning and the stone found on 27 December.</title>
+<desc>A vertical timeline of five entries. 22 December: the blue carbuncle is stolen at the Hotel Cosmopolitan and the plumber John Horner is arrested. 22 December: James Ryder pushes the stone into a goose at his sister's in Brixton Road and then takes the wrong bird. 22 December: her 24 geese are sold to Breckinridge in Covent Garden, and 24 go on to the landlord of the Alpha Inn. 25 December, about four in the morning: Henry Baker drops his club goose in a street fight and Peterson takes goose and hat to Holmes. 27 December: Peterson's wife finds the stone in the goose's crop and Holmes traces the chain.</desc>
+<rect width="700" height="480" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The Blue Carbuncle: from jewel-case to goose</text>
+<rect x="40" y="70" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="105" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">22 Dec</text>
+<text x="152" y="92" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The blue carbuncle is stolen at the Hotel Cosmopolitan;</text>
+<text x="152" y="114" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">the plumber John Horner is arrested that evening.</text>
+<line x1="88" y1="126" x2="88" y2="148" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="148" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="183" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">22 Dec</text>
+<text x="152" y="170" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">James Ryder pushes the stone into a goose at his sister's</text>
+<text x="152" y="192" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">(Mrs. Oakshott, Brixton Road), then takes the wrong bird.</text>
+<line x1="88" y1="204" x2="88" y2="226" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="226" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="261" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">22 Dec</text>
+<text x="152" y="248" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Her 24 geese are sold to Breckinridge, Covent Garden,</text>
+<text x="152" y="270" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">and 24 go on to the landlord of the Alpha Inn.</text>
+<line x1="88" y1="282" x2="88" y2="304" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="304" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="339" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">25 Dec</text>
+<text x="152" y="326" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">About 4 a.m. Henry Baker drops his club goose in a</text>
+<text x="152" y="348" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">street fight; Peterson takes goose and hat to Holmes.</text>
+<line x1="88" y1="360" x2="88" y2="382" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="382" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="417" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">27 Dec</text>
+<text x="152" y="404" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Peterson's wife finds the stone in the goose's crop;</text>
+<text x="152" y="426" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Holmes traces the chain back that night.</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420" role="img">
+<title>Gifts recited on each of the twelve days of Christmas: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66 and 78, a total of 364.</title>
+<desc>A bar chart of twelve bars, one for each day of Christmas, rising steadily. The heights are 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66 and 78 gifts, and together they total 364.</desc>
+<rect width="700" height="420" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Gifts recited on each of the twelve days: 364 in all</text>
+<line x1="70" y1="360" x2="630" y2="360" stroke="#2b2620" stroke-width="2"/>
+<rect x="78" y="357" width="38" height="3" fill="#4f2840"/>
+<text x="97" y="349" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="97" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">1</text>
+<rect x="124" y="350" width="38" height="10" fill="#4f2840"/>
+<text x="143" y="342" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="143" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">2</text>
+<rect x="170" y="340" width="38" height="20" fill="#4f2840"/>
+<text x="189" y="332" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">6</text>
+<text x="189" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">3</text>
+<rect x="216" y="326" width="38" height="34" fill="#4f2840"/>
+<text x="235" y="318" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">10</text>
+<text x="235" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">4</text>
+<rect x="262" y="309" width="38" height="51" fill="#4f2840"/>
+<text x="281" y="301" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">15</text>
+<text x="281" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">5</text>
+<rect x="308" y="288" width="38" height="72" fill="#4f2840"/>
+<text x="327" y="280" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">21</text>
+<text x="327" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">6</text>
+<rect x="354" y="264" width="38" height="96" fill="#4f2840"/>
+<text x="373" y="256" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">28</text>
+<text x="373" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">7</text>
+<rect x="400" y="236" width="38" height="124" fill="#4f2840"/>
+<text x="419" y="228" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">36</text>
+<text x="419" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">8</text>
+<rect x="446" y="205" width="38" height="155" fill="#4f2840"/>
+<text x="465" y="197" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">45</text>
+<text x="465" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">9</text>
+<rect x="492" y="170" width="38" height="190" fill="#4f2840"/>
+<text x="511" y="162" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">55</text>
+<text x="511" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">10</text>
+<rect x="538" y="132" width="38" height="228" fill="#4f2840"/>
+<text x="557" y="124" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">66</text>
+<text x="557" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">11</text>
+<rect x="584" y="90" width="38" height="270" fill="#4f2840"/>
+<text x="603" y="82" font-size="15" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">78</text>
+<text x="603" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">12</text>
+<text x="350" y="410" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Day of Christmas</text>
+</svg>

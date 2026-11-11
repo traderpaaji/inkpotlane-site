@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 558" width="700" height="558" role="img">
+<title>Wenceslas, the duke, the poem and the carol: the duke born about 907 and killed in 935, the tune printed in 1582, Svoboda's poem of 1847, Neale's children's book of 1850 and the carol of 1853.</title>
+<desc>A vertical timeline of six entries. About 907: Wenceslaus is born in Bohemia, the son of Duke Vratislaus I. 935: he is killed at a feast by his brother's followers, though some sources say 929, and is venerated as a saint. 1582: the tune Tempus adest floridum, a spring song, is printed in Piae Cantiones. 1847: Vaclav Alois Svoboda publishes a Czech poem about Wenceslas and his servant. 1850: John Mason Neale retells it in Deeds of Faith. 1853: Neale and Thomas Helmore print the carol in Carols for Christmas-Tide.</desc>
+<rect width="700" height="558" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Wenceslas: the duke, the poem and the carol</text>
+<rect x="40" y="70" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="105" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">c. 907</text>
+<text x="152" y="92" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Wenceslaus is born in Bohemia, the son of Duke</text>
+<text x="152" y="114" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Vratislaus I; his grandmother Ludmila oversees his education.</text>
+<line x1="88" y1="126" x2="88" y2="148" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="148" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="183" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">935</text>
+<text x="152" y="170" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Killed at a feast in Stara Boleslav by his brother's</text>
+<text x="152" y="192" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">followers (some sources say 929). Venerated as a saint.</text>
+<line x1="88" y1="204" x2="88" y2="226" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="226" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="261" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1582</text>
+<text x="152" y="248" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The tune 'Tempus adest floridum', a spring song,</text>
+<text x="152" y="270" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">is printed in the Latin songbook Piae Cantiones.</text>
+<line x1="88" y1="282" x2="88" y2="304" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="304" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="339" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1847</text>
+<text x="152" y="326" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Vaclav Alois Svoboda publishes a Czech poem about</text>
+<text x="152" y="348" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Wenceslas and his servant, warmed by following his footsteps.</text>
+<line x1="88" y1="360" x2="88" y2="382" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="382" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="417" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1850</text>
+<text x="152" y="404" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">John Mason Neale retells it in a children's book,</text>
+<text x="152" y="426" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Deeds of Faith.</text>
+<line x1="88" y1="438" x2="88" y2="460" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="460" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="495" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1853</text>
+<text x="152" y="482" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Neale and Thomas Helmore print the carol in</text>
+<text x="152" y="504" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Carols for Christmas-Tide, set to the 1582 tune.</text>
+</svg>

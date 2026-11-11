@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 558" width="700" height="558" role="img">
+<title>Six old layers of Christmas hymns: Prudentius and the Liturgy of St. James about 400, the Great Antiphons of the 700s, Luther in 1535, Piae Cantiones in 1582, the First Nowell manuscript of 1816-17 and the discovery of the Emmanuel tune's source in 1966.</title>
+<desc>A vertical timeline of six entries. About 400: Prudentius's Hymn for All Hours and the Orthodox form of the Liturgy of St. James. The 700s: the Great Antiphons behind O Come, O Come, Emmanuel. 1535: Luther's Vom Himmel hoch is printed at Wittenberg; Nicolai's Wachet auf follows in 1599. 1582: Piae Cantiones prints tunes later used for Of the Father's Love and Good King Wenceslas. 1816 to 1817: the oldest known copy of The First Nowell, a Cornish manuscript. 1966: the tune of O Come, O Come, Emmanuel is traced to a 15th-century French processional.</desc>
+<rect width="700" height="558" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Six old layers of Christmas hymns</text>
+<rect x="40" y="70" width="110" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="95" y="105" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">c. 400</text>
+<text x="166" y="92" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Prudentius's Hymn for All Hours; the Liturgy of St. James</text>
+<text x="166" y="114" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">(Orthodox form, late 4th or early 5th century).</text>
+<line x1="95" y1="126" x2="95" y2="148" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="148" width="110" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="95" y="183" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">700s</text>
+<text x="166" y="170" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The Great Antiphons behind O Come, O Come, Emmanuel;</text>
+<text x="166" y="192" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">the oldest complete manuscript is 9th century.</text>
+<line x1="95" y1="204" x2="95" y2="226" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="226" width="110" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="95" y="261" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1535</text>
+<text x="166" y="248" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Luther's Vom Himmel hoch is printed at Wittenberg;</text>
+<text x="166" y="270" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Nicolai's Wachet auf follows at Frankfurt in 1599.</text>
+<line x1="95" y1="282" x2="95" y2="304" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="304" width="110" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="95" y="339" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1582</text>
+<text x="166" y="326" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Piae Cantiones prints the tunes later used for</text>
+<text x="166" y="348" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Of the Father's Love and Good King Wenceslas.</text>
+<line x1="95" y1="360" x2="95" y2="382" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="382" width="110" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="95" y="417" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1816-17</text>
+<text x="166" y="404" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The oldest known copy of The First Nowell is a Cornish</text>
+<text x="166" y="426" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">manuscript; the word 'nowell' itself is far older.</text>
+<line x1="95" y1="438" x2="95" y2="460" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="460" width="110" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="95" y="495" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1966</text>
+<text x="166" y="482" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">The tune of O Come, O Come, Emmanuel is found in a</text>
+<text x="166" y="504" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">15th-century French processional.</text>
+</svg>
