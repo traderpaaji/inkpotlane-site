@@ -5,6 +5,8 @@
  var status=document.getElementById('status'),list=document.getElementById('wlist'),win=document.getElementById('win'),cur=[0,0],start=null,found={};
  function idx(r,c){return r*N+c}
  function say(t){status.textContent=t}
+ /* 12 Nov 2026: two anonymous GA4 events for the home-page mini game (first pick, all five found) */
+ function hev(n){try{if(window.gtag)window.gtag('event',n,{page:location.pathname})}catch(e){}}var hstarted=false;
  function build(){G.innerHTML='';start=null;found={};cur=[0,0];
   for(var r=0;r<N;r++)for(var c=0;c<N;c++){var x=document.createElement('button');x.type='button';x.textContent=grid[r][c];x.dataset.r=r;x.dataset.c=c;x.setAttribute('data-cell','1');
    x.tabIndex=(r===0&&c===0)?0:-1;x.setAttribute('aria-label','Row '+(r+1)+', column '+(c+1)+', letter '+grid[r][c]);
@@ -17,7 +19,7 @@
   if(!d)return;e.preventDefault();cur=[Math.max(0,Math.min(N-1,cur[0]+d[0])),Math.max(0,Math.min(N-1,cur[1]+d[1]))];rove().focus()});
  function line(a,b){var dr=b[0]-a[0],dc=b[1]-a[1],n=Math.max(Math.abs(dr),Math.abs(dc));
   if(n===0||(dr!==0&&dc!==0&&Math.abs(dr)!==Math.abs(dc)))return null;var sr=Math.sign(dr),sc=Math.sign(dc),o=[];for(var i=0;i<=n;i++)o.push([a[0]+sr*i,a[1]+sc*i]);return o}
- function pick(r,c){var bt=G.children;
+ function pick(r,c){var bt=G.children;if(!hstarted){hstarted=true;hev('hm_start')}
   if(!start){start=[r,c];bt[idx(r,c)].setAttribute('aria-pressed','true');say('First letter chosen: '+grid[r][c]+', row '+(r+1)+', column '+(c+1)+'. Now choose the last letter.');return}
   var s0=start;bt[idx(s0[0],s0[1])].removeAttribute('aria-pressed');start=null;var cells=line(s0,[r,c]);
   if(!cells){say('Those two letters are not in a straight line. Choose a first letter to try again.');return}
@@ -26,7 +28,7 @@
   if(w&&!found[w]){found[w]=1;cells.forEach(function(x){var q=bt[idx(x[0],x[1])];q.classList.add('found');q.setAttribute('aria-label',q.getAttribute('aria-label')+', part of found word '+w)});
    var li=list.querySelector('[data-w='+w+']');li.className='done';li.querySelector('.sr').textContent=' (found)';
    var n=Object.keys(found).length;say('Found '+w+', '+n+' of '+words.length+' words.');
-   if(n===words.length){say('Found '+w+', '+n+' of '+words.length+' words. All five found.');win.style.display='block'}}
+   if(n===words.length){say('Found '+w+', '+n+' of '+words.length+' words. All five found.');win.style.display='block';hev('hm_solve')}}
   else if(w){say(w+' is already found.')}
   else say('That is not one of the words. Try again.')}
  function dirText(c){var a=c[0],b=c[c.length-1],dr=Math.sign(b[0]-a[0]),dc=Math.sign(b[1]-a[1]);

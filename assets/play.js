@@ -149,6 +149,14 @@ function finish(revealed){st.over=true;if(st.lock)st.lock();hintB.disabled=true;
  say((revealed?'Answer shown. ':'Solved. ')+$('pl-done-stars').textContent+(badge?' '+badge:''));done.focus()}
 $('pl-next').addEventListener('click',function(){level=level+1;start(true)});
 $('pl-again').addEventListener('click',function(){start(true)});
+/* 12 Nov 2026: 'Challenge a friend' - shares the level link only (never an answer); pl_share says how it went out */
+(function(){var sh=$('pl-share');if(!sh)return;sh.addEventListener('click',function(){
+ var nm=type==='wd'?'whodunit':'word search',url='https://inkpotlane.com/play/?type='+type,
+  txt='I just played '+nm+' level '+level+' at Inkpot Lane. Free puzzles, no sign-up. Can you beat it?';
+ function copied(ok){say(ok?'Link copied. Paste it into a message to a friend.':'Copy this link to share it: '+url)}
+ if(navigator.share){navigator.share({title:'Inkpot Lane free puzzles',text:txt,url:url}).then(function(){ev('pl_share',{puzzle_type:type,level:level,method:'share'})},function(){})}
+ else if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt+' '+url).then(function(){copied(true);ev('pl_share',{puzzle_type:type,level:level,method:'copy'})},function(){copied(false)})}
+ else copied(false)})})();
 [].forEach.call(document.querySelectorAll('.pl-hub a'),function(a){a.addEventListener('click',function(){ev(a.getAttribute('data-ev'))})});
 if(/[?&]utm_source=|[?&]from=/.test(location.search)||document.referrer.indexOf('instagram')>-1||document.referrer.indexOf('facebook')>-1)ev('hub_landing',{via:document.referrer?'referrer':'tagged link'});
 drawTally();start(false);

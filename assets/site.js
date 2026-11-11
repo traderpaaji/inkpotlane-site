@@ -1,5 +1,5 @@
-/* Inkpot Lane site script: phone menu, scrollable rows, the monthly-puzzle e-mail form. The only analytics line here is one
-   anonymous Google Analytics event when the sign-up form is sent (pack_signup, no address), for the challenge measurement plan. */
+/* Inkpot Lane site script: phone menu, scrollable rows, the monthly-puzzle e-mail form. Analytics here: one anonymous Google
+   Analytics event when the sign-up form is sent (pack_signup, no address), and one per click on a play link (cta_play, nav_play). */
 (function(){
  var b=document.getElementById('burger'),m=document.getElementById('menu'),main=document.getElementById('main'),foot=document.querySelector('footer');
  function setInert(v){[main,foot].forEach(function(x){if(x){if(v)x.setAttribute('inert','');else x.removeAttribute('inert')}})}
@@ -14,6 +14,10 @@
  }
  /* a sideways-scrolling row or wide table gets a tab stop only when it really scrolls (so a keyboard user can scroll it) */
  function rails(){[].slice.call(document.querySelectorAll('[data-rail]')).forEach(function(r){if(r.scrollWidth>r.clientWidth+2)r.setAttribute('tabindex','0');else r.removeAttribute('tabindex')})}
+ /* 12 Nov 2026: one anonymous GA4 event per click on a 'play free puzzles' link (header, menu, home, article and book
+    bands), so we can see which doorway brings players to /play/. Name = the link's data-ev, place = data-where. */
+ document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-ev^="cta_"],a[data-ev^="nav_"]');
+  if(a){try{if(window.gtag)window.gtag('event',a.getAttribute('data-ev'),{where:a.getAttribute('data-where')||'header',page:location.pathname})}catch(x){}}});
  rails();window.addEventListener('resize',rails);window.addEventListener('load',rails);
  if(document.fonts&&document.fonts.ready)document.fonts.ready.then(rails);
  if(window.ResizeObserver){[].slice.call(document.querySelectorAll('[data-rail]')).forEach(function(r){new ResizeObserver(rails).observe(r)})}
