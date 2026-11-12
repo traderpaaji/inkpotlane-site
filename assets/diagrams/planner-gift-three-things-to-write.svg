@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 382" width="700" height="382" role="img">
+<title>If you write in a planner before you give it, three small things: a line on the first page, one date you have agreed to share, and their name.</title>
+<desc>Three numbered cards. 1: A line on the first page. Say why you chose it for them, in your own handwriting. 2: One date you have agreed to share. A lunch, a walk, a call: on its day, or on the dates page. 3: Their name. On the line that says who the planner belongs to. A line underneath: a few words in it can make the first page easier to begin.</desc>
+<rect width="700" height="382" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">If you write in it: three small things</text>
+<rect x="40" y="70" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="105" r="20" fill="#2f6f3a"/>
+<text x="80" y="112" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="118" y="100" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A line on the first page</text>
+<text x="118" y="125" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Say why you chose it for them, in your own handwriting.</text>
+<rect x="40" y="154" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="189" r="20" fill="#2f6f3a"/>
+<text x="80" y="196" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="118" y="184" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One date you have agreed to share</text>
+<text x="118" y="209" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A lunch, a walk, a call: on its day, or on the dates page.</text>
+<rect x="40" y="238" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="273" r="20" fill="#2f6f3a"/>
+<text x="80" y="280" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="118" y="268" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Their name</text>
+<text x="118" y="293" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">On the line that says who the planner belongs to.</text>
+<text x="350" y="340" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">A few words in it can make the first page easier to begin.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400" role="img">
+<title>Is a planner a good gift? Yes when the person has named a plan, is starting something new, writes by hand, and you can add a note inside or on a card. Think again when they run on a phone calendar, already love one kind of planner, might read it as a hint, or you are choosing for yourself.</title>
+<desc>Two columns of four boxes. Yes, when: they have named a plan for next year; they are starting something new; they write things down by hand; you can add a note inside or on a card. Think again when: they run happily on a phone calendar; they already love one kind of planner; it could read as a hint to do better; you would be choosing it for yourself. A line underneath: not sure when they will start? Choose an undated planner.</desc>
+<rect width="700" height="400" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Is a planner a good gift?</text>
+<text x="190" y="86" font-size="20" fill="#2f6f3a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Yes, when</text>
+<text x="510" y="86" font-size="20" fill="#b8323a" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Think again when</text>
+<rect x="40" y="104" width="300" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="190" y="136" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">They have named a plan for next year</text>
+<rect x="360" y="104" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="510" y="136" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">They run happily on a phone calendar</text>
+<rect x="40" y="168" width="300" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="190" y="200" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">They are starting something new</text>
+<rect x="360" y="168" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="510" y="200" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">They already love one kind of planner</text>
+<rect x="40" y="232" width="300" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="190" y="264" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">They write things down by hand</text>
+<rect x="360" y="232" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="510" y="264" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">It could read as a hint to do better</text>
+<rect x="40" y="296" width="300" height="52" rx="6" fill="#ffffff" stroke="#2f6f3a" stroke-width="2"/>
+<text x="190" y="328" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">You can add a note inside or on a card</text>
+<rect x="360" y="296" width="300" height="52" rx="6" fill="#eceef4" stroke="#b8323a" stroke-width="2"/>
+<text x="510" y="328" font-size="15" fill="#2b2620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">You would be choosing it for yourself</text>
+<text x="350" y="382" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Not sure when they will start? Choose an undated planner.</text>
+</svg>

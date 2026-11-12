@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 382" width="700" height="382" role="img">
+<title>Three pages to look at before you buy a planner: the first dated page, one full week or day, and the pages before the calendar.</title>
+<desc>Three numbered cards. 1: The first dated page. Where does the first week begin: in December, or in January? 2: One full week or day. Is there room for your handwriting, and for a real day? 3: The pages before the calendar. Goal pages, trackers, prompts: will you use them? A line underneath: 1 January 2027 is a Friday; the Monday before it is 28 December 2026.</desc>
+<rect width="700" height="382" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Three pages to look at before you buy</text>
+<rect x="40" y="70" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="105" r="20" fill="#4f2840"/>
+<text x="80" y="112" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="118" y="100" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The first dated page</text>
+<text x="118" y="125" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Where does the first week begin: in December, or in January?</text>
+<rect x="40" y="154" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="189" r="20" fill="#4f2840"/>
+<text x="80" y="196" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="118" y="184" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">One full week or day</text>
+<text x="118" y="209" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Is there room for your handwriting, and for a real day?</text>
+<rect x="40" y="238" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="273" r="20" fill="#4f2840"/>
+<text x="80" y="280" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="118" y="268" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The pages before the calendar</text>
+<text x="118" y="293" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Goal pages, trackers, prompts: will you use them?</text>
+<text x="350" y="340" font-size="16" fill="#6b6358" text-anchor="middle" font-style="italic" font-family="Georgia, 'Times New Roman', serif">1 January 2027 is a Friday. The Monday before it is 28 December 2026.</text>
+</svg>
