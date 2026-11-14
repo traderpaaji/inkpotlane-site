@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 510" width="700" height="510" role="img">
+<title>Five habits that turn an answer into a story: start with a thing, ask for one day, let the quiet work, follow the surprise, and keep what you hear.</title>
+<desc>Five numbered cards. 1: Start with a thing, not a year, for example: what did your mother cook on Sundays? 2: Ask for one day, for example: tell me about one Christmas morning you remember. 3: Let the quiet do its work: count to five before you fill a pause. 4: Follow the surprise: a name you have never heard is worth more than the list. 5: Keep it: write it down that evening, or ask before you record.</desc>
+<rect width="700" height="510" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Five habits that turn an answer into a story</text>
+<rect x="40" y="70" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="105" r="20" fill="#2f6f3a"/>
+<text x="80" y="112" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1</text>
+<text x="118" y="100" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Start with a thing, not a year</text>
+<text x="118" y="125" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">"What did your mother cook on Sundays?"</text>
+<rect x="40" y="154" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="189" r="20" fill="#2f6f3a"/>
+<text x="80" y="196" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">2</text>
+<text x="118" y="184" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Ask for one day</text>
+<text x="118" y="209" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">"Tell me about one Christmas morning you remember."</text>
+<rect x="40" y="238" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="273" r="20" fill="#2f6f3a"/>
+<text x="80" y="280" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">3</text>
+<text x="118" y="268" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Let the quiet do its work</text>
+<text x="118" y="293" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Count to five before you fill a pause.</text>
+<rect x="40" y="322" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="357" r="20" fill="#2f6f3a"/>
+<text x="80" y="364" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">4</text>
+<text x="118" y="352" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Follow the surprise</text>
+<text x="118" y="377" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">A name you have never heard is worth more than the list.</text>
+<rect x="40" y="406" width="620" height="70" rx="8" fill="#ffffff" stroke="#d9d1c3" stroke-width="2"/>
+<circle cx="80" cy="441" r="20" fill="#2f6f3a"/>
+<text x="80" y="448" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">5</text>
+<text x="118" y="436" font-size="19" fill="#2b2620" text-anchor="start" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Keep it</text>
+<text x="118" y="461" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Write it down that evening, or ask before you record.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" width="700" height="480" role="img">
+<title>Looking closely at snowflakes: Kepler's essay of 1611, Descartes in 1637, Wilson Bentley's first snow crystal photograph in 1885, the book Snow Crystals in 1931 and Ukichiro Nakaya's first laboratory snow crystals in 1936.</title>
+<desc>A vertical timeline of five dated entries. 1611: Johannes Kepler's essay The Six-Cornered Snowflake asks why snow crystals have six corners. 1637: Rene Descartes describes snow crystals in detail by eye and recognizes the capped column. 15 January 1885: Wilson Bentley, aged 19, makes the first photograph of a snow crystal near Jericho, Vermont. 1931: the book Snow Crystals, written with W. J. Humphreys, prints more than 2,000 of his photographs, and Bentley dies on 23 December. 1936: Ukichiro Nakaya grows the first snow crystals in a laboratory, on a single rabbit hair.</desc>
+<rect width="700" height="480" fill="#fbf8f2"/>
+<text x="350" y="40" font-size="24" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Looking closely at snowflakes</text>
+<rect x="40" y="70" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="105" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1611</text>
+<text x="152" y="92" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Kepler's essay The Six-Cornered Snowflake asks</text>
+<text x="152" y="114" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">why snow crystals have six corners.</text>
+<line x1="88" y1="126" x2="88" y2="148" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="148" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="183" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1637</text>
+<text x="152" y="170" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Descartes describes snow crystals in detail,</text>
+<text x="152" y="192" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">by eye, and recognizes the capped column.</text>
+<line x1="88" y1="204" x2="88" y2="226" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="226" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="261" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1885</text>
+<text x="152" y="248" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">15 January: Wilson Bentley, 19, makes the first</text>
+<text x="152" y="270" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">photograph of a snow crystal, near Jericho, Vermont.</text>
+<line x1="88" y1="282" x2="88" y2="304" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="304" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="339" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1931</text>
+<text x="152" y="326" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Snow Crystals, with W. J. Humphreys, prints over</text>
+<text x="152" y="348" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">2,000 of his photos. Bentley dies on 23 December.</text>
+<line x1="88" y1="360" x2="88" y2="382" stroke="#d9d1c3" stroke-width="2"/>
+<rect x="40" y="382" width="96" height="56" rx="6" fill="#eceef4" stroke="#2b2620" stroke-width="2"/>
+<text x="88" y="417" font-size="17" fill="#2b2620" text-anchor="middle" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">1936</text>
+<text x="152" y="404" font-size="16" fill="#2b2620" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">Ukichiro Nakaya grows the first snow crystals</text>
+<text x="152" y="426" font-size="16" fill="#6b6358" text-anchor="start" font-family="Georgia, 'Times New Roman', serif">in a laboratory, on a single rabbit hair.</text>
+</svg>
